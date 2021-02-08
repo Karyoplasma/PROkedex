@@ -1,6 +1,6 @@
 package core;
 
-public class LandSpawn {
+public class LandSpawn implements Spawn{
 	private String route, pokemon, item;
 	private int tier, maxLvl, minLvl;
 	private boolean ms;
@@ -51,5 +51,33 @@ public class LandSpawn {
 	@Override
 	public String toString() {
 		return String.format("%s\t%s\tTier: %d\tMS: %s\t%s", route, pokemon, tier, ms ? "Yes" : "No", (item == null) ? "-" : item);
+	}
+
+	@Override
+	public int getRouteLength() {
+		return this.route.length();
+	}
+
+	@Override
+	public int getPokemonLength() {
+		return this.pokemon.length();
+	}
+
+	@Override
+	public boolean isFishOnly() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean isSurfOnly() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public String getRod() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

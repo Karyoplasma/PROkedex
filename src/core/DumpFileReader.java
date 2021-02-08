@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 import org.json.simple.JSONArray;
@@ -15,18 +14,16 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 public class DumpFileReader {
-	Map<String, Collection<LandSpawn>> landSpawnsRoute, landSpawnsPokemon;
-	Map<String, Collection<SurfSpawn>> surfSpawnsPokemon;
-	Map<String, Collection<SurfSpawn>> surfSpawnsRoute;
+	private Map<String, Collection<Spawn>> spawnsRoute, spawnsPokemon, spawnsItems;
 
 	public DumpFileReader() {
-		this.landSpawnsRoute = new HashMap<String, Collection<LandSpawn>>();
-		this.landSpawnsPokemon = new HashMap<String, Collection<LandSpawn>>();
-		this.surfSpawnsRoute = new HashMap<String, Collection<SurfSpawn>>();
-		this.surfSpawnsPokemon = new HashMap<String, Collection<SurfSpawn>>();
+		this.spawnsRoute = new HashMap<String, Collection<Spawn>>();
+		this.spawnsPokemon = new HashMap<String, Collection<Spawn>>();		
+		this.spawnsItems = new HashMap<String, Collection<Spawn>>();
 	}
 
-	private void processLandSpawns() throws FileNotFoundException, IOException, ParseException {
+	
+	public void processSpawns() throws FileNotFoundException, IOException, ParseException {
 		JSONParser parser = new JSONParser();
 		JSONArray ja = (JSONArray) parser.parse(new FileReader("resources/land_spawns.json"));
 
@@ -42,27 +39,33 @@ public class DumpFileReader {
 			JSONArray temp = (JSONArray) obj.get("Daytime");
 			int[] time = new int[] {Integer.parseInt(Long.toString((long) temp.get(0))), Integer.parseInt(Long.toString((long) temp.get(1))), Integer.parseInt(Long.toString((long) temp.get(2)))};
 			LandSpawn s = new LandSpawn(map, pokemon, tier, ms, item, minLvl, maxLvl, time);
-			if (this.landSpawnsRoute.containsKey(map)) {
-				this.landSpawnsRoute.get(map).add(s);
+			if (this.spawnsRoute.containsKey(map)) {
+				this.spawnsRoute.get(map).add(s);
 			} else {
-				ArrayList<LandSpawn> put = new ArrayList<LandSpawn>();
+				Collection<Spawn> put = new ArrayList<Spawn>();
 				put.add(s);
-				this.landSpawnsRoute.put(map, put);
+				this.spawnsRoute.put(map, put);
 				
 			}
-			if (this.landSpawnsPokemon.containsKey(pokemon)) {
-				this.landSpawnsPokemon.get(pokemon).add(s);
+			if (this.spawnsPokemon.containsKey(pokemon)) {
+				this.spawnsPokemon.get(pokemon).add(s);
 			} else {
-				ArrayList<LandSpawn> put = new ArrayList<LandSpawn>();
+				ArrayList<Spawn> put = new ArrayList<Spawn>();
 				put.add(s);
-				this.landSpawnsPokemon.put(pokemon, put);				
+				this.spawnsPokemon.put(pokemon, put);				
+			}
+			if (item != null) {
+				if (this.spawnsItems.containsKey(item)) {
+					this.spawnsItems.get(item).add(s);
+				} else {
+					ArrayList<Spawn> put = new ArrayList<Spawn>();
+					put.add(s);
+					this.spawnsItems.put(item, put);
+				}
 			}
 		}
-	}
-	
-	private void processSurfSpawns() throws FileNotFoundException, IOException, ParseException {
-		JSONParser parser = new JSONParser();
-		JSONArray ja = (JSONArray) parser.parse(new FileReader("resources/surf_spawns.json"));
+		
+		ja = (JSONArray) parser.parse(new FileReader("resources/surf_spawns.json"));
 
 		for (int i = 0; i < ja.size(); i++) {
 			JSONObject obj = (JSONObject) ja.get(i);
@@ -91,44 +94,43 @@ public class DumpFileReader {
 				fishOnly = false;
 			}
 			SurfSpawn s = new SurfSpawn(map, pokemon, tier, ms, item, minLvl, maxLvl, rod, fishOnly, surfOnly, time);
-			if (this.surfSpawnsRoute.containsKey(map)) {
-				this.surfSpawnsRoute.get(map).add(s);
+			if (this.spawnsRoute.containsKey(map)) {
+				this.spawnsRoute.get(map).add(s);
 			} else {
-				ArrayList<SurfSpawn> put = new ArrayList<SurfSpawn>();
+				ArrayList<Spawn> put = new ArrayList<Spawn>();
 				put.add(s);
-				this.surfSpawnsRoute.put(map, put);
+				this.spawnsRoute.put(map, put);
 				
 			}
-			if (this.surfSpawnsPokemon.containsKey(pokemon)) {
-				this.surfSpawnsPokemon.get(pokemon).add(s);
+			if (this.spawnsPokemon.containsKey(pokemon)) {
+				this.spawnsPokemon.get(pokemon).add(s);
 			} else {
-				ArrayList<SurfSpawn> put = new ArrayList<SurfSpawn>();
+				ArrayList<Spawn> put = new ArrayList<Spawn>();
 				put.add(s);
-				this.surfSpawnsPokemon.put(pokemon, put);
+				this.spawnsPokemon.put(pokemon, put);
 				
+			}
+			if (item != null) {
+				if (this.spawnsItems.containsKey(item)) {
+					this.spawnsItems.get(item).add(s);
+				} else {
+					ArrayList<Spawn> put = new ArrayList<Spawn>();
+					put.add(s);
+					this.spawnsItems.put(item, put);
+				}
 			}
 		}
 	}
 	
-	public void readSpawns() throws FileNotFoundException, IOException, ParseException {
-		this.processLandSpawns();
-		this.processSurfSpawns();
+	public Map<String, Collection<Spawn>> getSpawnsRoute() {
+		return spawnsRoute;
 	}
 
-	public Map<String, Collection<LandSpawn>> getLandSpawnsRoute() {
-		return landSpawnsRoute;
-	}
-
-	public Map<String, Collection<LandSpawn>> getLandSpawnsPokemon() {
-		return landSpawnsPokemon;
-	}
-
-	public Map<String, Collection<SurfSpawn>> getSurfSpawnsPokemon() {
-		return surfSpawnsPokemon;
-	}
-
-	public Map<String, Collection<SurfSpawn>> getSurfSpawnsRoute() {
-		return surfSpawnsRoute;
-	}
+	public Map<String, Collection<Spawn>> getSpawnsPokemon() {
+		return spawnsPokemon;
+	}	
 	
+	public Map<String, Collection<Spawn>> getSpawnsItem() {
+		return spawnsItems;
+	}
 }

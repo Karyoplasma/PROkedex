@@ -39,7 +39,6 @@ public class PROkedexGui implements ActionListener{
 	private JButton btnSearch;
 	private DumpFileReader dumpReader;
 	private JCheckBox chckbxRepel;
-	private final int distanceThreshold = 2;
 	private JTextField textFieldItem;
 	/**
 	 * Launch the application.
@@ -159,11 +158,23 @@ public class PROkedexGui implements ActionListener{
 					}
 				}
 				pokemon = pokemon.trim();
+				String smallestDistancePokemon = "";
+				int smallestDistance = Integer.MAX_VALUE;
 				for (Map.Entry<String, Collection<Spawn>> pokemonEntry : dumpReader.getSpawnsPokemon().entrySet()) {
-					if (calculateLevenshteinDistance(pokemonEntry.getKey(), pokemon) <= this.distanceThreshold) {
-						pokemon = pokemonEntry.getKey();
+					int distance = calculateLevenshteinDistance(pokemonEntry.getKey(), pokemon);
+					if (distance == 0) {
+						smallestDistance = 0;
+						smallestDistancePokemon = pokemonEntry.getKey();
 						break;
+					} else {
+						if (distance < smallestDistance) {
+							smallestDistance = distance;
+							smallestDistancePokemon = pokemonEntry.getKey();
+						}
 					}
+				}
+				if (smallestDistance != 0) {
+					pokemon = smallestDistancePokemon;
 				}
 				if (chckbxRepel.isSelected()) {
 					lblResults.setText("Repel spawns for " + pokemon + ":");

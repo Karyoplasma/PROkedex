@@ -15,4 +15,4 @@ Uses:
 
 Quick release link:
 
-https://github.com/Karyoplasma/PROkedex/releases/tag/1.0.0
+https://github.com/Karyoplasma/PROkedex/releases/tag/1.0.1

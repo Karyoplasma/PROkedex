@@ -16,6 +16,8 @@ import java.util.Map.Entry;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
+import javax.swing.KeyStroke;
+
 import org.json.simple.parser.ParseException;
 import core.DumpFileReader;
 import core.Spawn;
@@ -26,9 +28,10 @@ import core.comparators.ComparatorTier;
 import javax.swing.JCheckBox;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
+import javax.swing.AbstractAction;
 import javax.swing.JButton;
 
-public class PROkedexGui implements ActionListener{
+public class PROkedexGui implements ActionListener {
 
 	private JFrame frmProkedex;
 	private JTextField textFieldPokemon;
@@ -83,6 +86,21 @@ public class PROkedexGui implements ActionListener{
 		textFieldPokemon = new JTextField();
 		textFieldPokemon.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		textFieldPokemon.setBounds(83, 9, 550, 20);
+		textFieldPokemon.getInputMap().put(KeyStroke.getKeyStroke("ENTER"), "clickButton");
+		textFieldPokemon.getActionMap().put("clickButton", new AbstractAction() {
+
+			/**
+			 * 
+			 */
+			private static final long serialVersionUID = 1757253470399811657L;
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				btnSearch.doClick();
+				
+			}
+			
+		});
 		frmProkedex.getContentPane().add(textFieldPokemon);
 		textFieldPokemon.setColumns(10);
 		
@@ -94,6 +112,21 @@ public class PROkedexGui implements ActionListener{
 		textFieldArea = new JTextField();
 		textFieldArea.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		textFieldArea.setBounds(83, 37, 677, 20);
+		textFieldArea.getInputMap().put(KeyStroke.getKeyStroke("ENTER"), "clickButton");
+		textFieldArea.getActionMap().put("clickButton", new AbstractAction() {
+
+			/**
+			 * 
+			 */
+			private static final long serialVersionUID = 4959207759451764629L;
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				btnSearch.doClick();
+				
+			}
+			
+		});
 		frmProkedex.getContentPane().add(textFieldArea);
 		textFieldArea.setColumns(10);
 		
@@ -130,6 +163,21 @@ public class PROkedexGui implements ActionListener{
 		textFieldItem = new JTextField();
 		textFieldItem.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		textFieldItem.setBounds(83, 65, 677, 23);
+		textFieldItem.getInputMap().put(KeyStroke.getKeyStroke("ENTER"), "clickButton");
+		textFieldItem.getActionMap().put("clickButton", new AbstractAction() {
+
+			/**
+			 * 
+			 */
+			private static final long serialVersionUID = -2249563704002091053L;
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				btnSearch.doClick();
+				
+			}
+			
+		});
 		frmProkedex.getContentPane().add(textFieldItem);
 		textFieldItem.setColumns(10);
 		
@@ -140,7 +188,6 @@ public class PROkedexGui implements ActionListener{
 			// TODO Auto-generated catch block
 			lblResults.setText("Something went horribly wrong during DumpFileReader initialization!");
 		}
-		
 	}
 
 	@Override
@@ -188,25 +235,33 @@ public class PROkedexGui implements ActionListener{
 				this.blankTextFields();
 			} else {
 				if (! textFieldArea.getText().isEmpty()) {
-					txtAreaResults.setText("");
 					String area = textFieldArea.getText().toLowerCase();
 					String[] areaSplit = area.split("\\s+");
-					area = "";
-					for (String s : areaSplit) {
-						if (this.stringHasDigits(s)) {
-							area += s.toUpperCase() + " ";
-						} else {
-							area += s.substring(0, 1).toUpperCase() + s.substring(1, s.length()) + " ";
+					if (area.startsWith("#")) {
+						int areaCode = Integer.parseInt(area.substring(1, area.length()));
+						area = txtAreaResults.getText().split("\n")[areaCode - 1];
+						area = area.trim();
+						area = area.substring(area.indexOf(' '), area.length());
+					} else {
+						area = "";
+						for (String s : areaSplit) {
+							if (this.stringHasDigits(s)) {
+								area += s.toUpperCase() + " ";
+							} else {
+								area += s.substring(0, 1).toUpperCase() + s.substring(1, s.length()) + " ";
+							}
 						}
-					}
+					}			
 					area = area.trim();
 					HashMap<Integer, Collection<String>> routeCorrection = new HashMap<Integer, Collection<String>>();
-					for (Map.Entry<String, Collection<Spawn>> routeEntry : dumpReader.getSpawnsRoute().entrySet()) {
-						int key = calculateLevenshteinDistance(routeEntry.getKey(), area);
-						if (key == 0) {
-							routeCorrection.clear();
-							break;
-						} else {
+					if (!dumpReader.getSpawnsRoute().containsKey(area)) {
+						for (Map.Entry<String, Collection<Spawn>> routeEntry : dumpReader.getSpawnsRoute().entrySet()) {
+							int key = Integer.MAX_VALUE;
+							if (routeEntry.getKey().contains(area)) {
+								key = 1;
+							} else {
+								key = calculateLevenshteinDistance(routeEntry.getKey(), area);
+							}
 							if (routeCorrection.containsKey(key)) {
 								routeCorrection.get(key).add(routeEntry.getKey());
 							} else {
@@ -214,8 +269,9 @@ public class PROkedexGui implements ActionListener{
 								put.add(routeEntry.getKey());
 								routeCorrection.put(key, put);
 							}
-						}
+						}					
 					}
+					txtAreaResults.setText("");
 					if (routeCorrection.isEmpty()) {
 						lblResults.setText("Results for " + area + ":");
 						txtAreaResults.append(this.getSpawnsArea(area));
@@ -232,35 +288,44 @@ public class PROkedexGui implements ActionListener{
 					}
 				} else {
 					if (!textFieldItem.getText().isEmpty()) {
-						txtAreaResults.setText("");
 						String item = textFieldItem.getText().toLowerCase();
 						String[] itemSplit = item.split("\\s+");
-						item = "";
-						for (String s : itemSplit) {
-							if (this.stringHasDigits(s)) {
-								item += s.toUpperCase() + " ";
-							} else {
-								item += s.substring(0, 1).toUpperCase() + s.substring(1, s.length()) + " ";
-							}
-						}
-						item = item.trim();
-						HashMap<Integer, Collection<String>> itemCorrection = new HashMap<Integer, Collection<String>>();
-						for (Map.Entry<String, Collection<Spawn>> itemEntry : dumpReader.getSpawnsItem().entrySet()) {
-							int key = calculateLevenshteinDistance(itemEntry.getKey(), item);				
-								if (key == 0) {
-									itemCorrection.clear();
-									break;
+						if (item.startsWith("#")) {
+							int itemCode = Integer.parseInt(item.substring(1, item.length()));
+							item = txtAreaResults.getText().split("\n")[itemCode - 1];
+							item = item.trim();
+							item = item.substring(item.indexOf(' '), item.length());
+						} else {
+							item = "";
+							for (String s : itemSplit) {
+								if (this.stringHasDigits(s)) {
+									item += s.toUpperCase() + " ";
 								} else {
-									if (itemCorrection.containsKey(key)) {
-										itemCorrection.get(key).add(itemEntry.getKey());
-									} else {
-										ArrayList<String> put = new ArrayList<String>();
-										put.add(itemEntry.getKey());
-										itemCorrection.put(key, put);
-									}
+									item += s.substring(0, 1).toUpperCase() + s.substring(1, s.length()) + " ";
 								}
 							}
-						if (itemCorrection.size() <= 1) {
+						}	
+						item = item.trim();
+						HashMap<Integer, Collection<String>> itemCorrection = new HashMap<Integer, Collection<String>>();
+						if (!dumpReader.getSpawnsItem().containsKey(item)) {
+							for (Map.Entry<String, Collection<Spawn>> itemEntry : dumpReader.getSpawnsItem().entrySet()) {
+								int key = Integer.MAX_VALUE;
+								if (itemEntry.getKey().contains(item)) {
+									key = 1;
+								} else {
+									key = calculateLevenshteinDistance(itemEntry.getKey(), item);			
+								}
+								if (itemCorrection.containsKey(key)) {
+									itemCorrection.get(key).add(itemEntry.getKey());
+								} else {
+									ArrayList<String> put = new ArrayList<String>();
+									put.add(itemEntry.getKey());
+									itemCorrection.put(key, put);
+								}
+							}
+						}
+						txtAreaResults.setText("");
+						if (itemCorrection.isEmpty()) {
 							lblResults.setText("Results for " + item + ":");
 							txtAreaResults.append(this.getItemSpawn(item));
 							if (txtAreaResults.getText().equals("")) {
@@ -281,13 +346,22 @@ public class PROkedexGui implements ActionListener{
 	}
 	
 	private void presentItemCorrections(HashMap<Integer, Collection<String>> itemCorrection) {
+		int threshold = 4;
+		int i = 0;
 		for (Entry<Integer, Collection<String>> area : itemCorrection.entrySet()) {
-			if (area.getKey() < 4) {
+			if (area.getKey() < threshold) {
 				for(String s : area.getValue()) {
+					txtAreaResults.append("[#" + ++i + "] ");
 					txtAreaResults.append(s);
 					txtAreaResults.append(System.getProperty("line.separator"));
 				}
 			}
+		}
+		if (!txtAreaResults.getText().equals("")) {
+			txtAreaResults.setCaretPosition(0);
+			textFieldItem.setText("#");
+			textFieldItem.grabFocus();
+			textFieldItem.setCaretPosition(1);
 		}
 		
 	}
@@ -355,14 +429,24 @@ public class PROkedexGui implements ActionListener{
 	}
 
 	private void presentRouteCorrections(HashMap<Integer, Collection<String>> routeCorrection) {
+		int i = 0;
+		int threshold = 6;
 		for (Entry<Integer, Collection<String>> area : routeCorrection.entrySet()) {
-			if (area.getKey() < 6) {
+			if (area.getKey() < threshold) {
 				for(String s : area.getValue()) {
+					txtAreaResults.append("[#" + ++i + "] ");
 					txtAreaResults.append(s);
 					txtAreaResults.append(System.getProperty("line.separator"));
 				}
 			}
 		}
+		if (!txtAreaResults.getText().equals("")) {
+			txtAreaResults.setCaretPosition(0);
+			textFieldArea.setText("#");
+			textFieldArea.grabFocus();
+			textFieldArea.setCaretPosition(1);
+		}
+		
 	}
 
 	private String getSpawnsArea(String area) {

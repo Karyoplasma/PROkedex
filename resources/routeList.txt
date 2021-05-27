@@ -14,7 +14,7 @@ Battle Tower
 Bell Tower
 Berry Forest
 Blackthorn City
-Bond Bridge
+;Bond Bridge
 Breakers Beach
 Breakers Trench Underwater
 ;Breezy Cave
@@ -22,8 +22,11 @@ Breakers Trench Underwater
 ;Breezy Path
 ;Breezy Town
 Bug Catching Area
+Buring Strait Underwater
 Burned Tower Floor 2
 Burned Tower Top Floor
+Burring Strait
+;Burring Strait Under water
 Canyon Entrance
 Cape Brink
 Cape of Palpatoo
@@ -45,6 +48,8 @@ Cliff Cave 1F
 Cliff Cave 2F
 Cliff Cave B1F
 Cliff Edge Gate
+Corsica Island
+Crystal Cavern
 Dark Cave East
 Dark Cave North
 Dark Cave West
@@ -56,14 +61,21 @@ Dewford Town
 Diamond Domain 1F
 Diamond Domain B1F
 Diamond Domain Main Cave
+;Diamond Empire Ballroom
+;Diamond Empire East Wing
+;Diamond Empire Entry
+;Diamond Empire Foyer
+;Diamond Empire West Wing
 Digletts Cave
 Digletts Cave B2F
 Digletts Cave Entrance 1
 Digletts Cave Entrance 2
 Dock Island
+;Dragon Neck
 Dragons Den
 Dragons Den B1F
 Dragons Den Entrance
+;Dragons Neck
 Dragons Shrine
 Ecruteak City
 Enyor Island Forest
@@ -90,6 +102,9 @@ Fire Island Seaway
 Fishing Staff
 Five Island
 Five Isle Meadow
+Forest Dungeon Entrance
+Forest Maze
+Forest Maze Underground
 Forest Pit
 Four Island
 Frozen Cave
@@ -106,6 +121,7 @@ Granite Cave B2F
 Green Path
 ;Guild Island
 ;Guild Island Cave
+;Guild Island Falls
 ;Guild Island Forest
 High Tide Entrance Room
 Hoenn Safari Zone Area 1
@@ -178,6 +194,8 @@ Lost Tower 4F
 Love Island
 Low Tide Entrance Room
 Low Tide Ice Room
+Matsuki Courtyard
+;Medusas Cloud
 Memorial Pillar
 Meteor Falls 1F 1R
 Meteor Falls 1F 2R
@@ -190,6 +208,8 @@ Moon
 Moon 1F
 Moon B1F
 Mossdeep City
+Mountain Area Dungeon
+Mountain Area Maze
 Mt Silver 4F
 Mt Silver 5F
 Mt. Coronet 2F
@@ -204,16 +224,16 @@ Mt. Coronet North
 Mt. Coronet South
 Mt. Coronet Summit
 Mt. Coronet Tunnel
-Mt. Ember
-Mt. Ember Ruby Path 1F
-Mt. Ember Ruby Path B1F
-Mt. Ember Ruby Path B2F
-Mt. Ember Ruby Path B3F
-Mt. Ember Ruby Path B4F
-Mt. Ember Ruby Path B5F
-Mt. Ember Summit Path 1F
-Mt. Ember Summit Path 2F
-Mt. Ember Summit Path 3F
+;Mt. Ember
+;Mt. Ember Ruby Path 1F
+;Mt. Ember Ruby Path B1F
+;Mt. Ember Ruby Path B2F
+;Mt. Ember Ruby Path B3F
+;Mt. Ember Ruby Path B4F
+;Mt. Ember Ruby Path B5F
+;Mt. Ember Summit Path 1F
+;Mt. Ember Summit Path 2F
+;Mt. Ember Summit Path 3F
 Mt. Moon 1F
 Mt. Moon B1F
 Mt. Moon B2F
@@ -236,26 +256,27 @@ Mt. Silver Exterior
 Mt. Silver Lower Mountainside
 Mt. Silver Moltres Chamber
 Mt. Silver Upper Mountainside
-Mt. Summer 1F
-Mt. Summer 1F 2
-Mt. Summer 2F
-Mt. Summer 2F 2
-Mt. Summer 3F
-Mt. Summer 3F 2
-Mt. Summer 3F 2 2
-Mt. Summer 4F
-Mt. Summer 4F 2
-Mt. Summer Exterior
-Mt. Summer Exterior 2
-Murky Town
+;Mt. Summer 1F
+;Mt. Summer 1F 2
+;Mt. Summer 2F
+;Mt. Summer 2F 2
+;Mt. Summer 3F
+;Mt. Summer 3F 2
+;Mt. Summer 3F 2 2
+;Mt. Summer 4F
+;Mt. Summer 4F 2
+;Mt. Summer Exterior
+;Mt. Summer Exterior 2
+;Murky Town
 Nap Cave
 Nap Cave B1F
 Nap Forest
 Nap Shore
 Nap Town
 National Park
-Necropolis
+;Necropolis
 New Mauville
+;Nido Isle
 Old Chateau 1F
 Old Chateau 1F 1F
 Old Chateau 1F 2R
@@ -272,7 +293,7 @@ Oreburgh Gate 1F
 Oreburgh Gate B1F
 Oreburgh Mine B1F
 Oreburgh Mine B2F 1R
-Outcast Island
+;Outcast Island
 Pacifidlog Town
 Pal Park
 Pallet Town
@@ -486,7 +507,7 @@ Seaway Vein Extension
 Seaway Vein Frozen
 Secret Nap Area
 Sendoff Spring
-Sevault Canyon
+;Sevault Canyon
 Shamouti Island
 Shamouti Island Frozen
 Shamouti Seaway
@@ -552,18 +573,18 @@ Turnback Cave Final Room
 Turnback Cave First Pillar
 Turnback Cave Second Pillar
 Turnback Cave Third Pillar
-Uncanny Path
+;Uncanny Path
 Underground Path Sinnoh Entrance
 Underground Ruins
 Union Cave 1F
 Union Cave B1F
 Union Cave B2F
-Unison Mountain 1F
-Unison Mountain 2F
-Unison Mountain 3F
-Unison Mountain East Summit
-Unison Mountain South Summit
-Unison Mountain Summit
+;Unison Mountain 1F
+;Unison Mountain 2F
+;Unison Mountain 3F
+;Unison Mountain East Summit
+;Unison Mountain South Summit
+;Unison Mountain Summit
 Unknown Place
 Valley Of Steel Western Peak
 Valley Windworks
@@ -589,6 +610,7 @@ Vulcan Forest
 Vulcan Island Shore
 Vulcan Lava Pit
 Vulcan Path
+Wastelands
 Water Labyrinth
 Water Path
 Wayward Cave

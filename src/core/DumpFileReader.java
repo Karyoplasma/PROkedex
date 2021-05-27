@@ -1,12 +1,15 @@
 package core;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -155,10 +158,29 @@ public class DumpFileReader {
 		return spawnsItems;
 	}
 	
+	private void dumpRouteList() throws IOException {
+		BufferedWriter writer = new BufferedWriter(new FileWriter(new File("resources/routeList.txt")));
+		List<String> routesList = new ArrayList<String>();
+		for (Map.Entry<String, Collection<Spawn>> route : this.spawnsRoute.entrySet()) {
+			routesList.add(route.getKey());
+		}
+		Collections.sort(routesList);
+		StringBuffer buffer = new StringBuffer("; All routes with a leading ; will be ignored in spawn chance prediction. Use this to ban routes that are inaccessible at the moment.");
+		buffer.append(System.getProperty("line.separator"));
+		for (String s : routesList) {
+			buffer.append(s);
+			buffer.append(System.getProperty("line.separator"));
+		}
+		writer.write(buffer.toString());
+		writer.flush();
+		writer.close();
+	}
+	
 	public static void main(String[] args) {
 		DumpFileReader r = new DumpFileReader();
 		try{
 			r.processSpawns();
+			r.dumpRouteList();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}		

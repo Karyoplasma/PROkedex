@@ -21,6 +21,7 @@ import javax.swing.KeyStroke;
 import org.json.simple.parser.ParseException;
 import core.DumpFileReader;
 import core.Spawn;
+import core.SpawnChancePredictor;
 import core.SurfSpawn;
 import core.comparators.ComparatorPokemonLength;
 import core.comparators.ComparatorRouteStringLength;
@@ -185,7 +186,6 @@ public class PROkedexGui implements ActionListener {
 		try {
 			dumpReader.processSpawns();
 		} catch (IOException | ParseException e) {
-			// TODO Auto-generated catch block
 			lblResults.setText("Something went horribly wrong during DumpFileReader initialization!");
 		}
 	}
@@ -231,7 +231,7 @@ public class PROkedexGui implements ActionListener {
 				txtAreaResults.append(this.getSpawnsPokemon(pokemon, chckbxRepel.isSelected()));
 				if (txtAreaResults.getText().equals("")) {
 					txtAreaResults.setText("Pokemon/Map could not be found.");
-				}
+				} 
 				this.blankTextFields();
 			} else {
 				if (! textFieldArea.getText().isEmpty()) {
@@ -345,6 +345,32 @@ public class PROkedexGui implements ActionListener {
 		}
 	}
 	
+	private String getBestRankedRoute(List<Spawn> spawns, String pokemon) {
+		Map<String, Collection<Spawn>> spawnsRoute = new HashMap<String, Collection<Spawn>>(dumpReader.getSpawnsRoute());
+		List<String> bannedRoutes = new ArrayList<String>();
+		bannedRoutes.add("Vulcan Cave B1F");
+		bannedRoutes.add("Angel Hill");
+		bannedRoutes.add("Howling Woods");
+		bannedRoutes.add("Uncanny Path");
+		bannedRoutes.add("Guild Island Cave");
+		bannedRoutes.add("Guild Island");
+		String area = "";
+		float score = 0f;
+		if (spawns == null) {
+			return "No Map Found";
+		} else {
+			for (Spawn s : spawns) {
+				SpawnChancePredictor p = new SpawnChancePredictor(spawnsRoute.get(s.getRoute()), pokemon);
+				float temp = p.getRouteScore();
+				if ((temp > 0) && temp > score && !bannedRoutes.contains(s.getRoute())) {
+					score = temp;
+					area = s.getRoute();
+				}
+			}
+			return String.format("%s with a predicted spawn rate of %.2f%%", area, score);
+		}
+	}
+
 	private void presentItemCorrections(HashMap<Integer, Collection<String>> itemCorrection) {
 		int threshold = 4;
 		int i = 0;
@@ -594,14 +620,14 @@ public class PROkedexGui implements ActionListener {
 				}
 				
 			}
-			return this.stringifySpawnsPokemon(repelSpawns);
+			return this.stringifySpawnsPokemon(repelSpawns, pokemon);
 		} else {
-			return this.stringifySpawnsPokemon(spawns);
+			return this.stringifySpawnsPokemon(spawns, pokemon);
 		}
 		
 	}
 		
-	private String stringifySpawnsPokemon(List<Spawn> spawns) {
+	private String stringifySpawnsPokemon(List<Spawn> spawns, String pokemon) {
 		StringBuffer buffer = new StringBuffer();
 		if (spawns == null || spawns.isEmpty()) {
 			return "";
@@ -685,6 +711,9 @@ public class PROkedexGui implements ActionListener {
 				}
 			}
 		}
+		buffer.append(System.getProperty("line.separator"));
+		buffer.append(System.getProperty("line.separator"));
+		buffer.append("Suggested farming spot: ").append(this.getBestRankedRoute(spawns, pokemon));
 		return buffer.toString();
 	}
 	

@@ -1,11 +1,14 @@
 package core;
 
+import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.json.simple.JSONArray;
@@ -15,11 +18,13 @@ import org.json.simple.parser.ParseException;
 
 public class DumpFileReader {
 	private Map<String, Collection<Spawn>> spawnsRoute, spawnsPokemon, spawnsItems;
-
+	private List<String> allowedRoutes;
+	
 	public DumpFileReader() {
 		this.spawnsRoute = new HashMap<String, Collection<Spawn>>();
 		this.spawnsPokemon = new HashMap<String, Collection<Spawn>>();		
 		this.spawnsItems = new HashMap<String, Collection<Spawn>>();
+		this.allowedRoutes = new ArrayList<String>();
 	}
 
 	
@@ -122,6 +127,22 @@ public class DumpFileReader {
 		}
 	}
 	
+	public void readPermissableRoutes() throws IOException {
+		BufferedReader reader = new BufferedReader(new FileReader(new File("resources/routeList.txt")));
+		String in = reader.readLine();
+		while ((in = reader.readLine()) != null) {
+			if (in.startsWith(";")) {
+				continue;
+			}
+			this.allowedRoutes.add(in);
+		}
+		reader.close();
+	}
+	
+	public List<String> getPermissableRoutes(){
+		return this.allowedRoutes;
+	}
+	
 	public Map<String, Collection<Spawn>> getSpawnsRoute() {
 		return spawnsRoute;
 	}
@@ -133,4 +154,14 @@ public class DumpFileReader {
 	public Map<String, Collection<Spawn>> getSpawnsItem() {
 		return spawnsItems;
 	}
+	
+	public static void main(String[] args) {
+		DumpFileReader r = new DumpFileReader();
+		try{
+			r.processSpawns();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}		
+	}
+
 }

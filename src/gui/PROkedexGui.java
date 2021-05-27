@@ -185,6 +185,7 @@ public class PROkedexGui implements ActionListener {
 		dumpReader = new DumpFileReader();
 		try {
 			dumpReader.processSpawns();
+			dumpReader.readPermissableRoutes();
 		} catch (IOException | ParseException e) {
 			lblResults.setText("Something went horribly wrong during DumpFileReader initialization!");
 		}
@@ -347,13 +348,7 @@ public class PROkedexGui implements ActionListener {
 	
 	private String getBestRankedRoute(List<Spawn> spawns, String pokemon) {
 		Map<String, Collection<Spawn>> spawnsRoute = new HashMap<String, Collection<Spawn>>(dumpReader.getSpawnsRoute());
-		List<String> bannedRoutes = new ArrayList<String>();
-		bannedRoutes.add("Vulcan Cave B1F");
-		bannedRoutes.add("Angel Hill");
-		bannedRoutes.add("Howling Woods");
-		bannedRoutes.add("Uncanny Path");
-		bannedRoutes.add("Guild Island Cave");
-		bannedRoutes.add("Guild Island");
+		List<String> permissableRoutes = dumpReader.getPermissableRoutes();
 		String area = "";
 		float score = 0f;
 		if (spawns == null) {
@@ -362,7 +357,7 @@ public class PROkedexGui implements ActionListener {
 			for (Spawn s : spawns) {
 				SpawnChancePredictor p = new SpawnChancePredictor(spawnsRoute.get(s.getRoute()), pokemon);
 				float temp = p.getRouteScore();
-				if ((temp > 0) && temp > score && !bannedRoutes.contains(s.getRoute())) {
+				if ((temp > 0) && temp > score && permissableRoutes.contains(s.getRoute())) {
 					score = temp;
 					area = s.getRoute();
 				}
@@ -632,12 +627,16 @@ public class PROkedexGui implements ActionListener {
 		if (spawns == null || spawns.isEmpty()) {
 			return "";
 		}
+		List<String> permissableRoutes = dumpReader.getPermissableRoutes();
 		ComparatorRouteStringLength cmpLength = new ComparatorRouteStringLength();
 		ComparatorTier cmpTier = new ComparatorTier();
 		Collections.sort(spawns, cmpLength);	
 		int tabs = spawns.get(0).getRouteLength() / 8;
 		Collections.sort(spawns, cmpTier);
 		for (Spawn s : spawns) {
+			if(!permissableRoutes.contains(s.getRoute())) {
+				continue;
+			}
 			if (s instanceof SurfSpawn) {
 				buffer.append(s.getRoute());
 				for (int i = s.getRoute().length() / 8; i <= tabs; i++) {

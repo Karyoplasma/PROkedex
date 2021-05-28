@@ -48,7 +48,7 @@ Cliff Cave 1F
 Cliff Cave 2F
 Cliff Cave B1F
 Cliff Edge Gate
-Corsica Island
+;Corsica Island
 Crystal Cavern
 Dark Cave East
 Dark Cave North
@@ -154,11 +154,11 @@ Iron Island Exit Room
 Isolated Forest
 Jagged Pass
 Jura Cave
-Kalijodo Cave B1F
-Kalijodo Cave B2F
-Kalijodo Lake
-Kalijodo Path
-Kindle Road
+;Kalijodo Cave B1F
+;Kalijodo Cave B2F
+;Kalijodo Lake
+;Kalijodo Path
+;Kindle Road
 Lake Acuity
 Lake Cave
 Lake Of Rage
@@ -298,7 +298,7 @@ Pacifidlog Town
 Pal Park
 Pallet Town
 Palpatoo Beak
-Pattern Bush
+;Pattern Bush
 Petalburg City
 Petalburg Woods
 Pinkan Island Cliff
@@ -531,14 +531,14 @@ Sky Pillar 5F
 Slateport City
 Slowpoke Well
 Slowpoke Well L1
-Snowpoint Temple 1F
-Snowpoint Temple B1F
-Snowpoint Temple B2F
-Snowpoint Temple B3F
-Snowpoint Temple B4F
-Snowpoint Temple B5F
+;Snowpoint Temple 1F
+;Snowpoint Temple B1F
+;Snowpoint Temple B2F
+;Snowpoint Temple B3F
+;Snowpoint Temple B4F
+;Snowpoint Temple B5F
 Sootopolis city
-Spooky Path
+;Spooky Path
 Sprout Tower F1
 Sprout Tower F2
 Sprout Tower F3
@@ -601,15 +601,15 @@ Victory Road Kanto 3F
 Violet City
 Viridian City
 Viridian Forest
-Vulcan Cave B1F
-Vulcan Cave B2F
-Vulcan Cavern
-Vulcan Cavern Cave
-Vulcan Cove
-Vulcan Forest
-Vulcan Island Shore
-Vulcan Lava Pit
-Vulcan Path
+;Vulcan Cave B1F
+;Vulcan Cave B2F
+;Vulcan Cavern
+;Vulcan Cavern Cave
+;Vulcan Cove
+;Vulcan Forest
+;Vulcan Island Shore
+;Vulcan Lava Pit
+;Vulcan Path
 Wastelands
 Water Labyrinth
 Water Path

@@ -350,20 +350,83 @@ public class PROkedexGui implements ActionListener {
 		Map<String, Collection<Spawn>> spawnsRoute = new HashMap<String, Collection<Spawn>>(dumpReader.getSpawnsRoute());
 		List<String> permissableRoutes = dumpReader.getPermissableRoutes();
 		String area = "";
-		float score = 0f;
+		float[] score = new float[] {0f, 0f, 0f, -1f};
 		if (spawns == null) {
 			return "No Map Found";
 		} else {
 			for (Spawn s : spawns) {
+				if (!permissableRoutes.contains(s.getRoute())) {
+					continue;
+				}
 				SpawnChancePredictor p = new SpawnChancePredictor(spawnsRoute.get(s.getRoute()), pokemon);
-				float temp = p.getRouteScore();
-				if ((temp > 0) && temp > score && permissableRoutes.contains(s.getRoute())) {
+				float[] tempLand = p.getRouteScoresLand();
+				float[] tempSurf = p.getRouteScoresSurf();
+				float[] temp = this.getBetterSpawn(tempLand, tempSurf);
+				if (this.isBetterSpawn(score, temp)) {
 					score = temp;
 					area = s.getRoute();
 				}
 			}
-			return String.format("%s with a predicted spawn rate of %.2f%%", area, score);
+			return this.formatScoreString(area, score);
 		}
+	}
+
+	private String formatScoreString(String area, float[] score) {
+		StringBuffer buffer = new StringBuffer(area);
+		buffer.append(" (").append((score[3] == 0f) ? "Land " : "Surf ");
+		float highestScore = -1f;
+		for (int i = 0; i < 3; i++) {
+			if (score[i] > highestScore) {
+				highestScore = score[i];
+			}
+		}
+		if (score[0] == highestScore) {
+			buffer.append("M/");
+		}
+		if (score[1] == highestScore) {
+			buffer.append("D/");
+		}
+		if (score[2] == highestScore) {
+			buffer.append("N");
+		}
+		if (buffer.charAt(buffer.length() - 1) == '/') {
+			buffer.setLength(buffer.length() - 1);
+		}
+		buffer.append(") with a predicted spawn rate of ");
+		buffer.append(String.format("%.2f%%", highestScore));
+		return buffer.toString();
+	}
+
+	private boolean isBetterSpawn(float[] score, float[] temp) {
+		float bestScoreScore = -1f;
+		float bestScoreTemp = -1f;
+		if (score[3] == -1f) {
+			return true;
+		} else {
+			for (int i = 0; i < 3; i++) {
+				if (score[i] > bestScoreScore) {
+					bestScoreScore = score[i];
+				}
+				if (temp[i] > bestScoreTemp) {
+					bestScoreTemp = temp[i];
+				}
+			}
+			return (bestScoreTemp > bestScoreScore) ? true : false;
+		}
+	}
+
+	private float[] getBetterSpawn(float[] spawn1, float[] spawn2) {
+		float bestScore1 = -1f;
+		float bestScore2 = -1f;
+		for (int i = 0; i < 3; i++) {
+			if (spawn1[i] > bestScore1) {
+				bestScore1 = spawn1[i];
+			}
+			if (spawn2[i] > bestScore2) {
+				bestScore2 = spawn2[i];
+			}
+		}
+		return (bestScore1 >= bestScore2) ? spawn1 : spawn2;
 	}
 
 	private void presentItemCorrections(HashMap<Integer, Collection<String>> itemCorrection) {

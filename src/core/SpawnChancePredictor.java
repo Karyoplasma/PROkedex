@@ -1,8 +1,12 @@
 package core;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+
+import org.json.simple.parser.ParseException;
 
 public class SpawnChancePredictor {
 
@@ -61,7 +65,7 @@ public class SpawnChancePredictor {
 					}
 				}
 			} else {
-				if (this.isLandSpawn) {
+				if (!(s instanceof SurfSpawn) && this.isLandSpawn) {
 					if (s.getTime()[0] == 1) {
 						landSpawnsMorning.add(s);
 					}
@@ -273,5 +277,15 @@ public class SpawnChancePredictor {
 		buffer.setLength(buffer.length() - 1);
 		buffer.append("] -->" );
 		return buffer.toString();
+	}
+	
+	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
+		DumpFileReader reader = new DumpFileReader();
+		reader.processSpawns();
+		SpawnChancePredictor p = new SpawnChancePredictor(reader.getSpawnsRoute().get("Safari Exclusive"), "Dratini");
+		System.out.println(p);
+		float[] pr = p.getRouteScoresSurf();
+		System.out.printf("%.2f, %.2f, %.2f", pr[0], pr[1], pr[2]);
+		
 	}
 }

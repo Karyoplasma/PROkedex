@@ -350,7 +350,11 @@ public class PROkedexGui implements ActionListener {
 		Map<String, Collection<Spawn>> spawnsRoute = new HashMap<String, Collection<Spawn>>(dumpReader.getSpawnsRoute());
 		List<String> permissableRoutes = dumpReader.getPermissableRoutes();
 		String area = "";
+		String area2 = "";
+		String area3 = "";
 		float[] score = new float[] {0f, 0f, 0f, -1f};
+		float[] score2 = new float[] {0f, 0f, 0f, -1f};
+		float[] score3 = new float[] {0f, 0f, 0f, -1f};
 		if (spawns == null) {
 			return "No Map Found";
 		} else {
@@ -359,15 +363,38 @@ public class PROkedexGui implements ActionListener {
 					continue;
 				}
 				SpawnChancePredictor p = new SpawnChancePredictor(spawnsRoute.get(s.getRoute()), pokemon);
-				float[] tempLand = p.getRouteScoresLand();
-				float[] tempSurf = p.getRouteScoresSurf();
-				float[] temp = this.getBetterSpawn(tempLand, tempSurf);
+				float[] temp = new float[4];
+				if (s instanceof SurfSpawn) {
+					temp = p.getRouteScoresSurf();
+				}  else {
+					temp = p.getRouteScoresLand();
+				}
 				if (this.isBetterSpawn(score, temp)) {
+					score3 = score2;
+					area3 = area2;
+					score2 = score;
+					area2 = area;
 					score = temp;
 					area = s.getRoute();
+				} else {
+					if (this.isBetterSpawn(score2, temp)) {
+						score3 = score2;
+						area3 = area2;
+						score2 = temp;
+						area2 = s.getRoute();
+					} else {
+						if (this.isBetterSpawn(score3, temp)) {
+							score3 = temp;
+							area3 = s.getRoute();
+						}
+					}
 				}
 			}
-			return this.formatScoreString(area, score);
+			StringBuffer buffer = new StringBuffer();
+			buffer.append(this.formatScoreString(area, score)).append(System.getProperty("line.separator"));
+			buffer.append(this.formatScoreString(area2, score2)).append(System.getProperty("line.separator"));
+			buffer.append(this.formatScoreString(area3, score3));
+			return buffer.toString();
 		}
 	}
 
@@ -379,6 +406,9 @@ public class PROkedexGui implements ActionListener {
 			if (score[i] > highestScore) {
 				highestScore = score[i];
 			}
+		}
+		if (highestScore == 0f) {
+			return "";
 		}
 		if (score[0] == highestScore) {
 			buffer.append("M/");
@@ -413,20 +443,6 @@ public class PROkedexGui implements ActionListener {
 			}
 			return (bestScoreTemp > bestScoreScore) ? true : false;
 		}
-	}
-
-	private float[] getBetterSpawn(float[] spawn1, float[] spawn2) {
-		float bestScore1 = -1f;
-		float bestScore2 = -1f;
-		for (int i = 0; i < 3; i++) {
-			if (spawn1[i] > bestScore1) {
-				bestScore1 = spawn1[i];
-			}
-			if (spawn2[i] > bestScore2) {
-				bestScore2 = spawn2[i];
-			}
-		}
-		return (bestScore1 >= bestScore2) ? spawn1 : spawn2;
 	}
 
 	private void presentItemCorrections(HashMap<Integer, Collection<String>> itemCorrection) {
@@ -775,7 +791,7 @@ public class PROkedexGui implements ActionListener {
 		}
 		buffer.append(System.getProperty("line.separator"));
 		buffer.append(System.getProperty("line.separator"));
-		buffer.append("Suggested farming spot: ").append(this.getBestRankedRoute(spawns, pokemon));
+		buffer.append("Suggested farming spots: ").append(System.getProperty("line.separator")).append(this.getBestRankedRoute(spawns, pokemon));
 		return buffer.toString();
 	}
 	

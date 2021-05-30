@@ -7,9 +7,9 @@ Amazon Forest
 Amazon Forest Entrance
 Amity Square
 ;Angel Hill
-Aphrodia Island
-Aphrodia Island East
-Aphrodia Island West
+;Aphrodia Island
+;Aphrodia Island East
+;Aphrodia Island West
 Battle Tower
 Bell Tower
 Berry Forest
@@ -343,7 +343,7 @@ Pokemon Tower B9
 Pokemon Tower Underground
 Pola Tai Lagoon
 Power Plant
-Ravaged Path
+;Ravaged Path
 Resort Area
 Resort Gorgeous
 Rock Tunnel 1
@@ -553,7 +553,7 @@ Stevens Cave
 ;Suzuka Clearing
 ;Suzuka Path
 ;Suzuka Towers
-Sweetsland
+;Sweetsland
 Tanoby Ruins
 Tanoby Ruins Dilford Chamber
 Tanoby Ruins Liptoo Chamber

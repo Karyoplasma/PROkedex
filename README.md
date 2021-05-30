@@ -16,4 +16,4 @@ Uses:
 
 Quick release link:
 
-https://github.com/Karyoplasma/PROkedex/releases/tag/1.0.4
+https://github.com/Karyoplasma/PROkedex/releases/tag/1.0.4b

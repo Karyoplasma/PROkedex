@@ -1,0 +1,684 @@
+Mirage Island Summit
+Pokemon Tower B1
+Pokemon Tower B3
+Pokemon Tower B2
+Pokemon Tower B5
+Alto Mare Secret Garden
+Pokemon Tower B4
+Mountain Area Dungeon
+Pokemon Tower B7
+Crumpit Valley
+Pokemon Tower B6
+Eterna Forest
+Pokemon Tower B9
+New Mauville
+Pokemon Tower B8
+Monkey Path
+Suzuka Cave B2F
+Cherrygrove City
+Old Chateau 1F 2R
+Tanoby Ruins Rixy Chamber
+Mt. Ember Ruby Path B5F
+Victory Road Hoenn 1F
+Eterna City
+Three Isle Path
+Eriyadu Town
+Lost Tower 1F
+Icefall Cave 1F
+Turnback Cave First Pillar
+Mt. Summer 3F 2
+Bug Catching Area
+Dragonspiral Tower Exterior
+Palpatoo Beak
+Evergreen Island Frozen Path
+Frozen Cave B2F
+National Park
+Green Path
+Safari Area 1
+Sendoff Spring
+Kalijodo Path
+Safari Area 2
+Breezy Cave
+Route 126 Underwater
+Eindoak Town
+Fuego Ironworks
+Mt. Summer 3F 2 2
+Eindoak Waterway
+Leev Town Port
+Ravaged Path
+Mt. Summer 4F 2
+Sootopolis city
+Lost Tower 2F
+Oreburgh Gate 1F
+Tanoby Ruins Monean Chamber
+Dragonspiral Tower 6F
+Iron Island 1F
+Iron Island Exit Room
+Vulcan Cavern
+Mt. Pyre 4F
+Old Chateau 2F 4R
+Isolated Forest
+Cianwood City
+Lake Cave
+Pokemon Tower B10
+Pokemon Tower B12
+Pokemon Tower B11
+Old Chateau 1F 1F
+Rock Tunnel 1
+Union Cave 1F
+Rock Tunnel 2
+Pitch Black Cave
+Lost Tower 3F
+Suzuka Cave B1F
+Dragonspiral Tower 5F
+Dark Valley
+Slateport City
+Sinnoh Victory Road B1F Deep Exit
+Vulcan Island Shore
+Mt. Pyre 3F
+Oreburgh Gate B1F
+Diamond Empire Entry
+Love Island
+Old Chateau 2F 5R
+Diamond Domain 1F
+Shamouti Seaway
+Pinkan Island Cliff
+Mt. Ember Ruby Path B1F
+Pokemon Tower Underground
+Mt. Silver Expert Belt
+Dragons Den
+Lost Tower 4F
+Mt. Mortar 1F
+Stark Mountain Main Cavern Pt
+Jura Cave
+Slowpoke Well L1
+Evergreen Island Frozen Cave
+Vulcan Cave B2F
+Whirl Islands 1F Northeast
+Kalijodo Cave B2F
+Whoville Shore
+Old Chateau 2F 2R
+Mt. Summer 1F
+Cinnabar Island
+Lost Cave 1F3
+Lost Cave 1F2
+Lost Cave 1F1
+Mt. Summer Exterior 2
+Pinkan Island Forest
+Lost Cave 1F7
+Mt. Silver Exterior
+Lost Cave 1F6
+Five Island
+Lake Verity
+Lost Cave 1F5
+Lost Cave 1F4
+Tanoby Ruins Viapois Chamber
+Mt. Ember Summit Path 3F
+Lost Cave 1F9
+Lost Cave 1F8
+Lightning Island Frozen
+Aphrodia Island West
+Vulcan Cave B1F
+Mt. Ember Ruby Path B2F
+Kalijodo Cave B1F
+Old Chateau 2F 3R
+Celadon City
+Mt. Summer 2F
+Unholy Sands Pyramid West Chamber
+Mt. Moon 1F
+Iron Island B2F L
+Mt. Coronet Center
+North Pole Harbour
+Spooky Path
+Snowpoint Temple 1F
+Crater Town
+Sinnoh Victory Road 2F
+Spawn Testing
+Bell Tower
+Turnback Cave Second Pillar
+Whitmore Residence Frontyard
+Breezy Garden
+Mt. Summer 3F
+Mt. Ember Ruby Path B3F
+Frozen Cave B1F
+Iron Island B2F R
+Leev Town Entrance
+Eumi Island Temple Entrance
+Five Isle Meadow
+Pacifidlog Town
+Dark Cave South
+Sinnoh Victory Road 1F
+Mt. Coronet Summit
+Outcast Island
+Mt. Ember Ruby Path B4F
+Mt. Summer 4F
+Galeras Island West
+Old Chateau 2F 1R
+Aphrodia Island
+Safari Effort Wald 2
+Mt. Silver Moltres Chamber
+Unknown Place
+Crystal Cavern
+Corsica Island
+Nido Isle
+Resort Area
+Burned Tower Top Floor
+Seaway Vein Extension
+Safari Effort Wald 1
+Wayward Cave
+Ever Grande City
+Whirl Islands B2F
+Suzuka Path
+Nap Town
+Cinnabar Mansion B1F
+Ice Path B3F
+Lost Cave 1F10
+Mt. Coronet Tunnel
+Pinkan Island Meadow
+Lost Cave 1F13
+Eumi Island Theme Park 1
+Lost Cave 1F14
+Eumi Island Theme Park 2
+Lost Cave 1F11
+Eumi Island Theme Park 3
+Lost Cave 1F12
+Whirl Islands 1F Southwest
+Ice Path B2F
+Snowpoint Temple B1F
+Ilex Forest
+Digletts Cave
+Low Tide Ice Room
+Ecruteak City
+Oreburgh Mine B1F
+Mt. Coronet 2F
+Bug Catching Multiplayer Area
+Safari Johto Wet Zone
+Lost Cave
+Unholy Sands West
+Route 119B
+Valor Lakefront
+Route 129 Underwater
+Ice Path B1F
+Union Cave B2F
+Diamond Empire West Wing
+Mt. Ember Summit Path 2F
+Mt. Coronet 3F
+Dark Cave West
+Whoville
+Ruin Valley
+Route 111 Desert
+Munchlax Resort
+Union Cave B1F
+Mt. Ember Summit Path 1F
+Flake Path
+Cave Of Justice
+Serenia Village Tunnel
+Alto Mare Chained
+Iron Island B1F L
+Mt. Coronet 4F
+Safari Exclusive
+Route 119A
+Iron Island B1F R
+Four Island
+Cryofrost Brink
+Mt. Pyre 1F
+Pokemon Tower 5F
+Pokemon Tower B21
+Pokemon Tower B20
+Pokemon Tower B23
+Pokemon Tower B22
+Berry Forest
+Forlorn Nesting Grounds
+Evergreen Waterway
+Medusas Cloud
+Dragonspiral Tower 4F
+Memorial Pillar
+Mt. Coronet 5F
+Pokemon Tower B14
+Pokemon Tower B13
+Pokemon Tower B16
+Mt. Pyre 2F
+Pokemon Tower B15
+Cinnabar Mansion 1
+Pokemon Tower B18
+Cinnabar Mansion 2
+Diamond Empire Ballroom
+Pokemon Tower B17
+Unison Mountain South Summit
+Cinnabar Mansion 3
+Nap Forest
+Pokemon Tower B19
+Battle Tower
+Pokemon Tower 6F
+Sinnoh Victory Road B1F Deep Entrance
+Tohjo Falls
+Fire Island Seaway
+Abandoned Desert Village
+Seaway Vein
+Dragonspiral Tower 3F
+Valley Windworks
+Mt. Pyre Summit
+Stevens Cave
+Pokemon Tower B25
+Pokemon Tower B24
+Ice Island Frozen
+Pokemon Tower B27
+Mt. Coronet 6F
+Pokemon Tower B26
+Pokemon Tower B29
+Pokemon Tower B28
+Seafoam 1F
+Pokemon Tower 7F
+Valley Of Steel Western Peak
+Tanoby Ruins Weepth Chamber
+Tanoby Ruins Liptoo Chamber
+Olivine City
+Granite Cave B2F
+Granite Cave 1F
+Route 9
+Route 8
+Route 7
+Ruins Of Alph Entrance
+Dragonspiral Tower 2F
+Forest Dungeon Entrance
+Cerulean Cave 2F
+Blackthorn City
+Mt. Coronet 7F
+Crater Town Shore
+Stark Mountain Exterior Pt
+Mt. Coronet South
+Vermilion City
+Fire Island
+Burring Strait
+Granite Cave B1F
+Breezy Path
+Whoville Woods
+Lightning Island
+Whirl Islands B1F
+Cerulean Cave 1F
+Howling Woods
+Burned Tower Floor 2
+Suzuka Trail
+Sleeping Path
+Water Path
+Dragonspiral Tower 1F
+Mt. Silver Upper Mountainside
+Sea Mauville
+Cerulean Cave B1F
+Diamond Domain B1F
+Buring Strait Underwater
+Breakers Trench Underwater
+Route 215
+Route 214
+Route 213
+Polar City
+Route 211
+Route 210
+Desert Cave
+Route 209
+Secret Nap Area
+Route 208
+Forest Maze
+Route 207
+Route 206
+Route 205
+Altering Cave
+Treasure Beach
+Sky Pillar 3F
+Amazon Forest Entrance
+Fuchsia City
+Whirl Islands 1F Northwest
+Cliff Cave B1F
+Abandoned Ship B1F Room 3
+Violet City
+Dragon Neck
+Route 226
+Route 105
+Nap Cave
+Nap Shore
+Pokemon Tower 2F
+Route 104
+Route 225
+Route 103
+Route 224
+Route 102
+Route 223
+Route 101
+Route 222
+Vulcan Fair
+Route 221
+Enyor Island Forest
+Route 220
+Route 6
+Sinnoh Safari Area Zone 4
+Route 5
+Sinnoh Safari Area Zone 5
+Vulcan Lava Pit
+Route 4
+Sinnoh Safari Area Zone 6
+Route 3
+Route 2
+Route 219
+Route 1
+Route 218
+Sinnoh Safari Area Zone 1
+Route 217
+Sinnoh Safari Area Zone 2
+Route 216
+Sinnoh Safari Area Zone 3
+Tanoby Ruins
+Mt. Ember
+Shamouti Island Frozen
+Desert Lagoon
+Mt. Mortar Lower Cave
+Mt Silver 4F
+Pokemon Tower 3F
+Route 111 South
+Alto Mare East Avenue
+Tanoby Ruins Dilford Chamber
+Trainers Valley
+Iron Island
+Oakwood Cavern 1F
+Diamond Empire Pathway Underwater
+Sky Pillar 5F
+Frost Valley
+Unholy Sands Pyramid East Chamber
+Mt Silver 5F
+Tanoby Ruins Scufib Chamber
+Shamouti Seaway Frozen
+Cape Of Palpatoo
+Pokemon Tower 4F
+Route 210 North
+Shamouti Island
+Route 204
+Route 203
+Route 202
+Route 201
+Safari Entrance
+Moon B1F
+Icefall Back Cave
+Diamond Empire East Wing
+Oakwood Cavern 2F
+Mt. Coronet B1F
+Old Chateau Dining Room
+Seaway Vein Frozen
+Guild Island Cave
+Route 130
+Digletts Cave Entrance 1
+Snowpoint Temple B4F
+Digletts Cave Entrance 2
+One Island
+Suzuka Cave 1F
+Bittersweet Cave 2F
+Ruins Of Alph Item 4
+Canyon Entrance
+Route 135
+Meteor Falls 1F 1R
+Route 134
+Crater Town Tunnel
+Route 133
+Route 132
+Suzuka Towers
+Route 131
+Safari Johto Grass and Swamp Zone
+Underground Ruins
+Forest Pit
+Ruins Of Alph Item 2
+Ruins Of Alph Item 3
+Vulcan Plaza
+Ice Island
+Ice Island Seaway
+Route 129
+Ruins Of Alph Item 1
+Route 128
+Guild Island Falls
+Route 127 Underwater
+Lavender Town Graveyard
+Unholy Sands South
+Snowpoint Temple B5F
+Kalijodo Lake
+Viridian City
+Bittersweet Cave 1F
+Polar City North Gate
+Dock Island
+Lilycove City
+Galeras Island East
+Kindle Road
+Viridian Forest
+Meteor Falls 1F 2R
+Mt. Moon B2F
+Underground Path Sinnoh Entrance
+Fiery Path
+Trainers Valley Cave
+Guild Island
+Alto Mare
+Lake Of Rage
+Snowpoint Temple B2F
+Route 116
+Route 115
+Pallet Town
+Route 114
+Sweetsland
+Route 113
+Route 112
+Ice Island Seaway Frozen
+Route 110
+Jagged Pass
+Route 230
+Pattern Bush
+Suzuka Clearing
+Mt. Moon B1F
+Route 109
+Vulcan Cove
+Route 229
+Breezy Garden Underwater
+Route 108
+Route 228
+Route 107
+Route 227
+Route 106
+Amity Square
+Ghoul Swamp
+Sky Pillar 1F
+Icefall Cave B1F
+Aphrodia Island East
+Route 212 South
+Mt. Coronet North
+Snowpoint Temple B3F
+Burring Strait Under water
+Route 127
+Route 126
+Route 130 Underwater
+Route 125
+Route 124
+Route 123
+Cryofrost Path
+Necropolis
+Route 122
+Route 121
+Route 120
+Ruins Of Alph
+Low Tide Entrance Room
+Cliff Edge Gate
+Dragons Shrine
+Evergreen Island Valley Path
+Route 118
+Route 117
+Petalburg Woods
+Wastelands
+Unison Mountain Summit
+Cape Brink
+Flake Wood
+Whitmore Residence Backyard
+Eriyadu Sulfur Pools
+Shoal Cave
+Cliff Cave 1F
+Evergreen Island Valley
+Moon
+Galeras Island South
+Mt. Crumpit
+Guild Island Forest
+Route 128 Underwater
+Seafoam B1F
+Mt. Mortar Upper Cave
+Breakers Beach
+Dark Cave North
+Valley Of Steel Eastern Peak
+Whirl Islands 1F
+Amazon Forest
+Vulcan Path
+Cerulean City
+Alto Mare West Avenue
+Oreburgh Mine B2F 1R
+Lost Cave Entrance
+Pal Park
+Granite Cave 1F2
+Victory Road Kanto 1F
+Breezy Falls
+Stark Mountain Entrance Pt
+Unison Mountain East Summit
+Bittersweet Cave 4F
+Leev Town
+Mt. Mortar B1F
+Polar Path
+Dewford Town
+Mossdeep City
+Route 16
+Route 17
+Hoenn Safari Zone Area 5
+Route 18
+Hoenn Safari Zone Area 6
+Mt. Silver Lower Mountainside
+Route 19
+Route 12
+Ruins of the Vale Nesting Grounds
+Route 13
+Route 14
+Resort Gorgeous
+Route 15
+Seafoam B3F
+Alto Mare National Park
+Route 131 B
+Nap Cave B1F
+Route 10
+Route 11
+Hoenn Safari Zone Area 3
+Mt. Mortar Northern Entrance
+Hoenn Safari Zone Area 4
+Hoenn Safari Zone Area 1
+Chrono Cross
+Hoenn Safari Zone Area 2
+Diamond Empire Foyer
+Mountain Area Maze
+Lake Acuity
+Bittersweet Cave 3F
+Cliff Cave 2F
+Moon 1F
+Stark Mountain Entrance
+Mt. Summer 1F 2
+High Tide Entrance Room
+Seafoam B2F
+Mt. Silver 2F
+Murky Town
+Water Labyrinth
+Breezy Town
+Victory Road Kanto 3F
+Mirage Island Cave
+Uncanny Path
+Pola Tai Lagoon
+Trainer Tower
+Bond Bridge
+Mt. Summer 2F 2
+Safari Johto Mountain Zone
+Route 38
+Route 39
+Unholy Sands
+Unison Mountain 3F
+Victory Road Hoenn B2F
+Eumi Island Burned Tower
+Route 34
+Sinnoh Victory Road B1F
+Route 35
+Mt. Silver 1F
+Route 36
+Route 37
+Acuity Lakefront
+Route 30
+Route 31
+Sprout Tower F1
+Route 32
+Sprout Tower F2
+Route 33
+Sprout Tower F3
+Diamond Domain Main Cave
+Dragons Den B1F
+Dark Cave East
+Victory Road Kanto 2F
+Vulcan Cavern Cave
+Route 124 Underwater
+Mt. Crumpit Summit
+Frozen Cave
+Lightning Island Seaway
+Sinnoh Victory Road B1F Deep
+Route 27
+Route 28
+Route 29
+Unison Mountain 2F
+Victory Road Hoenn B1F
+Route 24
+Route 25
+Seafoam B4F
+Route 26
+Dragons Den Entrance
+Route 20
+Route 21
+Safari Area 3
+Mt. Pyre Exterior
+Route 22
+Lake Valor
+Ruins Of Alph Puzzle 3
+Ruins Of Alph Puzzle 4
+Ruins Of Alph Puzzle 1
+Safari Johto Snow Zone
+Three Isle Port
+Turnback Cave Final Room
+Ruins Of Alph Puzzle 2
+Evergreen Island Crystal Cave
+Digletts Cave B2F
+Sevault Canyon
+Old Chateau 1F
+Unison Mountain 1F
+Mt. Ember Ruby Path 1F
+Petalburg City
+Forest Maze Underground
+Eumi Island Town
+Mistpeak Valley
+Whirl Islands 1F Southeast
+Meteor Falls B1F 1R
+Slowpoke Well
+Icefall Cave Entrance
+Power Plant
+Turnback Cave Third Pillar
+Route 212 North
+Dragons Neck
+Vulcan Forest
+Angel Hill
+Mt. Summer Exterior
+Old Chateau 2F
+Route 49
+Meteor Falls B1F 2R
+Route 45
+Ice Path 1F
+Matsuki Courtyard
+Route 46
+Route 47
+Route 48
+Snowfall Valley
+Route 41
+Route 42
+Frozen Cave Entrance
+Route 43
+Route 44
+Rusturf Tunnel
+Ruins Of Alph Interior
+Route 40

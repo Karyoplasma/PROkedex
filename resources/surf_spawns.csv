@@ -1,0 +1,2229 @@
+Map,Pokemon,DexID,Morning,Day,Night,MinLvl,MaxLvl,Item,Member,Tier,Fishing,FishingOnly,RequiredRod
+Abandoned Ship B1F Room 3,Magikarp,129,1,1,1,28,35,,0,Common,1,1,Old Rod
+Abandoned Ship B1F Room 3,Tentacool,72,1,1,1,28,35,,0,Common,1,0,Old Rod
+Abandoned Ship B1F Room 3,Tentacruel,73,1,1,1,30,35,,0,Common,1,0,Good Rod
+Alto Mare,Azurill,298,1,1,1,32,36,,0,Rare,0,0,
+Alto Mare,Clauncher,692,1,1,1,36,40,,0,Rare,0,0,
+Alto Mare,Golduck,55,1,1,1,36,40,,0,Common,0,0,
+Alto Mare,Poliwhirl,61,1,1,1,36,40,Kings Rock,0,Common,0,0,
+Alto Mare,Seadra,117,1,1,1,36,40,Dragon Scale,0,Common,0,0,
+Alto Mare,Squirtle,7,1,1,1,36,40,,0,Rare,0,0,
+Alto Mare,Wingull,278,1,1,1,36,40,,0,Common,0,0,
+Alto Mare Chained ,Golduck,55,1,1,1,36,40,,0,Common,0,0,
+Alto Mare Chained ,Marill,183,1,1,1,36,40,,0,Uncommon,0,0,
+Alto Mare Chained ,Poliwhirl,61,1,1,1,36,40,,0,Uncommon,0,0,
+Alto Mare Chained ,Seadra,117,1,1,1,36,40,,0,Uncommon,0,0,
+Alto Mare Chained ,Squirtle,7,1,1,1,36,40,,0,Rare,0,0,
+Alto Mare Chained ,Wartortle,8,1,1,1,36,40,,0,Rare,0,0,
+Alto Mare Chained ,Wingull,278,1,1,1,36,40,,0,Common,0,0,
+Alto Mare East Avenue ,Goldeen,118,1,1,1,5,5,,0,Common,0,0,
+Alto Mare East Avenue ,Poliwag,60,1,1,1,5,5,,0,Common,0,0,
+Alto Mare East Avenue ,Surskit,283,1,1,1,5,5,SilverPowder,0,Common,0,0,
+Alto Mare National Park,Horsea,116,1,1,1,10,15,Dragon Scale,0,Common,0,0,
+Alto Mare National Park,Luvdisc,370,1,1,1,10,15,,0,Uncommon,0,0,
+Alto Mare National Park,Magikarp,129,1,1,1,10,15,,0,Common,0,0,
+Alto Mare National Park,Mantyke,458,1,1,1,10,15,,0,Uncommon,0,0,
+Alto Mare National Park,Marill,183,1,1,1,10,15,,0,Uncommon,0,0,
+Alto Mare National Park,Pikachu,25,1,1,1,10,15,Light Ball,0,Uncommon,0,0,
+Alto Mare National Park,Psyduck,54,1,1,1,10,15,,0,Common,0,0,
+Alto Mare National Park,Squirtle,7,1,1,1,10,15,,0,Rare,0,0,
+Alto Mare Secret Garden,Alomomola,594,1,1,1,10,15,,0,Rare,0,0,
+Alto Mare Secret Garden,Froakie,656,1,1,1,10,15,,0,Rare,0,0,
+Alto Mare Secret Garden,Horsea,116,1,1,1,10,15,Dragon Scale,0,Common,0,0,
+Alto Mare Secret Garden,Magikarp,129,1,1,1,10,15,,0,Common,0,0,
+Alto Mare Secret Garden,Poliwhirl,61,1,1,1,10,15,Kings Rock,0,Common,0,0,
+Alto Mare Secret Garden,Psyduck,54,1,1,1,10,15,,0,Common,0,0,
+Alto Mare Secret Garden,Remoraid,223,1,1,1,10,15,Starf Berry,0,Uncommon,0,0,
+Alto Mare Secret Garden,Wingull,278,1,1,1,10,15,,0,Common,0,0,
+Alto Mare West Avenue,Goldeen,118,1,1,1,5,5,,0,Common,0,0,
+Alto Mare West Avenue,Poliwag,60,1,1,1,5,5,,0,Common,0,0,
+Alto Mare West Avenue,Surskit,283,1,1,1,5,5,SilverPowder,0,Common,0,0,
+Amazon Forest,Krabby,98,1,1,1,10,14,,0,Common,1,0,Old Rod
+Amazon Forest,Poliwag,60,0,0,1,10,14,Kings Rock,0,Common,1,0,Good Rod
+Amazon Forest,Wooper,194,1,1,1,10,14,,0,Common,1,0,Good Rod
+Amity Square,Azurill,298,1,1,1,17,20,,0,Uncommon,0,0,
+Amity Square,Buizel,418,1,1,1,17,20,,0,Uncommon,0,0,
+Amity Square,Clamperl,366,1,1,1,17,20,Deep Sea Tooth,0,Uncommon,0,0,
+Amity Square,Lanturn,171,1,1,1,17,20,,0,Uncommon,0,0,
+Amity Square,Marill,183,1,1,1,17,20,,0,Uncommon,0,0,
+Amity Square,Poliwag,60,1,1,1,17,20,Kings Rock,0,Common,0,0,
+Amity Square,Psyduck,54,1,1,1,17,20,,0,Common,0,0,
+Amity Square,Shellos,422,1,1,1,17,20,,0,Rare,0,0,
+Angel Hill,Koffing,109,1,1,1,20,22,Smoke Ball,0,Common,0,0,
+Angel Hill,Magikarp,129,1,1,1,20,24,,0,Common,0,0,
+Angel Hill,Marill,183,1,1,1,20,24,,0,Uncommon,0,0,
+Angel Hill,Sealeo,364,1,1,1,20,24,Passho Berry,0,Uncommon,0,0,
+Angel Hill,Spheal,363,1,1,1,20,24,,0,Uncommon,0,0,
+Angel Hill,Squirtle,7,1,1,1,20,24,,0,Rare,0,0,
+Angel Hill,Togetic,176,1,1,1,20,24,,0,Rare,0,0,
+Aphrodia Island,Alomomola,594,1,1,1,30,35,,0,Rare,0,0,
+Aphrodia Island,Chinchou,170,1,1,1,30,35,Apicot Berry,0,Common,0,0,
+Aphrodia Island,Corsola,222,1,1,1,30,35,Hard Stone,0,Uncommon,0,0,
+Aphrodia Island,Lapras,131,1,1,1,21,26,,0,Rare,0,0,
+Aphrodia Island,Lotad,270,1,1,1,30,35,Mental Herb,0,Common,0,0,
+Aphrodia Island,Luvdisc,370,1,1,1,28,33,,0,Uncommon,0,0,
+Aphrodia Island,Seel,86,1,1,1,30,35,Aspear Berry,0,Common,0,0,
+Aphrodia Island,Slowpoke,79,1,1,1,30,35,Lagging Tail,0,Common,0,0,
+Battle Tower,Buizel,418,1,1,1,40,45,,0,Uncommon,0,0,
+Battle Tower,Corphish,341,1,1,1,40,45,Mystic Water,1,Rare,0,0,
+Battle Tower,Finneon,456,1,1,1,40,45,,0,Uncommon,0,0,
+Battle Tower,Goldeen,118,1,1,1,40,45,,0,Common,0,0,
+Battle Tower,Lumineon,457,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Battle Tower,Magikarp,129,1,1,1,40,45,,0,Common,0,0,
+Battle Tower,Panpour,515,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Battle Tower,Seaking,119,1,1,1,40,45,,0,Common,0,0,
+Battle Tower,Swablu,333,1,1,1,38,41,,0,Rare,0,0,
+Berry Forest,Golduck,55,1,1,1,45,50,,0,Common,1,0,Good Rod
+Berry Forest,Magikarp,129,0,0,1,45,50,,0,Common,1,0,Old Rod
+Berry Forest,Marill,183,1,1,1,45,50,,0,Uncommon,1,0,Super Rod
+Berry Forest,Poliwag,60,0,0,1,45,50,Kings Rock,0,Common,1,0,Super Rod
+Berry Forest,Psyduck,54,1,1,1,45,50,,0,Common,1,0,Old Rod
+Berry Forest,Slowbro,80,1,1,1,45,50,,0,Uncommon,1,0,Super Rod
+Blackthorn City,Chinchou,170,0,1,0,42,46,,0,Common,0,0,
+Blackthorn City,Poliwag,60,0,0,1,42,46,,0,Common,0,0,
+Blackthorn City,Seel,86,1,0,0,42,46,,0,Common,0,0,
+Bond Bridge,Gyarados,130,1,1,1,29,37,,0,Uncommon,1,0,Super Rod
+Bond Bridge,Horsea,116,1,1,1,29,37,Dragon Scale,0,Common,1,0,Good Rod
+Bond Bridge,Krabby,98,1,1,1,29,37,,0,Common,1,0,Old Rod
+Bond Bridge,Magikarp,129,1,0,1,29,37,,0,Common,1,1,Old Rod
+Bond Bridge,Seadra,117,1,1,1,29,37,,0,Uncommon,1,0,Super Rod
+Bond Bridge,Slowpoke,79,1,1,1,29,37,,0,Common,1,0,Old Rod
+Bond Bridge,Tentacool,72,1,1,1,29,37,,0,Common,1,0,Old Rod
+Bond Bridge,Tentacruel,73,1,1,1,29,37,,0,Common,1,0,Good Rod
+Breakers Beach,Feebas,349,1,1,1,25,29,Prism Scale,0,Rare,0,0,
+Breakers Beach,Finneon,456,1,1,1,25,29,Rindo Berry,0,Uncommon,0,0,
+Breakers Beach,Relicanth,369,1,1,1,30,30,Deep Sea Scale,0,Rare,0,0,
+Breakers Beach,Remoraid,223,1,1,1,25,29,Starf Berry,0,Uncommon,0,0,
+Breakers Beach,Slowbro,80,1,1,1,25,29,Kings Rock,0,Common,0,0,
+Breakers Beach,Slowpoke,79,1,1,1,25,29,Lagging Tail,0,Common,0,0,
+Breakers Beach,Wingull,278,1,1,1,25,29,,0,Common,0,0,
+Breakers Trench Underwater,Chinchou,170,1,1,1,35,39,Deep Sea Scale,0,Common,0,0,
+Breakers Trench Underwater,Clamperl,366,1,1,1,35,39,Deep Sea Tooth,0,Uncommon,0,0,
+Breakers Trench Underwater,Kingler,99,1,1,1,35,39,,0,Common,0,0,
+Breakers Trench Underwater,Krabby,98,1,1,1,35,39,,0,Common,0,0,
+Breakers Trench Underwater,Magikarp,129,1,1,1,35,39,,0,Common,0,0,
+Breakers Trench Underwater,Relicanth,369,1,1,1,35,39,,0,Rare,0,0,
+Breakers Trench Underwater,Tynamo,602,1,1,1,35,39,,0,Rare,0,0,
+Breezy Falls,Azurill,298,1,1,1,18,23,,0,Rare,0,0,
+Breezy Falls,Barboach,339,1,1,1,18,23,,0,Uncommon,0,0,
+Breezy Falls,Carvanha,318,1,1,1,18,23,,0,Uncommon,0,0,
+Breezy Falls,Chinchou,170,1,1,1,18,23,Deep Sea Scale,0,Common,0,0,
+Breezy Falls,Clamperl,366,1,1,1,18,23,Deep Sea Tooth,0,Uncommon,0,0,
+Breezy Falls,Feebas,349,1,1,1,18,23,Prism Scale,0,Rare,0,0,
+Breezy Falls,Horsea,116,1,1,1,18,23,Dragon Scale,0,Common,0,0,
+Breezy Falls,Krabby,98,1,1,1,18,23,,0,Common,0,0,
+Breezy Falls,Mantyke,458,0,0,1,18,23,,0,Uncommon,0,0,
+Breezy Falls,Shellder,90,1,1,0,18,23,,0,Rare,0,0,
+Breezy Falls,Staryu,120,1,0,1,18,23,,0,Rare,0,0,
+Breezy Garden,Alomomola,594,1,1,0,21,25,,0,Rare,0,0,
+Breezy Garden,Feebas,349,0,1,0,21,25,,0,Rare,0,0,
+Breezy Garden,Lapras,131,1,0,1,21,25,,0,Rare,0,0,
+Breezy Garden,Marill,183,1,1,1,21,25,,0,Uncommon,0,0,
+Breezy Garden,Pelipper,279,1,1,1,21,25,,0,Common,0,0,
+Breezy Garden,Poliwag,60,1,1,1,21,25,,0,Common,0,0,
+Breezy Garden,Slowpoke,79,1,1,1,21,25,,0,Common,0,0,
+Breezy Garden,Wooper,194,1,1,1,21,25,,0,Common,0,0,
+Breezy Garden Underwater,Clamperl,366,1,1,1,21,25,Deep Sea Tooth,0,Uncommon,0,0,
+Breezy Garden Underwater,Corsola,222,1,1,1,21,25,,0,Uncommon,0,0,
+Breezy Garden Underwater,Gorebyss,368,1,1,1,21,25,Deep Sea Scale,0,Rare,0,0,
+Breezy Garden Underwater,Huntail,367,1,1,1,21,25,Deep Sea Tooth,0,Rare,0,0,
+Breezy Garden Underwater,Lanturn,171,1,1,1,21,25,,0,Common,0,0,
+Breezy Garden Underwater,Relicanth,369,1,1,1,21,25,,0,Rare,0,0,
+Breezy Garden Underwater,Shellder,90,1,1,1,21,25,,0,Rare,0,0,
+Breezy Garden Underwater,Wooper,194,1,1,1,21,25,,0,Common,0,0,
+Breezy Path,Azurill,298,1,1,1,17,21,,0,Rare,0,0,
+Breezy Path,Corphish,341,1,1,0,17,21,,0,Rare,0,0,
+Breezy Path,Dratini,147,1,0,1,21,21,,1,Rare,0,0,
+Breezy Path,Feebas,349,0,1,0,17,21,Prism Scale,0,Rare,0,0,
+Breezy Path,Finneon,456,1,1,1,17,21,,0,Uncommon,0,0,
+Breezy Path,Magikarp,129,1,1,1,17,21,Spring Brush Blue,0,Common,0,0,
+Breezy Path,Mantyke,458,1,1,1,17,21,,0,Uncommon,0,0,
+Breezy Path,Tentacool,72,1,1,1,17,21,,0,Common,0,0,
+Buring Strait Underwater,Finneon,456,1,1,1,25,31,,0,Uncommon,0,0,
+Buring Strait Underwater,Frillish,592,1,1,1,25,31,,0,Rare,0,0,
+Buring Strait Underwater,Jellicent,593,1,1,1,25,31,,0,Rare,0,0,
+Buring Strait Underwater,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Buring Strait Underwater,Relicanth,369,1,1,1,25,31,,0,Rare,0,0,
+Buring Strait Underwater,Shellder,90,1,1,1,25,31,,0,Uncommon,0,0,
+Buring Strait Underwater,Tentacool,72,1,1,1,25,31,,0,Common,0,0,
+Buring Strait Underwater,Tentacruel,73,1,1,1,25,31,,0,Uncommon,0,0,
+Burring Strait Under water,Dhelmise,781,1,1,1,25,31,,0,Rare,0,0,
+Burring Strait Under water,Golduck,55,1,1,1,25,31,,0,Common,0,0,
+Burring Strait Under water,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Burring Strait Under water,Mudkip,258,1,1,1,25,31,,0,Rare,0,0,
+Burring Strait Under water,Tentacool,72,1,1,1,25,31,,0,Common,0,0,
+Burring Strait Under water,Tentacruel,73,1,1,1,25,31,,0,Common,0,0,
+Burring Strait Under water,Vaporeon,134,1,1,1,25,31,,0,Rare,0,0,
+Cape Brink,Goldeen,118,1,1,1,30,37,,0,Common,1,0,Old Rod
+Cape Brink,Golduck,55,1,1,1,30,37,,0,Common,1,0,Good Rod
+Cape Brink,Gyarados,130,1,1,1,30,37,,0,Uncommon,1,1,Super Rod
+Cape Brink,Magikarp,129,1,1,1,30,37,,0,Common,1,1,Old Rod
+Cape Brink,Psyduck,54,1,1,1,30,37,,0,Common,1,0,Old Rod
+Cape Brink,Shellder,90,1,0,0,30,37,,0,Uncommon,1,1,Super Rod
+Cape Brink,Slowbro,80,1,1,1,30,37,,0,Uncommon,1,0,Good Rod
+Cape Brink,Slowpoke,79,1,1,1,30,37,,0,Common,1,0,Old Rod
+Cape Brink,Staryu,120,0,0,1,10,17,,0,Uncommon,1,1,Super Rod
+Cape Of Palpatoo,Alomomola,594,1,1,1,35,39,,0,Rare,0,0,
+Cape Of Palpatoo,Carvanha,318,1,1,1,35,39,,0,Uncommon,0,0,
+Cape Of Palpatoo,Corsola,222,1,1,1,35,39,,0,Common,0,0,
+Cape Of Palpatoo,Luvdisc,370,1,1,1,35,39,,0,Uncommon,0,0,
+Cape Of Palpatoo,Qwilfish,211,1,1,1,35,39,,0,Uncommon,0,0,
+Cape Of Palpatoo,Swablu,333,1,1,1,35,39,,0,Rare,0,0,
+Cape Of Palpatoo,Wingull,278,1,1,1,35,39,,0,Common,0,0,
+Cave Of Justice,Barboach,339,1,1,1,26,30,,0,Uncommon,0,0,
+Cave Of Justice,Golbat,42,1,1,1,26,30,,0,Common,0,0,
+Cave Of Justice,Goldeen,118,1,1,1,26,30,,0,Common,0,0,
+Cave Of Justice,Magikarp,129,1,1,1,26,30,,0,Common,0,0,
+Cave Of Justice,Marill,183,1,1,1,26,30,,0,Uncommon,0,0,
+Cave Of Justice,Noibat,714,1,0,1,26,30,,1,Rare,0,0,
+Cave Of Justice,Zubat,41,1,1,1,26,30,,0,Common,0,0,
+Celadon City,Goldeen,118,1,1,1,10,15,,0,Common,1,1,Super Rod
+Celadon City,Grimer,88,1,1,1,15,33,Smoke Ball,0,Common,1,0,Super Rod
+Celadon City,Koffing,109,1,1,1,15,22,Smoke Ball,0,Common,0,0,
+Celadon City,Magikarp,129,1,1,1,10,15,,0,Common,1,1,Old Rod
+Celadon City,Muk,89,1,1,1,15,33,,0,Common,0,0,
+Celadon City,Poliwag,60,0,0,1,10,15,Kings Rock,0,Common,1,1,Old Rod
+Celadon City,Slowpoke,79,1,1,1,10,15,,0,Common,1,1,Super Rod
+Cerulean Cave 1F,Goldeen,118,1,1,1,60,64,,0,Common,1,1,Good Rod
+Cerulean Cave 1F,Golduck,55,1,1,1,60,64,,0,Common,0,0,
+Cerulean Cave 1F,Gyarados,130,1,1,1,60,64,,0,Common,1,1,Super Rod
+Cerulean Cave 1F,Kingler,99,1,1,1,60,64,,0,Common,1,1,Super Rod
+Cerulean Cave 1F,Poliwag,60,1,1,1,60,64,Kings Rock,0,Common,1,1,Good Rod
+Cerulean Cave 1F,Poliwhirl,61,1,1,1,60,64,,0,Common,1,1,Super Rod
+Cerulean Cave 1F,Psyduck,54,1,1,1,60,64,,0,Common,1,0,Super Rod
+Cerulean Cave 1F,Seadra,117,1,1,1,60,64,,0,Common,1,1,Super Rod
+Cerulean Cave 1F,Seaking,119,1,1,1,60,64,,0,Uncommon,1,1,Super Rod
+Cerulean Cave 1F,Slowbro,80,1,1,1,60,64,,0,Uncommon,0,0,
+Cerulean Cave 1F,Slowpoke,79,1,1,1,60,64,,0,Common,1,0,Super Rod
+Cerulean Cave B1F,Goldeen,118,1,1,1,55,61,,0,Common,1,1,Good Rod
+Cerulean Cave B1F,Golduck,55,1,1,1,58,62,,0,Common,0,0,
+Cerulean Cave B1F,Gyarados,130,1,1,1,58,62,,0,Common,1,1,Super Rod
+Cerulean Cave B1F,Kingler,99,1,1,1,55,62,,0,Common,1,1,Super Rod
+Cerulean Cave B1F,Magikarp,129,1,1,1,5,15,,0,Common,1,1,Old Rod
+Cerulean Cave B1F,Poliwag,60,1,1,1,55,57,Kings Rock,0,Common,1,1,Good Rod
+Cerulean Cave B1F,Poliwhirl,61,1,1,1,58,62,,0,Common,1,1,Super Rod
+Cerulean Cave B1F,Psyduck,54,1,1,1,55,59,,0,Common,1,0,Super Rod
+Cerulean Cave B1F,Seadra,117,1,1,1,58,62,,0,Uncommon,1,1,Super Rod
+Cerulean Cave B1F,Seaking,119,1,1,1,58,62,,0,Uncommon,1,1,Super Rod
+Cerulean Cave B1F,Slowbro,80,1,1,1,55,61,,0,Uncommon,0,0,
+Cerulean Cave B1F,Slowpoke,79,1,1,1,55,61,,0,Common,1,0,Super Rod
+Cerulean City,Goldeen,118,1,1,1,11,15,,0,Common,1,0,Old Rod
+Cerulean City,Krabby,98,1,1,1,11,15,,0,Common,1,0,Old Rod
+Cerulean City,Magikarp,129,1,1,1,11,15,,0,Common,1,1,Old Rod
+Cerulean City,Wooper,194,1,1,1,8,12,,0,Common,0,0,
+Cherrygrove City,Corsola,222,1,1,0,10,14,,0,Uncommon,1,0,Good Rod
+Cherrygrove City,Staryu,120,0,0,1,10,14,,0,Uncommon,1,1,Super Rod
+Cherrygrove City,Tentacool,72,1,1,1,10,14,,0,Common,1,0,Old Rod
+Cherrygrove City,Tentacruel,73,1,1,1,10,14,,0,Common,1,0,Super Rod
+Cherrygrove City,Wailmer,320,1,1,1,10,14,,1,Uncommon,1,0,Super Rod
+Chrono Cross,Gyarados,130,1,1,1,15,25,,0,Uncommon,1,0,Super Rod
+Chrono Cross,Hoppip,187,1,1,0,5,25,,0,Common,1,0,Good Rod
+Chrono Cross,Horsea,116,1,1,1,5,25,Dragon Scale,0,Common,1,0,Good Rod
+Chrono Cross,Krabby,98,1,1,1,5,25,,0,Common,1,0,Old Rod
+Chrono Cross,Magikarp,129,1,1,1,5,25,,0,Common,1,1,Old Rod
+Chrono Cross,Mantyke,458,1,0,0,5,25,,0,Uncommon,1,1,Super Rod
+Chrono Cross,Seadra,117,1,1,1,15,25,,0,Uncommon,1,0,Super Rod
+Chrono Cross,Shellder,90,1,1,0,5,25,,0,Uncommon,1,1,Super Rod
+Chrono Cross,Slowpoke,79,1,1,1,5,25,,0,Common,1,0,Old Rod
+Cianwood City,Corsola,222,1,1,1,30,35,Hard Stone,0,Uncommon,1,0,Good Rod
+Cianwood City,Krabby,98,1,1,1,30,35,,0,Common,1,0,Old Rod
+Cianwood City,Octillery,224,1,1,1,30,35,Starf Berry,0,Uncommon,1,0,Old Rod
+Cianwood City,Remoraid,223,1,1,1,30,35,Starf Berry,0,Uncommon,1,0,Old Rod
+Cianwood City,Staryu,120,0,0,1,30,35,Water Stone,0,Rare,1,0,Super Rod
+Cianwood City,Tentacool,72,1,1,1,30,35,Poison Barb,0,Common,1,0,Old Rod
+Cianwood City,Tentacruel,73,1,1,1,30,35,Poison Barb,0,Common,1,0,Old Rod
+Cinnabar Island,Carvanha,318,1,1,1,37,39,Deep Sea Tooth,1,Uncommon,1,0,Good Rod
+Cinnabar Island,Corphish,341,1,1,1,37,39,Mystic Water,1,Rare,1,0,Super Rod
+Cinnabar Island,Corsola,222,1,1,1,37,39,,0,Uncommon,1,0,Good Rod
+Cinnabar Island,Goldeen,118,1,1,1,37,39,,0,Common,1,0,Old Rod
+Cinnabar Island,Krabby,98,1,1,1,37,39,,0,Common,1,0,Old Rod
+Cinnabar Island,Magikarp,129,1,1,1,37,39,,0,Common,1,0,Old Rod
+Cinnabar Island,Staryu,120,0,0,1,37,39,,0,Rare,1,0,Super Rod
+Cinnabar Island,Tentacool,72,1,1,1,37,39,,0,Common,1,0,Old Rod
+Cliff Edge Gate,Horsea,116,1,1,1,28,32,Dragon Scale,0,Uncommon,1,0,Good Rod
+Cliff Edge Gate,Krabby,98,1,1,1,28,32,,0,Common,1,0,Old Rod
+Cliff Edge Gate,Magikarp,129,1,1,1,28,32,,0,Common,1,1,Old Rod
+Cliff Edge Gate,Poliwag,60,1,0,1,28,32,Kings Rock,0,Common,1,1,Good Rod
+Corsica Island,Barboach,339,1,1,1,15,19,,0,Uncommon,0,0,
+Corsica Island,Basculin,550,1,1,1,9,13,,0,Rare,0,0,
+Corsica Island,Carvanha,318,1,1,1,15,19,,0,Rare,0,0,
+Corsica Island,Chinchou,170,1,1,1,15,19,,0,Common,0,0,
+Corsica Island,Feebas,349,1,1,1,15,19,,0,Rare,0,0,
+Corsica Island,Finneon,456,1,1,1,15,19,,0,Uncommon,0,0,
+Corsica Island,Goldeen,118,1,1,1,15,19,,0,Common,0,0,
+Corsica Island,Horsea,116,1,1,1,15,19,,0,Common,0,0,
+Corsica Island,Luvdisc,370,1,1,1,15,19,,0,Uncommon,0,0,
+Corsica Island,Magikarp,129,1,1,1,15,19,,0,Common,0,0,
+Corsica Island,Qwilfish,211,1,1,1,15,19,,0,Uncommon,0,0,
+Corsica Island,Relicanth,369,1,1,1,15,19,,0,Rare,0,0,
+Corsica Island,Remoraid,223,1,1,1,15,19,,0,Uncommon,0,0,
+Corsica Island,Wishiwashi,746,1,1,1,15,19,,0,Rare,0,0,
+Crater Town,Alomomola,594,1,1,1,26,30,,0,Rare,0,0,
+Crater Town,Corphish,341,1,1,1,26,30,,0,Rare,0,0,
+Crater Town,Goldeen,118,1,1,1,26,30,,0,Common,0,0,
+Crater Town,Horsea,116,1,1,1,26,30,,0,Common,0,0,
+Crater Town,Kingler,99,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town,Shellder,90,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town,Slowking,199,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town,Wingull,278,1,1,1,26,30,,0,Common,0,0,
+Crater Town Shore,Binacle,688,1,1,1,26,30,,0,Rare,0,0,
+Crater Town Shore,Buizel,418,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town Shore,Ducklett,580,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town Shore,Feebas,349,1,1,1,26,30,,0,Rare,0,0,
+Crater Town Shore,Gyarados,130,1,1,1,26,30,,0,Uncommon,0,0,
+Crater Town Shore,Seadra,117,1,1,1,26,30,,0,Common,0,0,
+Crater Town Shore,Seaking,119,1,1,1,26,30,,0,Common,0,0,
+Crater Town Shore,Wingull,278,1,1,1,26,30,,0,Common,0,0,
+Crumpit Valley,Buizel,418,1,1,1,25,31,Wacan Berry,0,Uncommon,0,0,
+Crumpit Valley,Feebas,349,1,1,1,25,31,,0,Rare,0,0,
+Crumpit Valley,Golduck,55,1,1,1,25,31,,0,Common,0,0,
+Crumpit Valley,Panpour,515,1,1,1,25,31,Rindo Berry,0,Uncommon,0,0,
+Crumpit Valley,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Crumpit Valley,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Crumpit Valley,Staryu,120,1,1,1,25,31,Water Stone,0,Rare,0,0,
+Crumpit Valley,Tentacruel,73,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Cryofrost Path,Cryogonal,615,1,1,1,25,31,Never-Melt Ice,0,Rare,0,0,
+Cryofrost Path,Horsea,116,1,1,1,25,31,,0,Common,0,0,
+Cryofrost Path,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Cryofrost Path,Qwilfish,211,1,1,1,25,31,Poison Barb,0,Uncommon,0,0,
+Cryofrost Path,Slowpoke,79,1,1,1,25,31,Lagging Tail,0,Common,0,0,
+Cryofrost Path,Squirtle,7,1,1,1,25,31,,0,Rare,0,0,
+Cryofrost Path,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Cryofrost Path,Wailmer,320,1,1,1,25,31,,0,Uncommon,0,0,
+Cryofrost Path,Wailord,321,1,1,1,25,31,,0,Uncommon,0,0,
+Crystal Cavern,Clauncher,692,1,1,1,25,31,,1,Rare,0,0,
+Crystal Cavern,Clawitzer,693,1,1,1,25,31,,0,Rare,0,0,
+Crystal Cavern,Dewgong,87,1,1,1,25,31,,0,Common,0,0,
+Crystal Cavern,Goldeen,118,1,1,1,25,31,,0,Common,0,0,
+Crystal Cavern,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Crystal Cavern,Seaking,119,1,1,1,25,31,,0,Uncommon,0,0,
+Crystal Cavern,Seel,86,1,1,1,25,31,,0,Common,0,0,
+Dark Cave East,Goldeen,118,1,1,1,15,20,Mystic Water,0,Common,1,0,Old Rod
+Dark Cave East,Magikarp,129,1,1,1,15,20,,0,Common,1,1,Old Rod
+Dark Cave North,Goldeen,118,1,1,1,44,47,,0,Common,1,0,Old Rod
+Dark Cave North,Krabby,98,1,1,1,44,47,,0,Common,1,0,Old Rod
+Dark Cave North,Magikarp,129,1,1,1,44,47,,0,Common,1,0,Old Rod
+Dark Cave North,Seaking,119,1,1,1,44,47,,0,Common,1,0,Old Rod
+Dark Cave South,Magikarp,129,1,1,1,5,7,,0,Common,1,0,Old Rod
+Dark Cave West,Goldeen,118,1,1,1,15,20,,0,Common,1,0,Old Rod
+Dark Cave West,Magikarp,129,1,1,1,15,20,,0,Common,1,1,Old Rod
+Dark Cave West,Wooper,194,1,1,1,15,20,,0,Common,1,0,Good Rod
+Desert Lagoon,Azurill,298,1,1,1,12,14,,1,Uncommon,1,0,Super Rod
+Desert Lagoon,Hippopotas,449,0,0,1,15,18,,1,Rare,0,0,
+Desert Lagoon,Lotad,270,1,1,1,12,14,,1,Uncommon,1,0,Super Rod
+Desert Lagoon,Poliwag,60,0,0,1,12,14,Kings Rock,1,Common,1,0,Good Rod
+Desert Lagoon,Surskit,283,1,1,1,12,14,,1,Uncommon,1,0,Super Rod
+Desert Lagoon,Totodile,158,0,1,0,12,14,,1,Rare,1,0,Super Rod
+Desert Lagoon,Wooper,194,1,1,1,12,14,,1,Common,1,0,Old Rod
+Dewford Town,Krabby,98,1,1,1,20,35,,0,Common,1,0,Old Rod
+Dewford Town,Magikarp,129,1,1,1,20,35,,0,Common,1,0,Old Rod
+Dewford Town,Pelipper,279,1,1,1,20,35,,0,Uncommon,0,0,
+Dewford Town,Skrelp,690,1,1,1,20,35,,0,Rare,0,0,
+Dewford Town,Tentacool,72,1,1,1,20,35,,0,Common,1,0,Old Rod
+Dewford Town,Wailmer,320,1,1,1,20,35,,0,Uncommon,0,0,
+Dewford Town,Wingull,278,1,1,1,20,35,,0,Common,0,0,
+Diamond Domain 1F,Flabebe,669,1,1,1,22,25,,0,Rare,0,0,
+Diamond Domain 1F,Goldeen,118,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain 1F,Psyduck,54,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain 1F,Slowpoke,79,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Clamperl,366,1,1,1,22,26,Deep Sea Tooth,0,Uncommon,1,1,Super Rod
+Diamond Domain B1F,Goldeen,118,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Goldeen,118,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Psyduck,54,1,1,1,21,25,,0,Common,1,0,Good Rod
+Diamond Domain B1F,Psyduck,54,1,1,1,21,25,,0,Common,1,0,Good Rod
+Diamond Domain B1F,Seel,86,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Seel,86,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Shellder,90,1,1,1,22,26,,0,Uncommon,1,1,Super Rod
+Diamond Domain B1F,Slowpoke,79,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Slowpoke,79,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain B1F,Staryu,120,1,1,1,22,26,,0,Uncommon,1,0,Super Rod
+Diamond Domain B1F,Staryu,120,1,1,1,22,26,,0,Uncommon,1,0,Super Rod
+Diamond Domain Main Cave,Clamperl,366,1,1,1,22,26,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Diamond Domain Main Cave,Goldeen,118,1,1,1,22,26,,0,Common,1,0,Good Rod
+Diamond Domain Main Cave,Psyduck,54,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain Main Cave,Shellder,90,1,1,1,22,26,,0,Uncommon,1,1,Super Rod
+Diamond Domain Main Cave,Slowpoke,79,1,1,1,22,26,,0,Common,1,0,Old Rod
+Diamond Domain Main Cave,Staryu,120,1,1,1,22,26,,0,Uncommon,1,1,Super Rod
+Diamond Empire Entry,Chinchou,170,1,1,1,22,31,,0,Common,0,0,
+Diamond Empire Entry,Feebas,349,1,1,1,22,31,,0,Rare,0,0,
+Diamond Empire Entry,Finneon,456,1,1,1,22,31,,0,Uncommon,0,0,
+Diamond Empire Entry,Lotad,270,1,1,1,22,31,,0,Uncommon,0,0,
+Diamond Empire Entry,Mantyke,458,1,1,1,22,26,,0,Uncommon,0,0,
+Diamond Empire Entry,Shellos,422,1,1,1,22,31,,0,Rare,0,0,
+Diamond Empire Entry,Slowpoke,79,1,1,1,22,31,,0,Common,0,0,
+Diamond Empire Entry,Wooper,194,1,1,1,22,31,,0,Common,0,0,
+Diamond Empire Pathway Underwater,Chinchou,170,1,1,1,21,25,Deep Sea Scale,0,Common,0,0,
+Diamond Empire Pathway Underwater,Clamperl,366,1,1,1,21,25,Deep Sea Tooth,0,Uncommon,0,0,
+Diamond Empire Pathway Underwater,Lanturn,171,1,1,1,21,25,,0,Rare,0,0,
+Diamond Empire Pathway Underwater,Magikarp,129,1,1,1,21,25,,0,Common,0,0,
+Diamond Empire Pathway Underwater,Mantyke,458,1,1,1,21,25,,0,Uncommon,0,0,
+Diamond Empire Pathway Underwater,Relicanth,369,1,1,1,21,25,,0,Rare,0,0,
+Diamond Empire Pathway Underwater,Remoraid,223,1,1,1,21,25,,0,Uncommon,0,0,
+Diamond Empire Pathway Underwater,Tentacool,72,1,1,1,21,25,,0,Common,0,0,
+Digletts Cave B2F,Horsea,116,1,1,1,20,25,Dragon Scale,0,Common,1,0,Good Rod
+Digletts Cave B2F,Krabby,98,1,1,1,20,25,,0,Common,1,0,Old Rod
+Digletts Cave B2F,Magikarp,129,1,1,1,14,19,,0,Common,1,1,Old Rod
+Digletts Cave B2F,Shellder,90,1,1,1,17,22,Pearl,0,Rare,1,1,Super Rod
+Digletts Cave B2F,Slowpoke,79,1,1,1,20,25,,0,Common,1,0,Good Rod
+Digletts Cave B2F,Wooper,194,1,1,1,20,25,,0,Common,1,0,Good Rod
+Dock Island,Goldeen,118,1,1,1,10,14,,0,Common,0,0,
+Dock Island,Krabby,98,1,1,1,10,14,,0,Common,0,0,
+Dock Island,Lotad,270,1,1,1,10,14,,1,Uncommon,0,0,
+Dock Island,Psyduck,54,1,1,1,10,14,,1,Common,0,0,
+Dock Island,Quagsire,195,0,0,1,10,14,,0,Uncommon,0,0,
+Dock Island,Surskit,283,1,1,1,10,14,,0,Uncommon,0,0,
+Dock Island,Wooper,194,1,0,1,10,14,,0,Common,0,0,
+Dragons Den,Corphish,341,1,1,1,50,54,,1,Rare,0,0,
+Dragons Den,Dratini,147,1,1,1,55,59,,0,Rare,0,0,
+Dragons Den,Golbat,42,1,1,1,50,54,,0,Common,0,0,
+Dragons Den,Goomy,704,1,1,1,50,54,,1,Rare,0,0,
+Dragons Den,Gyarados,130,1,1,1,50,54,,0,Uncommon,0,0,
+Dragons Den,Horsea,116,1,1,1,50,54,Dragon Scale,0,Common,0,0,
+Dragons Den,Kingler,99,1,1,1,50,54,,0,Common,0,0,
+Dragons Den,Seadra,117,1,1,1,50,54,Dragon Scale,0,Uncommon,0,0,
+Dragons Shrine,Azumarill,184,1,1,1,60,64,,0,Uncommon,0,0,
+Dragons Shrine,Dewgong,87,1,1,1,60,64,,0,Common,0,0,
+Dragons Shrine,Dratini,147,1,1,1,60,64,,0,Rare,0,0,
+Dragons Shrine,Golbat,42,1,1,1,60,64,,0,Common,0,0,
+Dragons Shrine,Lapras,131,1,1,1,60,64,,0,Rare,0,0,
+Dragons Shrine,Seadra,117,1,1,1,60,64,,0,Uncommon,0,0,
+Dragons Shrine,Skrelp,690,1,1,1,60,64,,1,Rare,0,0,
+Dragons Shrine,Tentacruel,73,1,1,1,60,64,,0,Common,0,0,
+Dragonspiral Tower Exterior,Carvanha,318,1,1,1,21,25,,0,Uncommon,0,0,
+Dragonspiral Tower Exterior,Clauncher,692,1,1,1,21,25,,0,Rare,0,0,
+Dragonspiral Tower Exterior,Krabby,98,1,1,1,21,25,,0,Common,0,0,
+Dragonspiral Tower Exterior,Lotad,270,1,1,1,21,25,,0,Uncommon,0,0,
+Dragonspiral Tower Exterior,Magikarp,129,1,1,1,21,25,,0,Common,0,0,
+Dragonspiral Tower Exterior,Marill,183,1,1,1,21,25,,0,Uncommon,0,0,
+Dragonspiral Tower Exterior,Panpour,515,1,1,1,21,25,,0,Uncommon,0,0,
+Dragonspiral Tower Exterior,Tympole,535,1,1,1,21,25,,0,Rare,0,0,
+Ecruteak City,Krabby,98,1,1,1,15,25,,0,Common,1,0,Old Rod
+Ecruteak City,Magikarp,129,1,1,1,15,25,,0,Common,1,0,Old Rod
+Ecruteak City,Poliwag,60,1,1,1,15,25,Kings Rock,0,Common,1,0,Old Rod
+Ecruteak City,Poliwhirl,61,1,1,1,15,25,Kings Rock,0,Uncommon,1,0,Super Rod
+Eindoak Waterway,Golduck,55,1,1,1,25,31,,0,Common,0,0,
+Eindoak Waterway,Goomy,704,1,1,1,25,31,,0,Rare,0,0,
+Eindoak Waterway,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Eindoak Waterway,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Eindoak Waterway,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Eindoak Waterway,Staryu,120,1,1,1,25,31,,0,Rare,0,0,
+Eindoak Waterway,Tentacool,72,1,1,1,25,31,,0,Common,0,0,
+Eindoak Waterway,Tentacruel,73,1,1,1,25,31,,0,Common,0,0,
+Eriyadu Town,Carvanha,318,1,1,1,35,39,,0,Uncommon,0,0,
+Eriyadu Town,Finneon,456,1,1,1,35,39,,0,Uncommon,0,0,
+Eriyadu Town,Frillish,592,1,1,1,35,39,,0,Rare,0,0,
+Eriyadu Town,Horsea,116,1,1,1,35,39,Dragon Scale,0,Common,0,0,
+Eriyadu Town,Lumineon,457,1,1,1,35,39,,0,Uncommon,0,0,
+Eriyadu Town,Luvdisc,370,1,1,1,35,39,,0,Uncommon,0,0,
+Eterna City,Barboach,339,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Eterna City,Buizel,418,1,1,1,20,30,,1,Uncommon,0,0,
+Eterna City,Golduck,55,1,1,1,20,30,,0,Common,1,0,Super Rod
+Eterna City,Gyarados,130,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Eterna City,Magikarp,129,1,1,1,20,30,,0,Common,1,0,Old Rod
+Eterna City,Psyduck,54,1,1,1,20,30,,0,Common,1,0,Old Rod
+Eterna City,Whiscash,340,1,1,1,20,30,,0,Rare,1,0,Super Rod
+Ever Grande City,Corsola,222,1,1,1,25,30,,0,Common,1,0,Old Rod
+Ever Grande City,Luvdisc,370,1,1,1,25,30,,0,Uncommon,1,0,Super Rod
+Ever Grande City,Magikarp,129,1,1,1,20,25,,1,Common,1,0,Old Rod
+Ever Grande City,Tentacool,72,1,1,1,24,29,,0,Common,1,0,Old Rod
+Ever Grande City,Tentacruel,73,1,1,1,29,34,,0,Common,1,0,Old Rod
+Ever Grande City,Wailmer,320,1,1,1,28,33,,0,Uncommon,1,0,Good Rod
+Evergreen Island Frozen Cave,Azurill,298,1,1,1,25,31,,0,Rare,0,0,
+Evergreen Island Frozen Cave,Dratini,147,1,1,1,25,31,,0,Rare,0,0,
+Evergreen Island Frozen Cave,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Frozen Cave,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Frozen Cave,Seel,86,1,1,1,25,31,Aspear Berry,0,Common,0,0,
+Evergreen Island Frozen Cave,Slowbro,80,1,1,1,25,31,Kings Rock,0,Common,0,0,
+Evergreen Island Frozen Cave,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Frozen Cave,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Evergreen Island Frozen Path,Alomomola,594,1,1,1,25,31,,0,Rare,0,0,
+Evergreen Island Frozen Path,Carvanha,318,1,1,1,25,31,Deep Sea Tooth,0,Uncommon,0,0,
+Evergreen Island Frozen Path,Dratini,147,1,1,1,25,31,,0,Rare,0,0,
+Evergreen Island Frozen Path,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Frozen Path,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Frozen Path,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Frozen Path,Slowbro,80,1,1,1,25,31,Kings Rock,0,Common,0,0,
+Evergreen Island Frozen Path,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Frozen Path,Tentacool,72,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Valley,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Valley,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Valley,Mudkip,258,1,1,1,25,31,,0,Rare,0,0,
+Evergreen Island Valley,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Evergreen Island Valley,Shellder,90,1,1,1,25,31,Shell Bell,0,Uncommon,0,0,
+Evergreen Island Valley,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Evergreen Island Valley,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Evergreen Island Valley,Tympole,535,1,1,1,25,31,Persim Berry,0,Rare,0,0,
+Evergreen Island Valley,Wooper,194,1,1,1,25,31,,0,Common,0,0,
+Evergreen Waterway,Golduck,55,1,1,1,25,31,,0,Common,1,0,Old Rod
+Evergreen Waterway,Psyduck,54,1,1,1,25,31,,0,Common,1,0,Old Rod
+Evergreen Waterway,Tentacool,72,1,1,1,25,31,,0,Common,1,0,Old Rod
+Evergreen Waterway,Tentacruel,73,1,1,1,25,31,,0,Common,1,0,Old Rod
+Fire Island,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Fire Island,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Fire Island,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Fire Island,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island Seaway,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island Seaway,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Fire Island Seaway,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island Seaway,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Fire Island Seaway,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Fire Island Seaway,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island Seaway,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Fire Island Seaway,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Five Island,Hoppip,187,1,1,0,15,19,,0,Common,1,0,Old Rod
+Five Island,Horsea,116,1,1,1,16,20,Dragon Scale,0,Common,1,0,Good Rod
+Five Island,Krabby,98,1,1,1,15,19,,0,Common,1,0,Old Rod
+Five Island,Magikarp,129,1,1,1,16,20,,0,Common,1,1,Old Rod
+Five Island,Psyduck,54,1,1,1,16,20,,0,Common,1,0,Good Rod
+Five Island,Shellder,90,1,1,1,16,20,Big Pearl,0,Uncommon,0,0,
+Five Island,Slowpoke,79,1,1,1,16,20,,0,Common,1,0,Good Rod
+Five Island,Staryu,120,0,0,1,16,20,,0,Uncommon,1,1,Super Rod
+Five Island,Tentacool,72,1,1,1,16,20,,0,Common,1,0,Old Rod
+Five Island,Tentacruel,73,1,1,1,33,37,,0,Common,1,0,Super Rod
+Five Isle Meadow,Hoppip,187,0,1,0,15,19,,0,Common,1,0,Good Rod
+Five Isle Meadow,Horsea,116,1,1,1,16,20,Dragon Scale,0,Common,1,0,Good Rod
+Five Isle Meadow,Krabby,98,1,1,1,16,20,,0,Common,1,0,Old Rod
+Five Isle Meadow,Magikarp,129,1,1,1,16,20,,0,Common,1,1,Old Rod
+Five Isle Meadow,Tentacool,72,1,1,1,15,19,,0,Common,1,0,Old Rod
+Five Isle Meadow,Tentacruel,73,0,1,0,33,37,,0,Common,1,0,Super Rod
+Four Island,Chinchou,170,1,1,1,5,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Four Island,Corsola,222,1,1,0,5,35,,0,Uncommon,1,0,Good Rod
+Four Island,Goldeen,118,1,1,1,5,35,,0,Common,1,0,Good Rod
+Four Island,Golduck,55,1,1,1,5,35,,0,Common,1,0,Super Rod
+Four Island,Gyarados,130,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Four Island,Lotad,270,1,1,1,5,35,,1,Uncommon,1,0,Super Rod
+Four Island,Magikarp,129,1,1,1,5,35,,0,Common,1,1,Old Rod
+Four Island,Marill,183,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Four Island,Poliwag,60,0,0,1,5,35,Kings Rock,0,Common,1,0,Good Rod
+Four Island,Psyduck,54,1,1,1,5,35,,0,Common,1,0,Old Rod
+Four Island,Surskit,283,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Four Island,Tentacool,72,1,1,1,5,35,,0,Common,1,0,Old Rod
+Four Island,Tentacruel,73,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Four Island,Wingull,278,1,1,1,5,35,,0,Uncommon,0,0,
+Four Island,Wooper,194,1,1,1,5,35,,0,Common,0,0,
+Frozen Cave,Dewgong,87,1,1,1,20,24,,0,Common,0,0,
+Frozen Cave,Golduck,55,1,1,1,20,24,,0,Common,0,0,
+Frozen Cave,Horsea,116,1,1,1,20,25,Dragon Scale,0,Common,1,0,Old Rod
+Frozen Cave,Krabby,98,1,1,1,20,25,,0,Common,1,0,Old Rod
+Frozen Cave,Lapras,131,1,1,1,20,25,,1,Rare,0,0,
+Frozen Cave,Magikarp,129,1,1,1,20,25,,0,Common,1,0,Old Rod
+Frozen Cave,Poliwag,60,0,0,1,20,25,Kings Rock,0,Common,1,0,Old Rod
+Frozen Cave,Psyduck,54,1,1,1,20,24,,0,Common,0,0,
+Frozen Cave,Quagsire,195,1,1,1,20,24,,0,Common,0,0,
+Frozen Cave,Seadra,117,1,1,1,20,25,,0,Uncommon,1,0,Old Rod
+Frozen Cave,Seel,86,1,1,1,20,24,,0,Common,0,0,
+Frozen Cave,Spheal,363,1,1,1,20,25,,0,Uncommon,1,0,Super Rod
+Frozen Cave B2F,Clamperl,366,1,1,1,25,31,Pearl,0,Uncommon,0,0,
+Frozen Cave B2F,Goomy,704,1,1,1,25,31,Roseli Berry,0,Rare,0,0,
+Frozen Cave B2F,Horsea,116,1,1,1,25,31,Dragon Scale,0,Common,0,0,
+Frozen Cave B2F,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Frozen Cave B2F,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Frozen Cave B2F,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Frozen Cave B2F,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Frozen Cave B2F,Tympole,535,1,1,1,25,31,Persim Berry,0,Rare,0,0,
+Fuchsia City,Goldeen,118,1,1,1,10,15,,0,Common,1,1,Super Rod
+Fuchsia City,Gyarados,130,1,1,1,20,20,,0,Common,1,1,Super Rod
+Fuchsia City,Horsea,116,1,1,0,15,20,Dragon Scale,0,Common,1,1,Super Rod
+Fuchsia City,Krabby,98,1,1,1,10,15,,0,Common,1,1,Good Rod
+Fuchsia City,Magikarp,129,1,1,1,10,15,,0,Common,1,1,Old Rod
+Fuchsia City,Politoed,186,1,1,1,20,20,Kings Rock,1,Rare,1,1,Super Rod
+Fuchsia City,Poliwag,60,1,0,1,10,15,Kings Rock,0,Common,1,1,Good Rod
+Fuego Ironworks,Finneon,456,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Fuego Ironworks,Gastrodon,423,1,1,1,20,32,,0,Rare,0,0,
+Fuego Ironworks,Gyarados,130,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Fuego Ironworks,Magikarp,129,1,1,1,20,32,,0,Common,1,0,Old Rod
+Fuego Ironworks,Pelipper,279,1,1,1,20,32,,0,Uncommon,0,0,
+Fuego Ironworks,Shellder,90,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Fuego Ironworks,Shellos,422,1,1,1,20,32,,0,Rare,0,0,
+Fuego Ironworks,Tentacruel,73,1,1,1,20,32,,0,Uncommon,1,0,Old Rod
+Fuego Ironworks,Wingull,278,1,1,1,20,32,,0,Common,0,0,
+Galeras Island East,Chinchou,170,1,1,1,27,33,Deep Sea Scale,0,Common,1,0,Old Rod
+Galeras Island South,Basculin,550,1,1,1,25,31,,0,Rare,1,0,Super Rod
+Galeras Island South,Corsola,222,1,1,1,25,31,,0,Uncommon,0,0,
+Galeras Island South,Finneon,456,1,1,1,25,31,,0,Uncommon,1,0,Good Rod
+Galeras Island South,Golduck,55,1,1,1,25,31,,0,Common,1,0,Good Rod
+Galeras Island South,Psyduck,54,1,1,1,25,31,,0,Common,1,0,Old Rod
+Galeras Island South,Tentacool,72,1,1,1,25,31,,0,Common,1,0,Old Rod
+Galeras Island South,Tentacruel,73,1,1,1,25,31,,0,Common,1,0,Good Rod
+Ghoul Swamp,Azurill,298,1,1,1,16,20,,0,Rare,0,0,
+Ghoul Swamp,Gastly,92,1,1,1,7,11,,0,Common,0,0,
+Ghoul Swamp,Haunter,93,1,1,1,7,11,Spell Tag,0,Common,0,0,
+Ghoul Swamp,Koffing,109,1,1,1,20,22,Smoke Ball,0,Common,0,0,
+Ghoul Swamp,Magikarp,129,1,1,1,21,25,,0,Common,0,0,
+Ghoul Swamp,Marill,183,1,1,1,21,25,,0,Uncommon,0,0,
+Ghoul Swamp,Spheal,363,1,1,1,21,25,,0,Uncommon,0,0,
+Ghoul Swamp,Totodile,158,1,1,1,16,20,,0,Rare,0,0,
+Green Path,Horsea,116,1,1,1,12,20,Dragon Scale,0,Common,1,0,Old Rod
+Green Path,Kingler,99,1,1,1,16,31,,0,Common,1,0,Good Rod
+Green Path,Krabby,98,1,1,1,12,27,,0,Common,1,0,Old Rod
+Green Path,Lapras,131,1,1,1,15,30,,0,Rare,1,0,Super Rod
+Green Path,Magikarp,129,1,1,1,12,20,,0,Common,1,1,Old Rod
+Green Path,Psyduck,54,0,0,1,12,27,,0,Common,1,0,Old Rod
+Green Path,Qwilfish,211,1,0,1,12,27,,0,Uncommon,1,1,Super Rod
+Green Path,Slowpoke,79,1,1,1,12,27,,0,Common,1,0,Old Rod
+Green Path,Tentacruel,73,1,1,1,35,50,,0,Common,1,0,Super Rod
+Guild Island,Alomomola,594,1,1,1,42,50,,0,Rare,0,0,
+Guild Island,Chinchou,170,1,1,1,42,50,,0,Common,0,0,
+Guild Island,Frillish,592,1,1,1,42,50,,0,Rare,0,0,
+Guild Island,Grimer-Alolan,3071,1,1,1,42,50,,0,Rare,0,0,
+Guild Island,Mantyke,458,1,1,1,42,50,,0,Uncommon,0,0,
+Guild Island,Slowpoke,79,1,1,1,42,50,,0,Common,0,0,
+Guild Island,Tentacool,72,1,1,1,42,50,,0,Common,0,0,
+Guild Island,Tympole,535,1,1,1,42,50,,0,Uncommon,0,0,
+High Tide Entrance Room,Golbat,42,1,1,1,30,38,,0,Common,0,0,
+High Tide Entrance Room,Magikarp,129,1,1,1,30,38,,0,Common,1,1,Old Rod
+High Tide Entrance Room,Noibat,714,0,0,1,30,38,,1,Rare,0,0,
+High Tide Entrance Room,Piplup,393,1,1,0,30,38,,0,Rare,0,0,
+High Tide Entrance Room,Tentacool,72,1,1,1,30,38,,0,Common,1,0,Old Rod
+High Tide Entrance Room,Tentacruel,73,1,1,1,30,38,,0,Common,0,0,
+High Tide Entrance Room,Wailmer,320,1,1,1,30,38,,0,Uncommon,1,1,Super Rod
+Hoenn Safari Zone Area 2,Barboach,339,1,1,1,28,32,,0,Uncommon,1,0,Good Rod
+Hoenn Safari Zone Area 2,Clamperl,366,1,1,1,28,32,Pearl,0,Uncommon,1,0,Good Rod
+Hoenn Safari Zone Area 2,Feebas,349,1,1,1,28,32,Prism Scale,0,Rare,1,0,Super Rod
+Hoenn Safari Zone Area 2,Frillish,592,1,1,1,28,32,,1,Rare,1,0,Super Rod
+Hoenn Safari Zone Area 2,Goldeen,118,1,1,1,28,32,,0,Common,1,0,Old Rod
+Hoenn Safari Zone Area 2,Lombre,271,1,1,1,28,32,Mental Herb,0,Common,1,0,Good Rod
+Hoenn Safari Zone Area 2,Lotad,270,1,1,1,28,32,Mental Herb,0,Common,1,0,Good Rod
+Hoenn Safari Zone Area 2,Seaking,119,1,1,1,28,32,,0,Common,1,0,Good Rod
+Hoenn Safari Zone Area 3,Barboach,339,1,1,1,28,32,,0,Uncommon,1,0,Good Rod
+Hoenn Safari Zone Area 3,Clamperl,366,1,1,1,28,32,Pearl,0,Uncommon,1,0,Good Rod
+Hoenn Safari Zone Area 3,Lotad,270,1,1,1,28,32,Mental Herb,0,Common,0,0,
+Hoenn Safari Zone Area 3,Magikarp,129,1,1,1,28,32,,0,Common,1,0,Old Rod
+Hoenn Safari Zone Area 3,Poliwag,60,1,1,1,28,32,,0,Common,1,0,Old Rod
+Hoenn Safari Zone Area 3,Poliwhirl,61,1,1,1,28,32,Kings Rock,0,Common,1,0,Good Rod
+Hoenn Safari Zone Area 3,Swablu,333,1,1,1,16,20,,0,Rare,0,0,
+Hoenn Safari Zone Area 3,Tympole,535,1,1,1,28,32,Persim Berry,1,Rare,1,0,Super Rod
+Hoenn Safari Zone Area 5,Azurill,298,1,1,0,28,32,,0,Rare,0,0,
+Hoenn Safari Zone Area 5,Carvanha,318,0,0,1,28,32,Deep Sea Tooth,0,Uncommon,1,0,Super Rod
+Hoenn Safari Zone Area 5,Luvdisc,370,1,1,1,28,32,,0,Uncommon,1,0,Good Rod
+Hoenn Safari Zone Area 5,Mudkip,258,1,1,1,10,14,,0,Rare,0,0,
+Hoenn Safari Zone Area 5,Octillery,224,1,1,1,28,32,Starf Berry,0,Uncommon,1,0,Super Rod
+Hoenn Safari Zone Area 5,Pelipper,279,1,1,1,28,32,,0,Common,0,0,
+Hoenn Safari Zone Area 5,Quagsire,195,1,1,1,28,32,,0,Common,1,0,Old Rod
+Hoenn Safari Zone Area 5,Wailmer,320,1,1,1,28,32,,0,Uncommon,1,0,Super Rod
+Hoenn Safari Zone Area 5,Wingull,278,1,1,1,28,32,,0,Common,0,0,
+Hoenn Safari Zone Area 5,Wooper,194,1,1,1,28,32,,0,Common,1,0,Old Rod
+Ice Island,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Ice Island,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Ice Island,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Ice Island,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Ice Island Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Ice Island Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Ice Island Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Ice Island Seaway,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Ice Island Seaway,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Ice Island Seaway,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Ice Island Seaway Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Ice Island Seaway Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Ice Island Seaway Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Icefall Back Cave,Gyarados,130,1,1,1,30,34,,0,Uncommon,1,0,Super Rod
+Icefall Back Cave,Horsea,116,1,1,1,30,34,Dragon Scale,0,Common,1,0,Good Rod
+Icefall Back Cave,Krabby,98,1,1,1,30,34,,0,Common,1,0,Old Rod
+Icefall Back Cave,Lapras,131,1,1,1,41,45,,0,Rare,0,0,
+Icefall Back Cave,Magikarp,129,1,1,1,30,34,,0,Common,1,1,Old Rod
+Icefall Back Cave,Seadra,117,1,1,1,30,34,,0,Uncommon,1,0,Super Rod
+Icefall Back Cave,Tentacool,72,1,1,1,30,34,,0,Common,1,0,Old Rod
+Icefall Cave 1F,Goldeen,118,1,1,1,30,34,,0,Common,1,0,Good Rod
+Icefall Cave 1F,Horsea,116,1,1,1,30,34,Dragon Scale,0,Common,1,0,Old Rod
+Icefall Cave 1F,Krabby,98,1,1,1,30,34,,0,Common,1,0,Old Rod
+Icefall Cave 1F,Magikarp,129,1,1,1,30,34,,0,Common,1,1,Old Rod
+Icefall Cave 1F,Seadra,117,1,1,1,30,34,,0,Uncommon,1,0,Good Rod
+Icefall Cave 1F,Seel,86,1,1,1,30,34,,0,Common,1,0,Old Rod
+Icefall Cave 1F,Shellder,90,1,1,1,30,34,,0,Uncommon,1,1,Super Rod
+Icefall Cave Entrance,Dewgong,87,1,1,1,5,20,,0,Common,1,0,Good Rod
+Icefall Cave Entrance,Goldeen,118,1,1,1,5,20,,0,Common,1,0,Good Rod
+Icefall Cave Entrance,Gyarados,130,1,1,1,15,30,,0,Uncommon,1,0,Super Rod
+Icefall Cave Entrance,Magikarp,129,1,1,1,5,20,,0,Common,1,1,Old Rod
+Icefall Cave Entrance,Marill,183,1,1,1,5,20,,0,Uncommon,1,0,Super Rod
+Icefall Cave Entrance,Poliwag,60,1,1,1,5,20,Kings Rock,0,Common,1,0,Good Rod
+Icefall Cave Entrance,Poliwhirl,61,1,1,1,10,25,,0,Uncommon,1,0,Super Rod
+Icefall Cave Entrance,Seel,86,1,1,1,5,36,,0,Common,1,0,Good Rod
+Icefall Cave Entrance,Slowpoke,79,1,1,1,5,36,,0,Common,1,0,Good Rod
+Icefall Cave Entrance,Wooper,194,1,1,1,5,36,,0,Common,1,0,Good Rod
+Ilex Forest,Golduck,55,1,1,1,10,14,,0,Common,1,0,Old Rod
+Ilex Forest,Magikarp,129,1,1,1,10,14,,0,Common,1,0,Old Rod
+Ilex Forest,Poliwag,60,0,0,1,10,14,Kings Rock,0,Common,1,0,Old Rod
+Ilex Forest,Psyduck,54,1,1,1,10,14,,0,Common,1,0,Old Rod
+Iron Island,Finneon,456,1,1,1,32,36,Rindo Berry,0,Uncommon,1,0,Good Rod
+Iron Island,Gyarados,130,1,1,1,32,36,,0,Common,1,0,Old Rod
+Iron Island,Lumineon,457,1,1,1,32,36,Rindo Berry,0,Uncommon,1,0,Good Rod
+Iron Island,Magikarp,129,1,1,1,32,36,,0,Common,1,0,Old Rod
+Iron Island,Pelipper,279,1,1,1,32,36,,0,Common,1,0,Old Rod
+Iron Island,Qwilfish,211,1,1,1,32,36,Poison Barb,0,Uncommon,1,0,Good Rod
+Iron Island,Tentacool,72,1,1,1,32,36,Poison Barb,0,Common,1,0,Old Rod
+Iron Island,Tentacruel,73,1,1,1,32,36,Poison Barb,0,Common,1,0,Old Rod
+Iron Island,Wingull,278,1,1,1,32,36,,0,Common,1,0,Old Rod
+Jura Cave,Carvanha,318,1,1,1,20,24,Deep Sea Tooth,1,Uncommon,0,0,
+Jura Cave,Feebas,349,1,1,1,25,29,Prism Scale,1,Rare,0,0,
+Jura Cave,Goldeen,118,1,1,1,20,24,,1,Common,0,0,
+Jura Cave,Horsea,116,1,1,1,20,24,Dragon Scale,1,Common,0,0,
+Jura Cave,Magikarp,129,1,1,1,20,24,,1,Common,0,0,
+Jura Cave,Seadra,117,1,1,1,20,24,Dragon Scale,1,Common,0,0,
+Jura Cave,Tirtouga,564,1,1,1,20,24,Cover Fossil,1,Rare,0,0,
+Kalijodo Cave B2F,Barboach,339,1,1,1,34,38,,0,Uncommon,0,0,
+Kalijodo Cave B2F,Binacle,688,1,1,1,34,38,Kee Berry,0,Rare,0,0,
+Kalijodo Cave B2F,Golduck,55,1,1,1,34,38,,0,Common,0,0,
+Kalijodo Cave B2F,Marill,183,1,1,1,34,36,Hard Stone,0,Uncommon,0,0,
+Kalijodo Cave B2F,Oshawott,501,1,1,1,34,38,,0,Rare,0,0,
+Kalijodo Cave B2F,Psyduck,54,1,1,1,34,38,,0,Common,0,0,
+Kalijodo Cave B2F,Spheal,363,1,1,1,34,38,,0,Uncommon,0,0,
+Kalijodo Cave B2F,Tirtouga,564,1,1,1,34,38,Cover Fossil,0,Rare,0,0,
+Kalijodo Lake,Binacle,688,1,1,1,36,40,Kee Berry,1,Rare,0,0,
+Kalijodo Lake,Corsola,222,1,1,1,36,40,Hard Stone,0,Uncommon,0,0,
+Kalijodo Lake,Froakie,656,1,1,1,36,40,,0,Rare,0,0,
+Kalijodo Lake,Horsea,116,1,1,1,36,40,Dragon Scale,0,Common,0,0,
+Kalijodo Lake,Masquerain,284,1,1,1,36,40,SilverPowder,0,Common,0,0,
+Kalijodo Lake,Panpour,515,1,1,1,36,40,Rindo Berry,0,Uncommon,0,0,
+Kalijodo Lake,Remoraid,223,1,1,1,36,40,Starf Berry,0,Uncommon,0,0,
+Kalijodo Lake,Shellder,90,1,1,1,36,40,Shell Bell,0,Uncommon,0,0,
+Kalijodo Lake,Wingull,278,1,1,1,36,40,,0,Common,0,0,
+Kindle Road,Gyarados,130,1,1,1,25,29,,0,Uncommon,1,0,Super Rod
+Kindle Road,Horsea,116,1,1,1,12,16,Dragon Scale,0,Common,1,1,Good Rod
+Kindle Road,Kingler,99,1,1,1,25,29,,0,Common,1,1,Super Rod
+Kindle Road,Krabby,98,1,1,1,12,16,,0,Common,1,0,Old Rod
+Kindle Road,Magikarp,129,1,1,1,12,16,,0,Common,1,1,Old Rod
+Kindle Road,Psyduck,54,1,1,1,25,29,,0,Common,1,0,Good Rod
+Kindle Road,Slowpoke,79,1,1,1,23,27,,0,Common,1,0,Good Rod
+Kindle Road,Tentacool,72,1,1,1,12,16,,0,Common,0,0,
+Kindle Road,Tentacruel,73,1,1,1,30,34,,0,Uncommon,0,0,
+Kindle Road,Wailmer,320,1,1,1,30,34,,0,Uncommon,0,0,
+Lake Acuity,Golduck,55,1,1,1,35,41,,0,Common,0,0,
+Lake Acuity,Magikarp,129,1,1,1,35,41,,0,Common,1,0,Old Rod
+Lake Acuity,Poliwhirl,61,1,1,1,35,41,,0,Uncommon,1,0,Super Rod
+Lake Acuity,Psyduck,54,1,1,1,35,41,,0,Common,0,0,
+Lake Acuity,Wingull,278,1,1,1,35,41,,0,Common,1,0,Old Rod
+Lake Cave,Corsola,222,1,1,1,18,22,,0,Uncommon,1,0,Good Rod
+Lake Cave,Golbat,42,1,1,1,26,30,,0,Common,0,0,
+Lake Cave,Horsea,116,1,1,1,26,30,Dragon Scale,0,Uncommon,1,0,Good Rod
+Lake Cave,Marill,183,1,1,1,26,30,,0,Uncommon,1,0,Good Rod
+Lake Cave,Oshawott,501,1,1,1,18,22,,0,Rare,0,0,
+Lake Cave,Qwilfish,211,1,1,1,18,22,,0,Uncommon,1,1,Super Rod
+Lake Cave,Wooper,194,1,1,1,26,30,,0,Common,1,0,Old Rod
+Lake Cave,Zubat,41,1,1,1,26,30,,0,Common,0,0,
+Lake Of Rage,Magikarp,129,1,1,1,36,40,,0,Common,1,0,Old Rod
+Lake Of Rage,Zubat,41,0,0,1,36,40,,0,Common,0,0,
+Lake Valor,Goldeen,118,1,1,1,35,39,,0,Common,1,0,Old Rod
+Lake Valor,Golduck,55,1,1,1,35,39,,0,Common,0,0,
+Lake Valor,Gyarados,130,1,1,1,35,39,,0,Common,1,0,Good Rod
+Lake Valor,Magikarp,129,1,1,1,35,39,,0,Common,1,0,Old Rod
+Lake Valor,Psyduck,54,1,1,1,35,39,,0,Common,0,0,
+Lake Valor,Seaking,119,1,1,1,35,39,,0,Uncommon,1,0,Good Rod
+Lake Verity,Goldeen,118,1,1,1,20,30,,0,Common,1,0,Good Rod
+Lake Verity,Golduck,55,1,1,1,20,30,,0,Common,1,0,Super Rod
+Lake Verity,Gyarados,130,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Lake Verity,Magikarp,129,1,1,1,20,30,,0,Common,1,0,Old Rod
+Lake Verity,Psyduck,54,1,1,1,20,30,,0,Common,1,0,Old Rod
+Lake Verity,Seaking,119,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Leev Town Entrance,Frillish,592,1,1,1,20,24,,1,Rare,0,0,
+Leev Town Entrance,Lotad,270,1,1,1,20,24,Mental Herb,1,Common,0,0,
+Leev Town Entrance,Mantyke,458,1,1,1,20,24,,1,Uncommon,0,0,
+Leev Town Entrance,Psyduck,54,1,1,1,20,24,,1,Common,0,0,
+Leev Town Entrance,Shellos,422,1,1,1,20,24,Rowap Berry,1,Rare,0,0,
+Leev Town Entrance,Wingull,278,1,1,1,20,24,,1,Common,0,0,
+Lightning Island,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Lightning Island,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Lightning Island,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Lightning Island,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Lightning Island Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Lightning Island Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Lightning Island Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Seaway,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Seaway,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Lightning Island Seaway,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Seaway,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Lightning Island Seaway,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Lightning Island Seaway,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Seaway,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lightning Island Seaway,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Lilycove City,Pelipper,279,1,1,1,25,35,,0,Uncommon,0,0,
+Lilycove City,Shellder,90,1,1,0,25,35,,0,Uncommon,1,0,Super Rod
+Lilycove City,Staryu,120,1,0,1,36,42,,0,Uncommon,1,0,Super Rod
+Lilycove City,Tentacool,72,1,1,1,25,35,,0,Common,1,0,Old Rod
+Lilycove City,Tentacruel,73,1,1,1,25,35,,0,Common,0,0,
+Lilycove City,Wailmer,320,1,1,1,25,35,,0,Uncommon,1,0,Super Rod
+Lilycove City,Wingull,278,1,1,1,25,35,,0,Common,0,0,
+Lost Cave,Gyarados,130,1,1,1,20,26,,0,Uncommon,1,0,Old Rod
+Lost Cave,Magikarp,129,1,1,1,15,21,,0,Common,1,0,Old Rod
+Lost Cave,Tentacool,72,1,1,1,15,21,,0,Common,1,0,Old Rod
+Lost Cave,Tentacruel,73,1,1,1,15,21,,0,Uncommon,1,0,Good Rod
+Love Island,Azurill,298,0,0,1,13,17,,0,Uncommon,0,0,
+Love Island,Carvanha,318,0,1,0,18,22,,0,Uncommon,0,0,
+Love Island,Chinchou,170,0,0,1,13,17,,0,Common,0,0,
+Love Island,Clamperl,366,0,0,1,13,17,,0,Uncommon,0,0,
+Love Island,Corsola,222,1,1,0,13,17,,0,Uncommon,0,0,
+Love Island,Dratini,147,0,0,1,18,22,,0,Rare,0,0,
+Love Island,Finneon,456,1,1,0,13,17,,0,Uncommon,0,0,
+Love Island,Lapras,131,1,1,0,13,17,,0,Rare,0,0,
+Love Island,Luvdisc,370,1,1,0,13,17,,0,Uncommon,0,0,
+Love Island,Mantyke,458,1,1,0,13,17,,0,Uncommon,0,0,
+Love Island,Poliwag,60,0,0,1,13,17,,0,Common,0,0,
+Love Island,Psyduck,54,1,1,1,13,17,,0,Common,0,0,
+Love Island,Seel,86,1,1,0,13,17,,0,Common,0,0,
+Love Island,Slowpoke,79,1,1,0,13,17,,0,Common,0,0,
+Love Island,Staryu,120,1,0,0,18,22,,0,Uncommon,0,0,
+Love Island,Tentacool,72,1,1,0,13,17,,0,Common,0,0,
+Medusas Cloud,Barboach,339,1,1,1,30,35,,0,Uncommon,0,0,
+Medusas Cloud,Chinchou,170,1,1,1,30,35,Apicot Berry,0,Common,0,0,
+Medusas Cloud,Frillish,592,1,1,1,30,35,,0,Rare,0,0,
+Medusas Cloud,Goomy,704,1,1,1,30,35,Roseli Berry,0,Rare,0,0,
+Medusas Cloud,Illumise,314,1,1,1,30,35,Wiki Berry,0,Uncommon,0,0,
+Medusas Cloud,Lotad,270,1,1,1,30,35,Mental Herb,0,Common,0,0,
+Medusas Cloud,Slowpoke,79,1,1,1,30,35,Lagging Tail,0,Common,0,0,
+Medusas Cloud,Volbeat,313,1,1,1,30,35,Figy Berry,0,Uncommon,0,0,
+Memorial Pillar,Hoppip,187,1,1,0,10,14,,0,Common,1,0,Good Rod
+Memorial Pillar,Horsea,116,1,1,1,10,14,Dragon Scale,0,Common,1,0,Good Rod
+Memorial Pillar,Kingler,99,1,1,1,25,29,,0,Common,1,0,Super Rod
+Memorial Pillar,Krabby,98,1,1,1,10,14,,0,Common,1,0,Old Rod
+Memorial Pillar,Magikarp,129,1,1,1,10,14,,0,Common,1,1,Old Rod
+Memorial Pillar,Psyduck,54,1,0,0,10,14,,0,Common,1,0,Old Rod
+Memorial Pillar,Qwilfish,211,1,0,1,10,14,,0,Uncommon,1,1,Super Rod
+Memorial Pillar,Remoraid,223,0,1,0,10,14,,0,Uncommon,1,1,Super Rod
+Memorial Pillar,Seadra,117,1,1,1,25,29,,0,Uncommon,1,0,Super Rod
+Memorial Pillar,Slowpoke,79,1,1,1,25,29,,0,Common,1,0,Good Rod
+Memorial Pillar,Tentacool,72,1,1,1,10,14,,0,Common,1,0,Old Rod
+Memorial Pillar,Tentacruel,73,1,1,1,31,35,,0,Common,1,0,Super Rod
+Meteor Falls 1F 1R,Barboach,339,1,1,1,19,25,,0,Uncommon,1,0,Good Rod
+Meteor Falls 1F 1R,Goldeen,118,1,1,1,19,25,,0,Common,1,0,Old Rod
+Meteor Falls 1F 1R,Kingler,99,1,1,1,19,25,,0,Common,1,0,Old Rod
+Meteor Falls 1F 1R,Krabby,98,1,1,1,19,25,,0,Common,1,0,Old Rod
+Meteor Falls 1F 1R,Lunatone,337,0,0,1,19,25,Moon Stone,0,Rare,1,0,Super Rod
+Meteor Falls 1F 1R,Magikarp,129,1,1,1,19,25,,0,Common,1,0,Old Rod
+Meteor Falls 1F 1R,Solrock,338,1,1,0,19,25,Sun Stone,0,Rare,1,0,Super Rod
+Meteor Falls 1F 2R,Barboach,339,1,1,1,14,20,,0,Uncommon,1,0,Super Rod
+Meteor Falls 1F 2R,Goldeen,118,1,1,1,14,20,,0,Common,1,0,Old Rod
+Meteor Falls 1F 2R,Kingler,99,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls 1F 2R,Krabby,98,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls 1F 2R,Lunatone,337,0,0,1,14,20,,0,Rare,0,0,
+Meteor Falls 1F 2R,Skrelp,690,1,0,1,14,20,,0,Rare,0,0,
+Meteor Falls 1F 2R,Solrock,338,0,1,0,14,20,,0,Rare,0,0,
+Meteor Falls 1F 2R,Whiscash,340,1,1,1,14,20,,0,Rare,1,0,Super Rod
+Meteor Falls B1F 1R,Barboach,339,1,1,1,14,20,,0,Uncommon,1,0,Super Rod
+Meteor Falls B1F 1R,Goldeen,118,1,1,1,14,20,,0,Common,1,1,Old Rod
+Meteor Falls B1F 1R,Kingler,99,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls B1F 1R,Krabby,98,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls B1F 1R,Lunatone,337,0,0,1,14,20,,0,Rare,0,0,
+Meteor Falls B1F 1R,Magikarp,129,1,1,1,14,20,,0,Common,1,1,Old Rod
+Meteor Falls B1F 1R,Solrock,338,0,1,0,14,20,,0,Rare,0,0,
+Meteor Falls B1F 1R,Whiscash,340,1,1,1,14,20,,0,Rare,1,0,Super Rod
+Meteor Falls B1F 1R,Zubat,41,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls B1F 2R,Barboach,339,1,1,1,14,20,,0,Uncommon,1,0,Super Rod
+Meteor Falls B1F 2R,Goldeen,118,1,1,1,14,20,,0,Common,1,0,Old Rod
+Meteor Falls B1F 2R,Kingler,99,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls B1F 2R,Krabby,98,1,1,1,14,20,,0,Common,0,0,
+Meteor Falls B1F 2R,Lunatone,337,0,0,1,14,20,,0,Rare,0,0,
+Meteor Falls B1F 2R,Magikarp,129,1,1,1,14,20,,0,Common,1,0,Old Rod
+Meteor Falls B1F 2R,Solrock,338,0,1,0,14,20,,0,Rare,0,0,
+Meteor Falls B1F 2R,Whiscash,340,1,1,1,14,20,,0,Rare,1,0,Super Rod
+Meteor Falls B1F 2R,Zubat,41,1,1,1,14,20,,0,Common,0,0,
+Mossdeep City,Frillish,592,1,1,1,28,36,,0,Rare,0,0,
+Mossdeep City,Magikarp,129,1,1,1,28,36,,0,Common,1,1,Old Rod
+Mossdeep City,Pelipper,279,1,1,1,28,36,,0,Uncommon,0,0,
+Mossdeep City,Sharpedo,319,1,1,1,28,36,,0,Rare,1,0,Super Rod
+Mossdeep City,Tentacool,72,1,1,1,28,36,,0,Common,1,0,Old Rod
+Mossdeep City,Tentacruel,73,1,1,1,28,36,,0,Common,0,0,
+Mossdeep City,Wailmer,320,1,1,1,28,36,,0,Uncommon,1,0,Super Rod
+Mountain Area Dungeon,Magikarp,129,1,1,1,9,15,,0,Common,0,0,
+Mountain Area Dungeon,Psyduck,54,1,1,1,9,15,,0,Common,0,0,
+Mountain Area Dungeon,Seel,86,1,1,1,9,15,,0,Common,0,0,
+Mountain Area Dungeon,Spheal,363,1,1,1,9,15,,0,Uncommon,0,0,
+Mountain Area Dungeon,Swablu,333,1,1,1,16,22,,0,Rare,0,0,
+Mt. Coronet 4F,Barboach,339,1,1,1,15,20,,0,Uncommon,1,1,Good Rod
+Mt. Coronet 4F,Dratini,147,1,1,1,25,30,,0,Rare,1,1,Super Rod
+Mt. Coronet 4F,Goldeen,118,1,1,1,15,20,,0,Common,1,1,Old Rod
+Mt. Coronet 4F,Gyarados,130,1,1,1,15,20,,0,Uncommon,1,1,Old Rod
+Mt. Coronet 4F,Magikarp,129,1,1,1,15,20,,0,Common,1,1,Old Rod
+Mt. Coronet 4F,Psyduck,54,1,1,1,25,30,,0,Common,0,0,
+Mt. Coronet 4F,Whiscash,340,1,1,1,20,25,,0,Rare,1,1,Super Rod
+Mt. Coronet 4F,Zubat,41,1,1,1,25,30,,0,Common,0,0,
+Mt. Coronet B1F,Barboach,339,1,1,1,15,20,,0,Uncommon,1,0,Good Rod
+Mt. Coronet B1F,Binacle,688,1,0,1,10,15,,1,Rare,1,0,Super Rod
+Mt. Coronet B1F,Feebas,349,1,1,1,10,15,Prism Scale,0,Rare,1,0,Super Rod
+Mt. Coronet B1F,Gyarados,130,1,1,1,15,20,,0,Uncommon,1,0,Super Rod
+Mt. Coronet B1F,Magikarp,129,1,1,1,15,20,,0,Common,1,0,Old Rod
+Mt. Coronet B1F,Whiscash,340,1,1,1,20,25,,0,Rare,1,0,Super Rod
+Mt. Coronet B1F,Zubat,41,1,1,1,20,35,,0,Common,0,0,
+Mt. Coronet South,Barboach,339,1,1,1,10,18,,0,Common,1,1,Good Rod
+Mt. Coronet South,Gyarados,130,1,1,1,20,28,,0,Common,1,1,Super Rod
+Mt. Coronet South,Magikarp,129,1,1,1,3,11,,0,Common,1,1,Old Rod
+Mt. Coronet South,Psyduck,54,1,1,1,20,28,,0,Common,1,1,Super Rod
+Mt. Coronet South,Whiscash,340,1,1,1,20,28,,0,Rare,1,1,Super Rod
+Mt. Coronet South,Zubat,41,1,1,1,20,35,,0,Common,0,0,
+Mt. Crumpit,Buizel,418,1,1,1,25,31,Wacan Berry,0,Uncommon,0,0,
+Mt. Crumpit,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Mt. Crumpit,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Mt. Crumpit,Sealeo,364,1,1,1,25,31,,0,Uncommon,0,0,
+Mt. Crumpit,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Mt. Crumpit,Squirtle,7,1,1,1,25,31,,0,Rare,0,0,
+Mt. Crumpit,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,
+Mt. Mortar 1F,Goldeen,118,1,1,1,13,17,,0,Common,1,0,Good Rod
+Mt. Mortar 1F,Krabby,98,1,1,1,13,17,,0,Common,1,0,Old Rod
+Mt. Mortar 1F,Magikarp,129,1,1,1,13,17,,0,Common,1,0,Old Rod
+Mt. Mortar 1F,Marill,183,0,0,1,13,17,,0,Uncommon,1,0,Super Rod
+Mt. Mortar 1F,Seaking,119,1,1,1,13,17,,0,Uncommon,1,0,Good Rod
+Mt. Mortar B1F,Goldeen,118,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar B1F,Magikarp,129,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar B1F,Marill,183,1,1,1,33,36,,0,Uncommon,1,0,Good Rod
+Mt. Mortar B1F,Poliwag,60,1,1,1,33,37,Kings Rock,0,Common,1,0,Old Rod
+Mt. Mortar B1F,Seaking,119,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar Upper Cave,Goldeen,118,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar Upper Cave,Krabby,98,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar Upper Cave,Magikarp,129,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Mortar Upper Cave,Marill,183,0,0,1,33,36,,0,Uncommon,1,0,Good Rod
+Mt. Mortar Upper Cave,Seaking,119,1,1,1,33,37,,0,Common,1,0,Old Rod
+Mt. Pyre Exterior,Lotad,270,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Exterior,Marill,183,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Exterior,Poliwag,60,1,1,1,21,26,Kings Rock,0,Common,0,0,
+Mt. Pyre Exterior,Poliwhirl,61,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Exterior,Quagsire,195,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Exterior,Wooper,194,1,1,1,21,26,,0,Common,0,0,
+Mt. Pyre Summit,Lotad,270,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Summit,Marill,183,1,0,0,21,26,,0,Uncommon,0,0,
+Mt. Pyre Summit,Poliwag,60,1,1,1,21,26,Kings Rock,0,Common,0,0,
+Mt. Pyre Summit,Poliwhirl,61,1,1,1,21,26,,0,Uncommon,0,0,
+Mt. Pyre Summit,Quagsire,195,1,1,1,21,26,,0,Common,0,0,
+Mt. Pyre Summit,Wooper,194,1,1,1,21,26,,0,Common,0,0,
+Mt. Silver 1F,Golduck,55,1,1,1,47,50,,0,Common,1,0,Super Rod
+Mt. Silver 1F,Magikarp,129,1,1,1,47,50,,0,Common,1,1,Old Rod
+Mt. Silver 1F,Poliwag,60,1,1,1,47,50,Kings Rock,0,Common,1,0,Good Rod
+Mt. Silver 1F,Poliwhirl,61,1,1,1,47,50,,0,Uncommon,1,0,Super Rod
+Mt. Silver Exterior,Horsea,116,1,1,1,32,40,Dragon Scale,0,Common,1,0,Good Rod
+Mt. Silver Exterior,Krabby,98,1,1,1,32,40,,0,Common,1,0,Old Rod
+Mt. Silver Exterior,Magikarp,129,1,1,1,32,40,,0,Common,1,1,Old Rod
+Mt. Silver Exterior,Politoed,186,1,1,1,32,40,,0,Rare,1,1,Super Rod
+Mt. Silver Exterior,Poliwag,60,1,0,1,32,40,Kings Rock,0,Common,1,0,Good Rod
+Mt. Silver Exterior,Poliwhirl,61,0,0,1,32,40,,0,Uncommon,1,0,Good Rod
+Mt. Silver Exterior,Surskit,283,1,1,1,32,40,,0,Uncommon,1,1,Good Rod
+Murky Town,Azumarill,184,1,1,1,20,24,,0,Uncommon,0,0,
+Murky Town,Gastly,92,1,1,1,11,11,Spell Tag,0,Common,0,0,
+Murky Town,Gyarados,130,1,1,1,30,30,,0,Common,0,0,
+Murky Town,Magikarp,129,1,1,1,20,24,,0,Common,0,0,
+Murky Town,Marill,183,1,1,1,20,24,,0,Uncommon,0,0,
+Murky Town,Oshawott,501,1,1,1,20,24,,0,Rare,0,0,
+Murky Town,Sealeo,364,1,1,1,20,24,,0,Uncommon,0,0,
+Murky Town,Spheal,363,1,1,1,20,24,,0,Uncommon,0,0,
+Nap Cave,Poliwag,60,1,1,1,45,50,Kings Rock,0,Common,0,0,
+Nap Cave,Poliwhirl,61,1,1,1,45,50,Kings Rock,0,Common,0,0,
+Nap Cave,Psyduck,54,1,1,1,45,50,,0,Common,0,0,
+Nap Cave,Wooper,194,1,1,1,45,50,,0,Common,0,0,
+Nap Cave B1F,Golduck,55,1,1,1,45,50,,0,Common,0,0,
+Nap Cave B1F,Poliwag,60,1,1,1,45,50,Kings Rock,0,Common,0,0,
+Nap Cave B1F,Poliwhirl,61,1,1,1,45,50,Kings Rock,0,Common,0,0,
+Nap Cave B1F,Quagsire,195,1,1,1,45,50,,0,Common,0,0,
+Nap Forest,Barboach,339,1,1,1,42,45,,0,Uncommon,0,0,
+Nap Forest,Lotad,270,1,1,1,42,45,Mental Herb,0,Common,0,0,
+Nap Forest,Marill,183,1,1,1,36,36,,0,Uncommon,0,0,
+Nap Forest,Slowpoke,79,1,1,1,42,45,Lagging Tail,0,Common,0,0,
+Nap Forest,Tympole,535,1,1,1,46,50,,1,Rare,0,0,
+Nap Forest,Wingull,278,1,1,1,42,45,,0,Common,0,0,
+Nap Shore,Barboach,339,1,1,1,42,45,Deep Sea Scale,0,Uncommon,1,0,Good Rod
+Nap Shore,Buizel,418,1,1,1,42,45,Wacan Berry,0,Uncommon,1,0,Good Rod
+Nap Shore,Clauncher,692,1,1,1,42,45,,0,Rare,1,0,Super Rod
+Nap Shore,Corsola,222,1,1,1,42,45,Hard Stone,0,Uncommon,1,0,Old Rod
+Nap Shore,Feebas,349,1,1,1,42,45,Prism Scale,0,Rare,1,0,Super Rod
+Nap Shore,Magikarp,129,1,1,1,42,45,,0,Common,1,0,Old Rod
+Nap Shore,Slowpoke,79,1,1,1,42,45,Lagging Tail,0,Common,1,0,Old Rod
+Nap Shore,Surskit,283,1,1,1,42,45,SilverPowder,0,Common,1,0,Old Rod
+Nap Town,Barboach,339,1,1,1,42,45,,0,Uncommon,0,0,
+Nap Town,Corphish,341,1,1,1,42,45,Mystic Water,1,Rare,0,0,
+Nap Town,Magikarp,129,1,1,1,42,45,,0,Common,0,0,
+Nap Town,Shellder,90,1,1,1,42,45,Shell Bell,0,Rare,0,0,
+Nap Town,Staryu,120,1,1,1,42,45,Water Stone,0,Rare,0,0,
+Nap Town,Tentacool,72,1,1,1,42,45,Poison Barb,0,Common,0,0,
+Nap Town,Wingull,278,1,1,1,42,45,,0,Common,0,0,
+Necropolis,Azumarill,184,1,1,1,26,30,,0,Uncommon,0,0,
+Necropolis,Froakie,656,1,1,1,20,24,,0,Rare,0,0,
+Necropolis,Gastly,92,1,1,1,11,11,Spell Tag,0,Common,0,0,
+Necropolis,Gyarados,130,1,1,1,30,30,,0,Common,0,0,
+Necropolis,Haunter,93,1,1,1,11,11,Spell Tag,0,Common,0,0,
+Necropolis,Magikarp,129,1,1,1,26,30,,0,Common,0,0,
+Necropolis,Marill,183,1,1,1,26,30,,0,Uncommon,0,0,
+Necropolis,Noibat,714,1,1,1,20,24,,0,Rare,0,0,
+Nido Isle,Alomomola,594,1,1,1,30,35,,0,Rare,0,0,
+Nido Isle,Corsola,222,1,1,1,30,35,Hard Stone,0,Uncommon,0,0,
+Nido Isle,Finneon,456,1,1,1,30,35,Rindo Berry,0,Uncommon,0,0,
+Nido Isle,Lapras,131,1,1,1,21,26,,0,Rare,0,0,
+Nido Isle,Lotad,270,1,1,1,30,35,Mental Herb,0,Common,0,0,
+Nido Isle,Luvdisc,370,1,1,1,28,33,,0,Uncommon,0,0,
+Nido Isle,Poliwag,60,1,1,1,30,35,,0,Common,0,0,
+Nido Isle,Slowpoke,79,1,1,1,30,35,Lagging Tail,0,Common,0,0,
+Olivine City,Alomomola,594,1,1,1,23,25,,1,Rare,1,0,Super Rod
+Olivine City,Chinchou,170,1,1,1,23,25,Apicot Berry,0,Common,1,0,Old Rod
+Olivine City,Corsola,222,1,1,1,23,25,Hard Stone,0,Uncommon,1,0,Good Rod
+Olivine City,Krabby,98,1,1,1,23,25,,0,Common,1,0,Old Rod
+Olivine City,Magikarp,129,1,1,1,23,25,,0,Common,1,0,Old Rod
+Olivine City,Shellder,90,1,1,1,23,25,,0,Uncommon,1,0,Super Rod
+Olivine City,Staryu,120,1,1,1,23,25,Water Stone,0,Rare,1,0,Super Rod
+Olivine City,Tentacool,72,1,1,1,23,25,Poison Barb,0,Common,1,0,Old Rod
+Olivine City,Tentacruel,73,1,1,1,23,25,Poison Barb,0,Common,1,0,Old Rod
+One Island,Goldeen,118,1,1,1,34,38,,0,Common,1,1,Good Rod
+One Island,Gyarados,130,1,1,1,34,38,,0,Uncommon,1,1,Super Rod
+One Island,Horsea,116,1,1,1,34,38,Dragon Scale,0,Common,1,1,Good Rod
+One Island,Kingler,99,1,1,1,34,38,,0,Common,1,1,Super Rod
+One Island,Krabby,98,1,1,1,34,38,,0,Common,1,1,Old Rod
+One Island,Magikarp,129,0,0,1,34,38,,0,Common,1,1,Old Rod
+One Island,Psyduck,54,1,1,1,34,38,,0,Common,1,0,Good Rod
+One Island,Seadra,117,1,1,1,34,38,,0,Uncommon,1,1,Super Rod
+One Island,Shellder,90,0,1,0,34,38,,0,Uncommon,1,1,Super Rod
+One Island,Slowpoke,79,1,0,0,25,29,,0,Common,1,1,Super Rod
+One Island,Staryu,120,0,0,1,34,38,,0,Uncommon,1,1,Super Rod
+One Island,Tentacool,72,1,1,1,15,19,,0,Common,0,0,
+One Island,Tentacruel,73,0,1,0,34,38,,0,Uncommon,0,0,
+One Island,Wailmer,320,0,1,0,34,38,,0,Uncommon,1,1,Super Rod
+Oreburgh Gate B1F,Barboach,339,1,1,1,20,30,,0,Uncommon,1,0,Good Rod
+Oreburgh Gate B1F,Golbat,42,1,1,1,20,30,,0,Common,0,0,
+Oreburgh Gate B1F,Golduck,55,1,1,1,20,30,,0,Common,1,0,Old Rod
+Oreburgh Gate B1F,Gyarados,130,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Oreburgh Gate B1F,Magikarp,129,1,1,1,20,30,,0,Common,1,0,Old Rod
+Oreburgh Gate B1F,Psyduck,54,1,1,1,20,30,,0,Common,1,0,Old Rod
+Oreburgh Gate B1F,Whiscash,340,1,1,1,20,30,,0,Rare,1,0,Super Rod
+Oreburgh Gate B1F,Zubat,41,1,1,1,20,30,,0,Common,0,0,
+Outcast Island,Gyarados,130,1,1,1,15,35,,0,Uncommon,1,1,Super Rod
+Outcast Island,Horsea,116,1,1,1,5,25,Dragon Scale,0,Common,1,1,Good Rod
+Outcast Island,Kingler,99,1,1,1,5,25,,0,Common,1,1,Super Rod
+Outcast Island,Krabby,98,1,1,1,5,25,,0,Common,1,1,Old Rod
+Outcast Island,Magikarp,129,1,1,1,5,25,,0,Common,1,1,Old Rod
+Outcast Island,Psyduck,54,1,1,1,5,25,,0,Common,1,1,Good Rod
+Outcast Island,Qwilfish,211,1,1,1,15,35,,0,Uncommon,1,1,Super Rod
+Outcast Island,Remoraid,223,1,1,1,15,35,,0,Uncommon,1,1,Super Rod
+Outcast Island,Seadra,117,1,1,1,5,25,,0,Uncommon,1,1,Super Rod
+Outcast Island,Slowpoke,79,1,1,1,5,25,,0,Common,1,1,Super Rod
+Outcast Island,Tentacool,72,1,1,1,5,40,,0,Common,1,0,Old Rod
+Outcast Island,Tentacruel,73,1,1,1,35,40,,0,Common,1,0,Super Rod
+Pacifidlog Town,Corsola,222,1,1,1,30,36,,0,Uncommon,0,0,
+Pacifidlog Town,Horsea,116,1,1,1,30,36,Dragon Scale,0,Common,1,0,Super Rod
+Pacifidlog Town,Krabby,98,1,1,1,30,34,,0,Common,1,0,Old Rod
+Pacifidlog Town,Magikarp,129,1,1,1,22,35,,0,Common,1,1,Old Rod
+Pacifidlog Town,Pelipper,279,1,1,1,32,34,,0,Uncommon,0,0,
+Pacifidlog Town,Sharpedo,319,1,1,1,32,35,,0,Rare,1,1,Super Rod
+Pacifidlog Town,Tentacool,72,1,1,1,24,38,,0,Common,1,0,Old Rod
+Pacifidlog Town,Wailmer,320,1,1,1,5,35,,0,Uncommon,1,1,Super Rod
+Pacifidlog Town,Wingull,278,1,1,1,30,36,,0,Uncommon,0,0,
+Pal Park,Barboach,339,1,1,1,20,25,,0,Uncommon,0,0,
+Pal Park,Buizel,418,1,1,1,20,25,,0,Uncommon,0,0,
+Pal Park,Golduck,55,1,1,1,20,25,,0,Common,0,0,
+Pal Park,Magikarp,129,1,1,1,20,25,,0,Common,0,0,
+Pal Park,Psyduck,54,1,1,1,20,25,,0,Common,0,0,
+Pal Park,Spheal,363,1,1,1,20,25,,0,Uncommon,0,0,
+Pal Park,Tympole,535,1,1,1,20,25,,0,Rare,0,0,
+Pal Park,Wingull,278,1,1,1,20,25,,0,Common,0,0,
+Pallet Town,Lanturn,171,1,1,1,36,40,,0,Uncommon,0,0,
+Pallet Town,Lapras,131,1,1,1,36,40,,1,Rare,0,0,
+Pallet Town,Quagsire,195,1,1,1,36,40,,0,Common,0,0,
+Pallet Town,Seaking,119,1,1,1,36,40,,0,Uncommon,0,0,
+Pallet Town,Slowpoke,79,1,1,1,36,40,,0,Common,0,0,
+Pallet Town,Squirtle,7,1,1,1,36,40,,1,Rare,0,0,
+Pallet Town,Staryu,120,1,1,1,36,40,,0,Rare,0,0,
+Pallet Town,Tentacool,72,1,1,1,36,40,,0,Common,0,0,
+Petalburg City,Azumarill,184,1,1,1,15,25,,0,Uncommon,0,0,
+Petalburg City,Corphish,341,1,1,1,25,25,,1,Rare,1,1,Super Rod
+Petalburg City,Goldeen,118,1,1,1,5,7,,0,Common,1,1,Old Rod
+Petalburg City,Krabby,98,1,1,1,15,25,,0,Common,1,0,Old Rod
+Petalburg City,Magikarp,129,1,1,1,5,7,,0,Common,1,1,Old Rod
+Petalburg City,Marill,183,1,1,1,15,25,,0,Uncommon,0,0,
+Petalburg City,Masquerain,284,1,1,1,15,25,,0,Uncommon,0,0,
+Petalburg City,Surskit,283,1,1,1,15,25,,0,Uncommon,0,0,
+Pinkan Island Cliff,Azurill,298,1,1,1,60,65,,0,Uncommon,1,0,Good Rod
+Pinkan Island Cliff,Barboach,339,1,1,1,60,65,,0,Uncommon,1,0,Good Rod
+Pinkan Island Cliff,Krabby,98,1,1,1,60,65,,0,Common,1,0,Old Rod
+Pinkan Island Cliff,Magikarp,129,1,1,1,60,65,,0,Common,1,0,Old Rod
+Pinkan Island Cliff,Shellder,90,1,1,1,60,65,,0,Uncommon,1,0,Good Rod
+Pinkan Island Cliff,Totodile,158,1,1,1,60,65,,0,Rare,1,0,Good Rod
+Pinkan Island Meadow,Lapras,131,1,1,1,43,48,,0,Rare,1,0,Super Rod
+Pinkan Island Meadow,Poliwag,60,1,1,1,60,65,,0,Common,1,0,Old Rod
+Pinkan Island Meadow,Psyduck,54,1,1,1,60,65,,0,Common,1,0,Old Rod
+Pinkan Island Meadow,Seel,86,1,1,1,60,65,,0,Common,1,0,Old Rod
+Pinkan Island Meadow,Staryu,120,1,1,1,60,65,,0,Uncommon,1,0,Good Rod
+Pinkan Island Meadow,Wingull,278,1,1,1,60,65,,0,Common,0,0,
+Pitch Black Cave,Magikarp,129,1,1,1,30,32,,0,Common,0,0,
+Pitch Black Cave,Zubat,41,1,1,1,30,32,,0,Common,0,0,
+Ravaged Path,Barboach,339,1,1,1,20,30,,0,Uncommon,1,0,Good Rod
+Ravaged Path,Golduck,55,1,1,1,20,30,,0,Common,1,0,Old Rod
+Ravaged Path,Gyarados,130,1,1,1,30,30,,0,Common,1,0,Old Rod
+Ravaged Path,Magikarp,129,1,1,1,20,30,,0,Common,1,0,Old Rod
+Ravaged Path,Psyduck,54,1,1,1,20,30,,0,Common,1,0,Old Rod
+Ravaged Path,Zubat,41,1,1,1,20,30,,0,Common,1,0,Old Rod
+Resort Area,Magikarp,129,1,1,1,1,30,,0,Common,1,1,Old Rod
+Resort Area,Magikarp,129,1,1,1,31,70,,0,Common,1,1,Good Rod
+Resort Area,Magikarp,129,1,1,1,71,100,,0,Common,1,1,Super Rod
+Resort Gorgeous,Gyarados,130,1,1,1,15,25,,0,Uncommon,1,0,Super Rod
+Resort Gorgeous,Hoppip,187,1,1,0,5,25,,0,Common,1,0,Good Rod
+Resort Gorgeous,Horsea,116,1,1,1,5,25,Dragon Scale,0,Common,1,0,Good Rod
+Resort Gorgeous,Krabby,98,1,1,1,5,25,,0,Common,1,0,Old Rod
+Resort Gorgeous,Magikarp,129,1,1,1,5,25,,0,Common,1,1,Old Rod
+Resort Gorgeous,Remoraid,223,1,0,0,5,25,,0,Uncommon,1,1,Super Rod
+Resort Gorgeous,Seadra,117,1,1,1,15,25,,0,Uncommon,1,0,Super Rod
+Resort Gorgeous,Slowpoke,79,1,1,1,5,25,,0,Common,1,0,Old Rod
+Resort Gorgeous,Staryu,120,1,0,1,5,25,Stardust,0,Uncommon,1,1,Super Rod
+Route 10,Buizel,418,1,1,1,22,25,Wacan Berry,0,Uncommon,1,0,Old Rod
+Route 10,Goldeen,118,1,1,0,22,25,,0,Common,1,0,Old Rod
+Route 10,Horsea,116,1,1,1,22,25,Dragon Scale,0,Common,1,0,Old Rod
+Route 10,Magikarp,129,1,1,1,22,25,,0,Common,1,0,Old Rod
+Route 10,Poliwag,60,0,0,1,22,25,,0,Common,1,0,Good Rod
+Route 10,Poliwhirl,61,0,0,1,22,25,,0,Common,1,0,Old Rod
+Route 10,Psyduck,54,0,0,1,22,25,,0,Common,1,0,Old Rod
+Route 10,Seaking,119,1,1,0,22,25,,0,Common,1,0,Old Rod
+Route 10,Slowpoke,79,1,1,0,22,25,,0,Common,1,0,Old Rod
+Route 102,Corphish,341,1,1,1,2,4,,1,Rare,1,1,Super Rod
+Route 102,Goldeen,118,1,1,1,2,4,,0,Common,1,0,Old Rod
+Route 102,Magikarp,129,1,1,1,2,4,,0,Common,1,1,Old Rod
+Route 102,Marill,183,1,1,1,2,4,,0,Uncommon,0,0,
+Route 102,Surskit,283,1,1,1,2,4,,0,Uncommon,0,0,
+Route 103,Carvanha,318,0,0,1,2,4,,0,Uncommon,0,0,
+Route 103,Magikarp,129,1,1,1,2,4,,0,Common,1,1,Old Rod
+Route 103,Pelipper,279,1,1,1,2,4,,0,Rare,0,0,
+Route 103,Shellos,422,1,1,1,5,7,,1,Rare,0,0,
+Route 103,Tentacool,72,1,1,1,2,4,,0,Common,1,0,Old Rod
+Route 103,Wailmer,320,0,1,0,2,4,,0,Uncommon,1,1,Good Rod
+Route 103,Wingull,278,1,1,1,2,4,,0,Common,0,0,
+Route 104,Magikarp,129,1,1,1,4,6,,0,Common,1,1,Old Rod
+Route 104,Pelipper,279,1,1,1,4,6,,0,Uncommon,0,0,
+Route 104,Wingull,278,1,1,1,4,6,,0,Common,0,0,
+Route 105,Frillish,592,1,1,1,20,20,TM14 - Blizzard,1,Rare,1,1,Super Rod
+Route 105,Krabby,98,1,1,1,20,25,,0,Common,1,1,Old Rod
+Route 105,Magikarp,129,1,1,1,20,25,,0,Common,1,1,Old Rod
+Route 105,Pelipper,279,1,1,1,20,25,Ice Heal,0,Uncommon,1,1,Old Rod
+Route 105,Spheal,363,1,1,1,20,25,TM13 - Ice Beam,0,Uncommon,1,1,Super Rod
+Route 105,Tentacool,72,1,1,1,20,25,,0,Common,1,1,Old Rod
+Route 105,Tentacool,72,1,1,1,20,25,,0,Common,1,1,Old Rod
+Route 105,Wailmer,320,1,1,1,20,25,TM57 - Hail,0,Uncommon,1,1,Good Rod
+Route 106,Clauncher,692,1,1,1,25,31,TM12 - Water Gun,1,Rare,1,1,Good Rod
+Route 106,Krabby,98,1,1,1,25,31,,0,Common,1,1,Old Rod
+Route 106,Magikarp,129,1,1,1,25,31,,0,Common,1,1,Old Rod
+Route 106,Spheal,363,1,1,1,25,31,,0,Uncommon,1,1,Good Rod
+Route 106,Tentacool,72,1,1,1,25,31,,0,Common,1,1,Old Rod
+Route 106,Tentacruel,73,1,1,1,25,31,,0,Uncommon,1,1,Old Rod
+Route 106,Wailmer,320,1,1,1,25,31,,0,Uncommon,1,1,Super Rod
+Route 107,Chinchou,170,1,1,1,20,35,Deep Sea Scale,0,Common,1,1,Old Rod
+Route 107,Lanturn,171,1,1,1,20,35,,0,Uncommon,1,1,Super Rod
+Route 107,Magikarp,129,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 107,Skrelp,690,1,1,1,20,35,TM68 - Rain Dance,1,Rare,1,1,Super Rod
+Route 107,Spheal,363,1,1,1,20,35,,0,Uncommon,1,1,Good Rod
+Route 107,Tentacool,72,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 107,Tentacruel,73,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 107,Wailmer,320,1,1,1,20,35,,0,Uncommon,1,1,Good Rod
+Route 108,Chinchou,170,1,1,1,20,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 108,Clamperl,366,1,1,1,20,35,Deep Sea Tooth,0,Rare,1,1,Super Rod
+Route 108,Frillish,592,1,1,0,20,35,,1,Rare,1,1,Super Rod
+Route 108,Krabby,98,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 108,Lanturn,171,1,1,1,20,35,,0,Uncommon,1,1,Super Rod
+Route 108,Magikarp,129,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 108,Tentacool,72,1,1,1,20,35,,0,Common,1,1,Old Rod
+Route 108,Tentacruel,73,1,1,1,20,35,,0,Uncommon,1,1,Old Rod
+Route 108,Wailmer,320,1,1,1,20,35,,0,Uncommon,1,1,Old Rod
+Route 109,Clauncher,692,1,1,1,32,35,,1,Rare,1,1,Super Rod
+Route 109,Gyarados,130,1,1,1,32,35,,0,Uncommon,1,1,Super Rod
+Route 109,Krabby,98,1,1,1,32,35,,0,Common,1,1,Old Rod
+Route 109,Magikarp,129,1,1,1,32,35,,0,Common,1,1,Old Rod
+Route 109,Shellder,90,1,1,1,32,35,Pearl,0,Uncommon,1,1,Super Rod
+Route 109,Tentacool,72,1,1,1,32,35,,0,Common,1,1,Old Rod
+Route 109,Tentacruel,73,1,1,1,32,35,,0,Common,1,1,Old Rod
+Route 109,Wailmer,320,1,1,1,32,35,,0,Uncommon,1,1,Super Rod
+Route 11,Goldeen,118,1,1,1,25,26,,0,Common,1,0,Good Rod
+Route 11,Gyarados,130,1,1,1,25,26,,0,Common,1,0,Super Rod
+Route 11,Horsea,116,1,1,1,25,26,Dragon Scale,0,Common,1,0,Old Rod
+Route 11,Krabby,98,1,1,1,25,26,,0,Common,1,0,Old Rod
+Route 11,Magikarp,129,1,1,1,25,26,,0,Common,1,0,Old Rod
+Route 11,Poliwag,60,0,0,1,25,26,Kings Rock,0,Common,1,0,Old Rod
+Route 11,Psyduck,54,1,1,1,25,26,,0,Common,1,0,Good Rod
+Route 11,Seaking,119,1,1,1,25,26,,0,Common,1,0,Old Rod
+Route 11,Shellder,90,0,0,1,25,26,,0,Uncommon,1,0,Super Rod
+Route 11,Slowpoke,79,1,0,0,25,26,Lagging Tail,0,Common,1,0,Good Rod
+Route 11,Tentacool,72,1,1,1,25,26,,0,Common,1,0,Old Rod
+Route 110,Magikarp,129,1,1,1,12,15,,0,Common,1,0,Old Rod
+Route 110,Pelipper,279,1,1,1,12,15,,0,Uncommon,0,0,
+Route 110,Tentacool,72,1,1,1,12,15,,0,Common,1,0,Old Rod
+Route 110,Wailmer,320,1,1,1,12,15,,0,Uncommon,1,0,Super Rod
+Route 110,Wingull,278,1,1,1,12,15,,0,Common,0,0,
+Route 111 South,Azumarill,184,1,1,1,19,23,,0,Uncommon,0,0,
+Route 111 South,Barboach,339,1,1,1,19,23,,0,Rare,1,0,Super Rod
+Route 111 South,Goldeen,118,1,1,1,19,23,,0,Common,1,0,Good Rod
+Route 111 South,Krabby,98,1,1,1,19,23,,0,Common,0,0,
+Route 111 South,Magikarp,129,1,1,1,19,23,,0,Common,1,0,Super Rod
+Route 111 South,Marill,183,1,1,1,19,23,,0,Uncommon,0,0,
+Route 111 South,Masquerain,284,1,1,1,19,23,,0,Uncommon,0,0,
+Route 111 South,Surskit,283,1,1,1,19,23,,0,Uncommon,0,0,
+Route 114,Azumarill,184,1,1,1,20,24,,0,Uncommon,1,0,Good Rod
+Route 114,Barboach,339,1,1,1,20,24,,0,Uncommon,1,0,Good Rod
+Route 114,Goldeen,118,1,0,0,20,24,,0,Common,1,0,Old Rod
+Route 114,Krabby,98,1,1,1,20,24,,0,Common,1,0,Old Rod
+Route 114,Magikarp,129,1,1,1,20,24,,0,Common,1,0,Old Rod
+Route 114,Marill,183,1,0,0,20,24,,0,Uncommon,1,0,Good Rod
+Route 114,Masquerain,284,1,1,1,20,24,SilverPowder,0,Common,1,0,Old Rod
+Route 114,Surskit,283,1,1,1,20,24,SilverPowder,0,Common,1,0,Old Rod
+Route 115,Magikarp,129,1,1,1,22,26,,0,Common,1,1,Old Rod
+Route 115,Pelipper,279,1,1,1,26,26,,0,Uncommon,0,0,
+Route 115,Tentacool,72,1,1,1,20,26,,0,Common,1,0,Old Rod
+Route 115,Wailmer,320,1,1,1,22,26,,0,Uncommon,1,0,Super Rod
+Route 115,Wingull,278,1,1,1,20,26,,0,Common,0,0,
+Route 117,Azumarill,184,1,1,1,20,30,,0,Uncommon,0,0,
+Route 117,Corphish,341,1,1,1,30,35,,1,Rare,1,1,Super Rod
+Route 117,Crawdaunt,342,1,1,1,35,40,,0,Rare,1,1,Super Rod
+Route 117,Goldeen,118,1,1,1,20,30,,0,Common,1,0,Good Rod
+Route 117,Magikarp,129,1,1,1,10,15,,0,Common,1,1,Old Rod
+Route 117,Marill,183,1,1,1,20,30,,0,Uncommon,1,0,Super Rod
+Route 117,Masquerain,284,1,1,1,20,30,,0,Uncommon,0,0,
+Route 117,Surskit,283,1,1,1,20,30,,0,Uncommon,0,0,
+Route 118,Carvanha,318,1,1,1,25,29,,0,Uncommon,1,0,Super Rod
+Route 118,Magikarp,129,1,1,1,25,29,,0,Common,1,0,Old Rod
+Route 118,Pelipper,279,1,1,1,25,29,,0,Uncommon,0,0,
+Route 118,Sharpedo,319,1,1,1,25,29,,0,Rare,1,0,Super Rod
+Route 118,Tentacool,72,1,1,1,25,29,,0,Common,1,0,Old Rod
+Route 118,Wingull,278,1,1,1,25,29,,0,Common,0,0,
+Route 119A,Carvanha,318,1,1,1,32,38,Deep Sea Tooth,0,Uncommon,1,0,Good Rod
+Route 119A,Frillish,592,1,1,1,39,40,,0,Rare,1,0,Super Rod
+Route 119A,Pelipper,279,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 119A,Poliwag,60,1,1,1,32,38,Kings Rock,0,Common,1,0,Old Rod
+Route 119A,Sharpedo,319,1,1,1,32,38,Deep Sea Tooth,0,Uncommon,1,0,Good Rod
+Route 119A,Tentacool,72,1,1,1,32,38,Poison Barb,0,Common,1,0,Old Rod
+Route 119A,Wingull,278,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 119B,Carvanha,318,1,1,0,32,38,Deep Sea Tooth,0,Uncommon,1,0,Good Rod
+Route 119B,Feebas,349,1,1,1,32,38,Prism Scale,1,Rare,1,0,Super Rod
+Route 119B,Krabby,98,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 119B,Magikarp,129,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 119B,Pelipper,279,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 119B,Sharpedo,319,0,0,1,32,38,Deep Sea Tooth,0,Uncommon,1,0,Good Rod
+Route 119B,Wingull,278,1,1,1,32,38,,0,Common,1,0,Old Rod
+Route 12,Goldeen,118,1,1,0,32,34,,0,Common,1,0,Old Rod
+Route 12,Horsea,116,1,1,1,32,34,Dragon Scale,0,Common,1,0,Old Rod
+Route 12,Krabby,98,1,1,1,32,34,,0,Common,1,0,Old Rod
+Route 12,Magikarp,129,1,1,1,32,34,,0,Common,1,0,Old Rod
+Route 12,Poliwag,60,0,0,1,32,34,Kings Rock,0,Common,1,0,Old Rod
+Route 12,Quagsire,195,1,1,1,32,34,,0,Common,1,0,Old Rod
+Route 12,Qwilfish,211,1,1,1,32,34,,0,Uncommon,1,0,Good Rod
+Route 12,Seadra,117,1,1,1,32,34,Dragon Scale,0,Common,1,0,Old Rod
+Route 12,Slowbro,80,1,1,1,32,34,Kings Rock,0,Common,1,0,Old Rod
+Route 12,Slowpoke,79,1,1,1,32,34,,0,Common,1,0,Old Rod
+Route 12,Tentacool,72,1,1,1,32,34,,0,Common,1,0,Old Rod
+Route 12,Tentacruel,73,1,1,1,32,34,Poison Barb,0,Common,1,0,Old Rod
+Route 120,Crobat,169,0,1,0,35,40,,0,Uncommon,1,0,Old Rod
+Route 120,Golbat,42,0,1,0,35,40,,0,Common,1,0,Old Rod
+Route 120,Koffing,109,0,0,1,35,40,,0,Common,1,0,Old Rod
+Route 120,Mantine,226,1,0,0,35,40,,0,Uncommon,1,0,Old Rod
+Route 120,Pelipper,279,0,0,1,35,40,,0,Uncommon,1,0,Old Rod
+Route 120,Politoed,186,1,0,0,35,40,,0,Rare,1,0,Old Rod
+Route 120,Poliwrath,62,0,0,1,35,40,,0,Uncommon,1,0,Old Rod
+Route 120,Seel,86,1,0,0,35,40,,0,Common,1,0,Old Rod
+Route 120,Zubat,41,0,1,0,35,40,,0,Common,1,0,Old Rod
+Route 121,Magikarp,129,1,1,1,36,39,,0,Common,1,0,Old Rod
+Route 121,Pelipper,279,1,1,1,36,39,,0,Common,1,0,Old Rod
+Route 121,Tentacool,72,1,1,1,36,39,Poison Barb,0,Common,1,0,Old Rod
+Route 121,Wailmer,320,1,1,1,36,39,,0,Uncommon,1,0,Super Rod
+Route 121,Wingull,278,1,1,1,36,39,,0,Common,1,0,Old Rod
+Route 122,Finneon,456,1,1,1,20,28,Mystic Water,0,Uncommon,1,1,Good Rod
+Route 122,Horsea,116,1,1,1,20,28,Dragon Scale,0,Common,1,1,Super Rod
+Route 122,Magikarp,129,1,1,1,5,5,,0,Common,1,1,Old Rod
+Route 122,Seadra,117,1,1,1,35,35,,0,Uncommon,1,1,Super Rod
+Route 122,Tentacool,72,1,1,1,20,28,,0,Common,1,1,Old Rod
+Route 122,Wailmer,320,1,1,1,25,35,,0,Uncommon,1,1,Super Rod
+Route 123,Azumarill,184,1,1,1,29,33,,0,Uncommon,0,0,
+Route 123,Corphish,341,1,1,1,35,39,,1,Rare,1,0,Super Rod
+Route 123,Crawdaunt,342,1,1,1,35,39,,1,Rare,1,0,Super Rod
+Route 123,Goldeen,118,1,1,1,29,33,,0,Common,1,0,Old Rod
+Route 123,Magikarp,129,1,1,1,29,33,,0,Common,1,1,Old Rod
+Route 123,Marill,183,1,1,1,29,33,,0,Uncommon,0,0,
+Route 123,Masquerain,284,1,1,1,29,33,,0,Uncommon,0,0,
+Route 123,Pelipper,279,1,1,1,29,33,,0,Uncommon,0,0,
+Route 123,Surskit,283,1,1,1,29,33,,0,Uncommon,0,0,
+Route 123,Wailmer,320,1,1,1,29,33,,0,Uncommon,1,0,Good Rod
+Route 123,Wingull,278,1,1,1,29,33,,0,Common,0,0,
+Route 124,Alomomola,594,1,1,1,25,35,,1,Rare,1,1,Super Rod
+Route 124,Chinchou,170,1,1,1,25,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 124,Clamperl,366,1,1,1,25,35,Deep Sea Tooth,0,Uncommon,1,1,Super Rod
+Route 124,Finneon,456,1,1,1,25,35,,0,Uncommon,1,1,Good Rod
+Route 124,Magikarp,129,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 124,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 124,Tentacruel,73,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 124,Wailmer,320,1,1,1,25,35,,0,Uncommon,1,1,Super Rod
+Route 124 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 124 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 124 Underwater,Kabuto,140,0,0,1,30,34,Dome Fossil,0,Rare,1,1,Super Rod
+Route 124 Underwater,Krabby,98,1,1,1,30,34,,0,Uncommon,1,1,Old Rod
+Route 124 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 124 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Good Rod
+Route 124 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 125,Finneon,456,1,1,1,25,35,,0,Uncommon,1,1,Super Rod
+Route 125,Gyarados,130,1,1,1,25,35,,0,Uncommon,1,1,Good Rod
+Route 125,Magikarp,129,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 125,Seel,86,1,1,1,25,35,,0,Common,1,1,Good Rod
+Route 125,Spheal,363,1,1,1,25,35,,0,Uncommon,1,1,Super Rod
+Route 125,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 125,Tentacruel,73,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 125,Wailmer,320,1,1,1,25,35,,0,Uncommon,1,1,Good Rod
+Route 126,Chinchou,170,1,1,1,32,33,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 126,Clamperl,366,1,1,1,32,33,Deep Sea Tooth,0,Uncommon,1,1,Super Rod
+Route 126,Frillish,592,1,1,1,32,33,,1,Rare,1,1,Super Rod
+Route 126,Magikarp,129,1,1,1,32,33,,0,Common,1,1,Old Rod
+Route 126,Relicanth,369,1,1,1,32,33,,1,Rare,1,1,Good Rod
+Route 126,Sharpedo,319,1,1,1,32,33,,0,Rare,1,1,Super Rod
+Route 126,Shellder,90,1,1,1,32,33,Pearl,0,Uncommon,1,1,Good Rod
+Route 126,Tentacool,72,1,1,1,32,33,,0,Common,1,1,Old Rod
+Route 126,Tentacruel,73,1,1,1,32,33,,0,Uncommon,1,1,Old Rod
+Route 126,Wailmer,320,1,1,1,32,33,,0,Uncommon,1,1,Super Rod
+Route 126 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 126 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 126 Underwater,Krabby,98,1,1,1,30,34,,0,Uncommon,1,1,Old Rod
+Route 126 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 126 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Good Rod
+Route 126 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 127,Chinchou,170,1,1,1,25,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 127,Finneon,456,1,1,1,28,36,,0,Uncommon,1,1,Good Rod
+Route 127,Frillish,592,1,1,1,28,36,,1,Rare,1,1,Super Rod
+Route 127,Magikarp,129,1,1,1,28,36,,0,Common,1,1,Old Rod
+Route 127,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 127,Tentacruel,73,1,1,1,33,36,,0,Uncommon,1,1,Old Rod
+Route 127,Wailmer,320,1,1,1,28,36,,0,Uncommon,1,1,Good Rod
+Route 127 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 127 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 127 Underwater,Krabby,98,1,1,1,30,34,,0,Uncommon,1,1,Old Rod
+Route 127 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 127 Underwater,Omanyte,138,0,1,0,30,34,Helix Fossil,0,Rare,1,1,Super Rod
+Route 127 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Good Rod
+Route 127 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 128,Carvanha,318,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 128,Chinchou,170,1,1,1,25,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 128,Corsola,222,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 128,Finneon,456,1,1,1,28,36,,0,Uncommon,1,1,Good Rod
+Route 128,Luvdisc,370,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 128,Magikarp,129,1,1,1,28,36,,0,Common,1,1,Old Rod
+Route 128,Sharpedo,319,1,0,1,28,36,,0,Rare,1,1,Super Rod
+Route 128,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 128,Tentacruel,73,1,1,1,33,36,,0,Uncommon,1,1,Old Rod
+Route 128,Wailmer,320,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 128 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 128 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 128 Underwater,Corsola,222,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 128 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 128 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Old Rod
+Route 128 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 129,Carvanha,318,1,0,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 129,Castform,351,1,1,1,28,36,,0,Rare,1,1,Super Rod
+Route 129,Luvdisc,370,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 129,Magikarp,129,1,1,1,28,36,,0,Common,1,1,Old Rod
+Route 129,Sharpedo,319,1,1,1,28,36,,0,Rare,1,1,Super Rod
+Route 129,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 129,Tentacruel,73,1,1,1,33,36,,0,Common,1,1,Old Rod
+Route 129,Wailmer,320,1,1,1,28,36,,0,Uncommon,1,1,Good Rod
+Route 129,Wailord,321,1,1,1,28,36,,0,Rare,1,1,Super Rod
+Route 129 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Old Rod
+Route 129 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 129 Underwater,Krabby,98,1,1,1,30,34,,0,Uncommon,1,1,Old Rod
+Route 129 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 129 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Old Rod
+Route 129 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 13,Horsea,116,1,1,1,33,35,Dragon Scale,0,Common,1,0,Old Rod
+Route 13,Krabby,98,0,1,0,33,35,,0,Common,1,0,Old Rod
+Route 13,Magikarp,129,1,1,1,33,35,,0,Common,1,0,Old Rod
+Route 13,Psyduck,54,1,1,1,33,35,,0,Common,1,0,Old Rod
+Route 13,Quagsire,195,0,1,0,33,35,,0,Common,1,0,Old Rod
+Route 13,Qwilfish,211,1,1,1,33,35,,1,Uncommon,1,0,Good Rod
+Route 13,Seadra,117,1,1,1,33,35,Dragon Scale,0,Common,1,0,Old Rod
+Route 13,Slowbro,80,1,0,0,33,35,Kings Rock,0,Common,1,0,Old Rod
+Route 13,Slowpoke,79,1,0,0,33,35,Lagging Tail,0,Common,1,0,Old Rod
+Route 13,Tentacool,72,0,0,1,33,35,Poison Barb,0,Common,1,0,Old Rod
+Route 13,Tentacruel,73,0,0,1,33,35,Poison Barb,0,Common,1,0,Old Rod
+Route 130,Alomomola,594,1,1,0,28,36,,1,Rare,1,1,Super Rod
+Route 130,Finneon,456,1,1,1,28,36,,0,Uncommon,1,1,Good Rod
+Route 130,Frillish,592,0,0,1,28,36,,1,Rare,1,1,Super Rod
+Route 130,Horsea,116,1,1,1,28,36,Dragon Scale,0,Common,1,1,Good Rod
+Route 130,Magikarp,129,1,1,1,28,36,,0,Common,1,1,Old Rod
+Route 130,Seadra,117,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 130,Tentacool,72,1,1,1,25,35,,0,Common,1,1,Old Rod
+Route 130,Tentacruel,73,1,1,1,33,36,,0,Common,1,1,Old Rod
+Route 130,Wailmer,320,1,1,1,28,36,,0,Uncommon,1,1,Super Rod
+Route 130 Underwater,Chinchou,170,1,1,1,25,29,Deep Sea Scale,0,Common,1,1,Old Rod
+Route 130 Underwater,Clamperl,366,1,1,1,30,34,Deep Sea Tooth,0,Uncommon,1,1,Good Rod
+Route 130 Underwater,Krabby,98,1,1,1,30,34,,0,Uncommon,1,1,Old Rod
+Route 130 Underwater,Lanturn,171,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 130 Underwater,Relicanth,369,1,1,1,30,34,,0,Rare,1,1,Old Rod
+Route 130 Underwater,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 131,Finneon,456,1,1,1,31,33,,0,Uncommon,1,0,Good Rod
+Route 131,Frillish,592,1,1,1,31,33,,1,Rare,1,1,Super Rod
+Route 131,Horsea,116,1,1,1,34,36,Dragon Scale,0,Common,1,1,Super Rod
+Route 131,Krabby,98,1,1,1,31,33,,0,Common,1,1,Old Rod
+Route 131,Magikarp,129,1,1,1,31,33,,0,Common,1,1,Old Rod
+Route 131,Seadra,117,1,1,1,31,33,,0,Uncommon,1,0,Super Rod
+Route 131,Sharpedo,319,1,1,1,31,33,,0,Rare,1,1,Super Rod
+Route 131,Staryu,120,1,1,1,31,33,,0,Uncommon,1,1,Super Rod
+Route 131,Tentacool,72,1,1,1,31,33,,0,Common,1,1,Old Rod
+Route 131,Wailmer,320,1,1,1,31,33,,0,Uncommon,1,1,Super Rod
+Route 131 B,Finneon,456,1,1,1,32,34,,0,Uncommon,1,1,Good Rod
+Route 131 B,Frillish,592,1,1,1,32,34,,1,Rare,1,1,Super Rod
+Route 131 B,Horsea,116,1,1,1,32,34,Dragon Scale,0,Common,1,1,Super Rod
+Route 131 B,Krabby,98,1,1,1,32,34,,0,Common,1,1,Old Rod
+Route 131 B,Magikarp,129,1,1,1,32,34,,0,Common,1,1,Old Rod
+Route 131 B,Seadra,117,1,1,1,32,34,,0,Uncommon,1,1,Super Rod
+Route 131 B,Sharpedo,319,1,1,1,32,34,,0,Rare,1,1,Super Rod
+Route 131 B,Staryu,120,1,1,1,32,34,,0,Uncommon,1,1,Super Rod
+Route 131 B,Tentacool,72,1,1,1,32,34,,0,Common,1,1,Old Rod
+Route 131 B,Wailmer,320,1,1,1,32,34,,0,Uncommon,1,1,Super Rod
+Route 132,Carvanha,318,1,1,1,30,36,,0,Uncommon,1,1,Super Rod
+Route 132,Horsea,116,1,1,1,26,36,Dragon Scale,0,Common,1,1,Super Rod
+Route 132,Krabby,98,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 132,Lapras,131,1,1,1,30,35,TM13 - Ice Beam,0,Rare,1,1,Super Rod
+Route 132,Magikarp,129,1,1,1,22,35,,0,Common,1,1,Old Rod
+Route 132,Seadra,117,1,1,1,30,34,,0,Uncommon,1,1,Super Rod
+Route 132,Sharpedo,319,1,1,1,30,35,,0,Rare,1,1,Super Rod
+Route 132,Tentacool,72,1,1,1,24,38,,0,Common,1,1,Old Rod
+Route 132,Wailmer,320,1,1,1,5,35,,0,Uncommon,1,1,Super Rod
+Route 133,Carvanha,318,1,1,1,30,34,,0,Uncommon,1,1,Super Rod
+Route 133,Finneon,456,1,1,1,30,34,,0,Uncommon,1,1,Good Rod
+Route 133,Frillish,592,1,1,1,30,34,,1,Rare,1,1,Super Rod
+Route 133,Horsea,116,1,1,1,30,34,Dragon Scale,0,Common,1,1,Super Rod
+Route 133,Magikarp,129,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 133,Seadra,117,1,1,1,30,34,,0,Uncommon,1,1,Super Rod
+Route 133,Sharpedo,319,1,1,1,30,34,,0,Rare,1,1,Super Rod
+Route 133,Tentacool,72,1,1,1,30,34,,0,Common,1,1,Old Rod
+Route 133,Wailmer,320,1,1,1,30,34,,0,Uncommon,1,1,Super Rod
+Route 134,Alomomola,594,1,1,1,37,41,,1,Rare,1,0,Super Rod
+Route 134,Finneon,456,1,1,1,30,34,,0,Uncommon,1,0,Good Rod
+Route 134,Horsea,116,1,1,1,26,36,Dragon Scale,0,Common,1,0,Super Rod
+Route 134,Magikarp,129,1,1,1,22,34,,0,Common,1,0,Old Rod
+Route 134,Seadra,117,1,1,1,30,34,,0,Uncommon,1,0,Super Rod
+Route 134,Sharpedo,319,1,1,1,30,35,,0,Rare,1,0,Super Rod
+Route 134,Tentacool,72,1,1,1,24,36,,0,Common,1,0,Old Rod
+Route 134,Wailmer,320,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Route 135,Carvanha,318,1,1,1,42,45,,0,Uncommon,1,1,Super Rod
+Route 135,Chinchou,170,1,1,1,42,45,Deep Sea Scale,0,Common,1,1,Old Rod
+Route 135,Kingler,99,1,1,1,42,45,,0,Common,1,1,Good Rod
+Route 135,Krabby,98,1,1,1,42,45,,0,Common,1,1,Old Rod
+Route 135,Sharpedo,319,1,1,0,42,45,,0,Rare,1,1,Super Rod
+Route 135,Shellder,90,1,1,0,42,45,Big Pearl,0,Uncommon,1,1,Good Rod
+Route 135,Tentacool,72,1,1,1,42,45,,0,Common,1,1,Old Rod
+Route 135,Tentacruel,73,1,1,1,42,45,,0,Uncommon,1,1,Old Rod
+Route 14,Corsola,222,1,1,0,34,36,Hard Stone,0,Uncommon,1,0,Good Rod
+Route 14,Goldeen,118,1,1,1,34,36,,0,Common,1,0,Old Rod
+Route 14,Kingler,99,1,1,1,34,36,,0,Common,1,0,Old Rod
+Route 14,Krabby,98,1,1,1,34,36,,0,Common,1,0,Old Rod
+Route 14,Magikarp,129,1,1,1,34,36,,0,Common,1,0,Old Rod
+Route 14,Staryu,120,0,0,1,34,36,Water Stone,0,Rare,1,0,Super Rod
+Route 17,Chinchou,170,1,1,1,38,38,Apicot Berry,0,Common,1,0,Old Rod
+Route 17,Horsea,116,1,1,1,43,45,Dragon Scale,0,Common,1,0,Old Rod
+Route 17,Krabby,98,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 17,Magikarp,129,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 17,Psyduck,54,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 17,Slowbro,80,1,1,0,40,42,Kings Rock,0,Common,1,0,Old Rod
+Route 17,Staryu,120,0,0,1,40,42,Water Stone,0,Rare,1,0,Super Rod
+Route 17,Tentacool,72,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 19,Corsola,222,1,1,1,40,42,Hard Stone,0,Uncommon,1,0,Good Rod
+Route 19,Goldeen,118,1,1,1,40,42,,0,Common,1,0,Good Rod
+Route 19,Horsea,116,1,1,1,40,42,Dragon Scale,0,Common,1,0,Old Rod
+Route 19,Kingler,99,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 19,Magikarp,129,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 19,Psyduck,54,1,1,1,40,42,,0,Common,1,0,Good Rod
+Route 19,Shellder,90,1,1,1,40,42,,0,Uncommon,1,0,Super Rod
+Route 19,Slowpoke,79,1,1,1,40,42,,0,Common,1,0,Good Rod
+Route 19,Staryu,120,1,1,1,40,42,Water Stone,0,Rare,1,0,Super Rod
+Route 19,Tentacool,72,1,1,1,40,42,,0,Common,1,0,Old Rod
+Route 19,Tentacruel,73,1,1,1,40,42,,0,Common,0,0,
+Route 20,Chinchou,170,1,1,1,38,38,Apicot Berry,0,Common,1,0,Good Rod
+Route 20,Corsola,222,1,1,1,40,44,Hard Stone,0,Uncommon,1,0,Super Rod
+Route 20,Gyarados,130,1,1,1,40,44,,0,Common,1,0,Super Rod
+Route 20,Horsea,116,1,1,1,40,44,Dragon Scale,0,Common,1,0,Good Rod
+Route 20,Krabby,98,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 20,Magikarp,129,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 20,Shellos,422,1,1,1,40,44,Rowap Berry,1,Rare,0,0,
+Route 20,Staryu,120,1,1,1,40,44,Water Stone,0,Rare,1,0,Super Rod
+Route 20,Tentacool,72,1,1,1,40,44,Poison Barb,0,Common,1,0,Old Rod
+Route 20,Tentacruel,73,1,1,1,40,44,Poison Barb,0,Common,1,0,Super Rod
+Route 203,Goldeen,118,1,1,1,20,35,,0,Common,1,0,Old Rod
+Route 203,Golduck,55,1,1,1,20,35,,0,Common,1,0,Old Rod
+Route 203,Gyarados,130,1,1,1,30,35,,0,Common,1,0,Old Rod
+Route 203,Magikarp,129,1,1,1,20,35,,0,Common,1,0,Old Rod
+Route 203,Psyduck,54,1,1,1,20,35,,0,Common,1,0,Old Rod
+Route 203,Seaking,119,1,1,1,20,35,Passho Berry,0,Common,1,0,Old Rod
+Route 204,Frillish,592,1,1,1,3,13,,1,Rare,0,0,
+Route 204,Lombre,271,1,1,1,3,13,,0,Uncommon,0,0,
+Route 204,Lotad,270,1,1,1,3,13,,0,Uncommon,0,0,
+Route 204,Politoed,186,1,1,1,3,13,,0,Rare,1,0,Super Rod
+Route 204,Tentacool,72,1,1,1,3,13,,0,Common,1,0,Old Rod
+Route 204,Tentacruel,73,1,1,1,3,13,,0,Common,1,0,Good Rod
+Route 205,Bidoof,399,1,1,1,11,14,,0,Common,0,0,
+Route 205,Buizel,418,1,1,1,11,14,,0,Uncommon,0,0,
+Route 205,Golduck,55,1,1,1,14,17,,0,Common,0,0,
+Route 205,Magikarp,129,1,1,1,11,14,,0,Common,0,0,
+Route 205,Psyduck,54,1,1,1,11,14,,0,Common,0,0,
+Route 208,Crobat,169,0,0,1,17,22,,0,Uncommon,1,0,Old Rod
+Route 208,Golbat,42,0,0,1,17,22,,0,Common,1,0,Old Rod
+Route 208,Koffing,109,1,0,0,17,22,,0,Common,1,0,Old Rod
+Route 208,Lombre,271,0,1,0,17,22,,0,Uncommon,1,0,Old Rod
+Route 208,Ludicolo,272,0,1,0,17,22,,0,Uncommon,1,0,Old Rod
+Route 208,Poliwrath,62,1,0,0,17,22,,0,Uncommon,1,0,Old Rod
+Route 208,Seel,86,0,1,0,17,22,,0,Common,1,0,Old Rod
+Route 208,Weezing,110,1,0,0,17,22,,0,Uncommon,1,0,Old Rod
+Route 208,Zubat,41,0,0,1,17,22,,0,Common,1,0,Old Rod
+Route 21,Carvanha,318,1,1,1,40,42,Deep Sea Tooth,1,Uncommon,1,0,Good Rod
+Route 21,Chinchou,170,1,1,1,38,38,Apicot Berry,0,Common,1,0,Old Rod
+Route 21,Clauncher,692,1,1,1,40,44,,1,Rare,1,0,Super Rod
+Route 21,Krabby,98,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 21,Lapras,131,1,1,1,26,26,,0,Rare,1,0,Super Rod
+Route 21,Shellder,90,1,1,1,40,44,,0,Uncommon,1,0,Super Rod
+Route 21,Slowbro,80,1,1,1,40,44,Kings Rock,0,Common,1,0,Old Rod
+Route 21,Tentacool,72,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 21,Tentacruel,73,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 210 North,Barboach,339,1,1,1,25,29,,0,Uncommon,1,0,Super Rod
+Route 210 North,Golduck,55,1,1,1,25,29,,0,Common,0,0,
+Route 210 North,Gyarados,130,1,1,1,25,29,,0,Uncommon,1,0,Super Rod
+Route 210 North,Magikarp,129,1,1,1,25,29,,0,Common,1,0,Old Rod
+Route 210 North,Psyduck,54,1,1,1,25,29,,0,Common,0,0,
+Route 210 North,Whiscash,340,1,1,1,25,29,,0,Rare,1,0,Super Rod
+Route 212 North,Goldeen,118,1,1,1,22,26,,0,Common,1,0,Old Rod
+Route 212 North,Golduck,55,1,1,1,22,26,,0,Common,1,0,Old Rod
+Route 212 North,Magikarp,129,1,1,1,22,26,,0,Common,1,0,Old Rod
+Route 212 North,Marill,183,1,1,1,22,26,,0,Uncommon,1,0,Good Rod
+Route 212 North,Psyduck,54,1,1,1,22,26,,0,Common,1,0,Old Rod
+Route 212 North,Seaking,119,1,1,1,22,26,,0,Common,1,0,Old Rod
+Route 212 South,Barboach,339,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Route 212 South,Marill,183,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Route 212 South,Octillery,224,1,1,1,24,28,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 212 South,Quagsire,195,1,1,0,24,28,,0,Common,1,0,Old Rod
+Route 212 South,Remoraid,223,1,1,1,24,28,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 212 South,Shellos,422,1,1,1,24,28,Rowap Berry,0,Rare,1,0,Super Rod
+Route 212 South,Tentacool,72,1,1,0,24,28,Poison Barb,0,Common,1,0,Old Rod
+Route 212 South,Tentacruel,73,0,0,1,24,28,Poison Barb,0,Common,1,0,Old Rod
+Route 212 South,Whiscash,340,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Route 212 South,Wooper,194,0,0,1,24,28,,0,Common,1,0,Old Rod
+Route 213,Gyarados,130,1,1,1,24,28,,0,Common,1,0,Good Rod
+Route 213,Magikarp,129,1,1,1,24,28,,0,Common,1,0,Old Rod
+Route 213,Octillery,224,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Route 213,Pelipper,279,1,1,1,24,28,,0,Common,0,0,
+Route 213,Remoraid,223,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Route 213,Sharpedo,319,1,1,1,24,28,,0,Rare,1,1,Super Rod
+Route 213,Shellos,422,1,1,1,24,28,,0,Rare,0,0,
+Route 213,Tentacool,72,1,1,1,24,28,,0,Common,1,0,Old Rod
+Route 213,Tentacruel,73,1,1,1,24,28,,0,Common,1,0,Good Rod
+Route 213,Wingull,278,1,1,1,24,28,,0,Common,0,0,
+Route 214,Goldeen,118,1,1,1,23,27,,0,Common,1,0,Old Rod
+Route 214,Golduck,55,1,1,1,23,27,,0,Common,0,0,
+Route 214,Gyarados,130,1,1,1,23,27,,0,Uncommon,1,0,Good Rod
+Route 214,Magikarp,129,1,1,1,23,27,,0,Common,1,0,Old Rod
+Route 214,Psyduck,54,1,1,1,23,27,,0,Common,0,0,
+Route 214,Seaking,119,1,1,1,23,27,,0,Uncommon,1,0,Old Rod
+Route 218,Finneon,456,1,1,1,28,31,Rindo Berry,0,Uncommon,1,0,Good Rod
+Route 218,Lumineon,457,1,1,1,28,31,Rindo Berry,0,Uncommon,1,0,Good Rod
+Route 218,Pelipper,279,1,1,1,28,31,,0,Common,1,0,Old Rod
+Route 218,Shellos,422,1,1,1,28,31,Rowap Berry,0,Rare,1,0,Super Rod
+Route 218,Tentacool,72,1,1,1,28,31,Poison Barb,0,Common,1,0,Old Rod
+Route 218,Tentacruel,73,1,1,1,28,31,Poison Barb,0,Common,1,0,Old Rod
+Route 218,Wingull,278,1,1,1,28,31,,0,Common,1,0,Old Rod
+Route 219,Clamperl,366,1,1,1,20,32,Deep Sea Tooth,0,Uncommon,1,0,Super Rod
+Route 219,Finneon,456,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 219,Gyarados,130,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 219,Lumineon,457,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 219,Magikarp,129,1,1,1,20,32,,0,Common,1,0,Old Rod
+Route 219,Pelipper,279,1,1,1,20,32,,0,Uncommon,0,0,
+Route 219,Tentacool,72,1,1,1,20,32,,0,Common,1,0,Old Rod
+Route 219,Tentacruel,73,1,1,1,22,34,,0,Common,1,0,Good Rod
+Route 219,Wingull,278,1,1,1,20,32,,0,Common,0,0,
+Route 220,Chinchou,170,1,1,1,20,32,Deep Sea Scale,0,Common,1,0,Super Rod
+Route 220,Finneon,456,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 220,Gyarados,130,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 220,Lanturn,171,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 220,Lumineon,457,1,1,1,20,32,,0,Uncommon,1,0,Super Rod
+Route 220,Magikarp,129,1,1,1,20,32,,0,Common,1,0,Old Rod
+Route 220,Pelipper,279,1,1,1,20,32,,0,Uncommon,0,0,
+Route 220,Qwilfish,211,1,1,1,33,38,,0,Uncommon,1,0,Old Rod
+Route 220,Tentacool,72,1,1,1,20,32,,0,Common,1,0,Old Rod
+Route 220,Tentacruel,73,1,1,1,20,32,,0,Common,1,0,Good Rod
+Route 220,Wingull,278,1,1,1,20,32,,0,Common,0,0,
+Route 221,Clamperl,366,1,1,1,28,32,Deep Sea Tooth,0,Uncommon,1,0,Super Rod
+Route 221,Finneon,456,1,1,1,28,32,,0,Uncommon,1,0,Super Rod
+Route 221,Gyarados,130,1,1,1,28,32,,0,Uncommon,1,0,Super Rod
+Route 221,Lumineon,457,1,1,1,28,32,,0,Uncommon,1,0,Super Rod
+Route 221,Magikarp,129,1,1,1,28,32,,0,Common,1,0,Old Rod
+Route 221,Pelipper,279,1,1,1,28,32,,0,Uncommon,0,0,
+Route 221,Tentacool,72,1,1,1,28,32,,0,Common,1,0,Old Rod
+Route 221,Tentacruel,73,1,1,1,28,32,,0,Common,1,0,Old Rod
+Route 221,Wingull,278,1,1,1,28,32,,0,Common,0,0,
+Route 222,Gyarados,130,1,1,1,35,40,,0,Common,1,0,Old Rod
+Route 222,Magikarp,129,1,1,1,35,40,,0,Common,1,0,Old Rod
+Route 222,Octillery,224,1,1,1,35,40,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 222,Pelipper,279,1,1,1,35,40,,0,Common,1,0,Old Rod
+Route 222,Remoraid,223,1,1,1,35,40,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 222,Sharpedo,319,1,1,1,35,40,Deep Sea Tooth,0,Uncommon,1,0,Good Rod
+Route 222,Tentacool,72,1,1,1,35,40,Poison Barb,0,Common,1,0,Old Rod
+Route 222,Tentacruel,73,1,1,1,35,40,,0,Common,1,0,Old Rod
+Route 222,Wingull,278,1,1,1,35,40,,0,Common,1,0,Old Rod
+Route 223,Barboach,339,1,1,1,40,44,,0,Uncommon,1,0,Good Rod
+Route 223,Binacle,688,1,1,1,40,44,Kee Berry,1,Rare,1,0,Super Rod
+Route 223,Gyarados,130,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 223,Magikarp,129,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 223,Octillery,224,1,1,1,40,44,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 223,Pelipper,279,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 223,Remoraid,223,1,1,1,40,44,Starf Berry,0,Uncommon,1,0,Good Rod
+Route 223,Tentacruel,73,1,1,1,40,44,Poison Barb,0,Common,1,0,Old Rod
+Route 223,Wailmer,320,1,1,1,40,44,,0,Uncommon,1,0,Good Rod
+Route 223,Wailord,321,1,1,1,40,44,,0,Uncommon,1,0,Good Rod
+Route 223,Wingull,278,1,1,1,40,44,,0,Common,1,0,Old Rod
+Route 224,Gastrodon,423,1,1,1,52,56,,0,Rare,0,0,
+Route 224,Gyarados,130,1,1,1,52,56,,0,Uncommon,1,0,Good Rod
+Route 224,Luvdisc,370,1,1,1,52,56,,0,Uncommon,1,0,Super Rod
+Route 224,Magikarp,129,1,1,1,52,56,,0,Common,1,0,Old Rod
+Route 224,Octillery,224,1,1,1,52,56,,0,Uncommon,1,0,Super Rod
+Route 224,Pelipper,279,1,1,1,52,56,,0,Uncommon,0,0,
+Route 224,Remoraid,223,1,1,1,52,56,,0,Uncommon,1,0,Good Rod
+Route 224,Tentacool,72,1,1,1,52,56,,0,Common,0,0,
+Route 224,Tentacruel,73,1,1,1,52,56,,0,Common,0,0,
+Route 224,Wingull,278,1,1,1,52,56,,0,Common,0,0,
+Route 225,Basculin,550,1,1,1,9,13,,0,Rare,0,0,
+Route 225,Finneon,456,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Route 225,Golduck,55,1,1,1,40,45,,0,Common,0,0,
+Route 225,Lumineon,457,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Route 225,Magikarp,129,1,1,1,40,45,,0,Common,0,0,
+Route 225,Psyduck,54,1,1,1,40,45,,0,Common,0,0,
+Route 225,Seaking,119,1,1,1,40,45,,0,Common,0,0,
+Route 225,Swablu,333,1,1,1,38,41,,0,Rare,0,0,
+Route 226,Horsea,116,1,1,1,40,45,Dragon Scale,0,Common,0,0,
+Route 226,Magikarp,129,1,1,1,40,45,,0,Common,0,0,
+Route 226,Mantine,226,1,1,1,21,26,,0,Uncommon,0,0,
+Route 226,Octillery,224,1,1,1,40,45,Starf Berry,0,Uncommon,0,0,
+Route 226,Pelipper,279,1,1,1,40,45,,0,Common,0,0,
+Route 226,Relicanth,369,1,1,1,25,30,,0,Rare,0,0,
+Route 226,Seadra,117,1,1,1,40,45,,0,Common,0,0,
+Route 226,Tirtouga,564,1,1,1,40,45,Cover Fossil,1,Rare,0,0,
+Route 227,Buizel,418,1,1,1,40,45,Wacan Berry,0,Uncommon,0,0,
+Route 227,Ducklett,580,1,1,1,35,40,Rindo Berry,0,Uncommon,0,0,
+Route 227,Lumineon,457,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Route 227,Mudkip,258,1,1,1,30,35,,1,Rare,0,0,
+Route 227,Poliwhirl,61,1,1,1,40,45,Kings Rock,0,Common,0,0,
+Route 227,Quagsire,195,1,1,1,40,45,,0,Common,0,0,
+Route 227,Tympole,535,1,1,1,40,45,Persim Berry,0,Rare,0,0,
+Route 227,Wooper,194,1,1,1,40,45,,0,Common,0,0,
+Route 228,Barboach,339,1,1,1,40,44,,0,Uncommon,0,0,
+Route 228,Gastrodon,423,1,1,1,40,44,Rowap Berry,1,Rare,0,0,
+Route 228,Golduck,55,1,1,1,40,44,,0,Common,0,0,
+Route 228,Psyduck,54,1,1,1,40,44,,0,Common,0,0,
+Route 228,Quagsire,195,1,1,1,40,44,,0,Common,0,0,
+Route 228,Shellos,422,1,1,1,40,44,Rowap Berry,0,Rare,0,0,
+Route 228,Whiscash,340,1,1,1,40,44,,0,Uncommon,0,0,
+Route 228,Wooper,194,1,1,1,40,44,,0,Common,0,0,
+Route 229,Azurill,298,1,1,1,40,45,,0,Rare,0,0,
+Route 229,Feebas,349,1,1,1,40,45,Prism Scale,0,Rare,0,0,
+Route 229,Lotad,270,1,1,1,40,45,Mental Herb,0,Common,0,0,
+Route 229,Magikarp,129,1,1,1,40,45,,0,Common,0,0,
+Route 229,Marill,183,1,1,1,32,36,,0,Uncommon,0,0,
+Route 229,Masquerain,284,1,1,1,40,45,SilverPowder,0,Common,0,0,
+Route 229,Panpour,515,1,1,1,40,45,Rindo Berry,0,Uncommon,0,0,
+Route 229,Surskit,283,1,1,1,40,45,SilverPowder,0,Common,0,0,
+Route 230,Clauncher,692,1,1,1,40,45,,0,Rare,0,0,
+Route 230,Gyarados,130,1,1,1,40,45,,0,Common,0,0,
+Route 230,Magikarp,129,1,1,1,40,45,,0,Common,0,0,
+Route 230,Octillery,224,1,1,1,40,45,,0,Uncommon,0,0,
+Route 230,Pelipper,279,1,1,1,40,45,,0,Common,0,0,
+Route 230,Remoraid,223,1,1,1,40,45,,0,Uncommon,0,0,
+Route 230,Tentacruel,73,1,1,1,40,45,Poison Barb,0,Common,0,0,
+Route 230,Wailmer,320,1,1,1,40,45,,0,Uncommon,0,0,
+Route 230,Wailord,321,1,1,1,40,45,,0,Uncommon,0,0,
+Route 24,Kingler,99,0,1,0,10,14,,0,Common,1,0,Old Rod
+Route 24,Koffing,109,1,0,0,10,14,,0,Common,1,0,Old Rod
+Route 24,Krabby,98,0,1,0,10,14,,0,Common,1,0,Old Rod
+Route 24,Poliwrath,62,1,0,0,10,14,,0,Uncommon,1,0,Old Rod
+Route 24,Seaking,119,0,1,0,10,14,,0,Uncommon,1,0,Old Rod
+Route 24,Slowking,199,0,0,1,10,14,,0,Uncommon,1,0,Old Rod
+Route 24,Tentacool,72,0,0,1,10,14,,0,Common,1,0,Old Rod
+Route 24,Tentacruel,73,0,0,1,10,14,,0,Uncommon,1,0,Old Rod
+Route 24,Weezing,110,1,0,0,10,14,,0,Uncommon,1,0,Old Rod
+Route 26,Chinchou,170,0,0,1,38,38,Apicot Berry,0,Common,1,0,Old Rod
+Route 26,Horsea,116,1,1,1,45,47,Dragon Scale,0,Common,1,0,Old Rod
+Route 26,Krabby,98,1,1,1,45,47,,0,Common,1,0,Old Rod
+Route 26,Lanturn,171,0,0,1,42,42,,0,Common,1,0,Old Rod
+Route 26,Magikarp,129,1,1,1,45,47,,0,Common,1,0,Old Rod
+Route 26,Shellder,90,1,1,1,45,47,Shell Bell,0,Uncommon,1,0,Super Rod
+Route 26,Shellos,422,1,0,1,45,47,,1,Rare,1,0,Super Rod
+Route 26,Tentacool,72,1,1,0,45,47,,0,Common,1,0,Old Rod
+Route 26,Tentacruel,73,1,1,0,45,47,,0,Common,1,0,Old Rod
+Route 27,Buizel,418,0,1,0,44,48,Wacan Berry,0,Uncommon,1,0,Good Rod
+Route 27,Chinchou,170,1,1,1,38,38,Apicot Berry,0,Common,1,0,Old Rod
+Route 27,Luvdisc,370,1,1,1,33,33,,0,Uncommon,1,0,Good Rod
+Route 27,Tentacool,72,1,1,1,44,48,Poison Barb,0,Common,1,0,Old Rod
+Route 27,Tentacruel,73,1,1,1,44,48,Poison Barb,0,Common,1,0,Old Rod
+Route 28,Buizel,418,1,1,1,33,37,,1,Uncommon,1,0,Super Rod
+Route 28,Magikarp,129,1,1,1,33,37,,0,Common,1,0,Old Rod
+Route 28,Politoed,186,1,1,1,33,37,,0,Rare,1,0,Super Rod
+Route 28,Poliwag,60,1,1,1,33,37,Kings Rock,0,Common,1,0,Old Rod
+Route 28,Poliwhirl,61,1,1,1,33,37,,0,Uncommon,1,0,Good Rod
+Route 28,Zubat,41,0,0,1,33,37,,0,Common,1,0,Old Rod
+Route 30,Krabby,98,1,1,1,4,6,,0,Common,1,0,Old Rod
+Route 30,Magikarp,129,1,1,1,4,6,,0,Common,1,0,Old Rod
+Route 30,Poliwag,60,1,0,1,4,6,Kings Rock,0,Common,1,0,Old Rod
+Route 30,Poliwhirl,61,1,0,1,4,6,Kings Rock,0,Common,1,0,Old Rod
+Route 31,Azumarill,184,0,1,0,5,7,,0,Uncommon,0,0,
+Route 31,Crobat,169,1,0,0,5,7,,0,Common,0,0,
+Route 31,Golbat,42,1,0,0,5,7,,0,Common,0,0,
+Route 31,Lombre,271,0,0,1,5,7,Mental Herb,0,Common,0,0,
+Route 31,Ludicolo,272,0,0,1,5,7,Mental Herb,0,Common,0,0,
+Route 31,Quagsire,195,0,1,0,5,7,,0,Common,0,0,
+Route 31,Seel,86,0,0,1,5,7,Aspear Berry,0,Common,0,0,
+Route 31,Wooper,194,0,1,0,5,7,,0,Common,0,0,
+Route 31,Zubat,41,1,0,0,5,7,,0,Common,0,0,
+Route 32,Quagsire,195,0,0,1,7,9,,0,Common,1,0,Old Rod
+Route 32,Qwilfish,211,1,1,1,7,9,,0,Uncommon,1,0,Good Rod
+Route 32,Tentacool,72,1,1,1,7,9,,0,Common,1,0,Old Rod
+Route 32,Tentacruel,73,1,1,1,7,9,,0,Common,1,0,Old Rod
+Route 34,Buizel,418,1,1,1,11,15,,1,Uncommon,1,0,Super Rod
+Route 34,Corsola,222,1,1,0,11,15,,0,Common,1,0,Super Rod
+Route 34,Krabby,98,1,1,1,11,15,,0,Common,1,0,Old Rod
+Route 34,Staryu,120,0,0,1,11,15,,0,Uncommon,1,1,Super Rod
+Route 34,Tentacool,72,1,1,1,11,15,,0,Common,1,0,Old Rod
+Route 34,Tentacruel,73,1,1,1,17,21,,0,Uncommon,1,0,Super Rod
+Route 35,Goldeen,118,1,1,1,14,18,,0,Common,1,0,Old Rod
+Route 35,Horsea,116,1,1,1,14,18,Dragon Scale,0,Common,1,0,Old Rod
+Route 35,Magikarp,129,1,1,1,14,18,,0,Common,1,0,Old Rod
+Route 35,Poliwag,60,0,0,1,14,18,Kings Rock,0,Common,1,0,Old Rod
+Route 4,Buizel,418,1,0,1,8,12,,1,Uncommon,1,0,Super Rod
+Route 4,Magikarp,129,1,1,1,8,12,,0,Common,1,0,Old Rod
+Route 4,Poliwag,60,1,1,1,8,12,Kings Rock,0,Common,1,0,Good Rod
+Route 4,Slowpoke,79,1,1,1,8,12,,0,Common,1,0,Old Rod
+Route 4,Zubat,41,1,0,1,8,12,,0,Common,0,0,
+Route 40,Chinchou,170,1,1,1,15,21,Apicot Berry,0,Common,1,0,Old Rod
+Route 40,Clamperl,366,1,1,1,15,21,Pearl,0,Uncommon,1,0,Good Rod
+Route 40,Corsola,222,1,1,1,15,21,Hard Stone,0,Uncommon,1,0,Good Rod
+Route 40,Krabby,98,1,1,1,15,21,,0,Common,1,0,Old Rod
+Route 40,Lanturn,171,1,1,1,15,21,Apicot Berry,0,Common,1,0,Old Rod
+Route 40,Mantine,226,1,1,1,15,21,,0,Uncommon,1,0,Super Rod
+Route 40,Shellder,90,1,1,1,15,21,Shell Bell,0,Uncommon,1,0,Super Rod
+Route 40,Staryu,120,1,1,1,15,21,Water Stone,0,Rare,1,0,Super Rod
+Route 40,Tentacool,72,1,1,1,15,21,Poison Barb,0,Common,1,0,Old Rod
+Route 40,Tentacruel,73,1,1,1,15,21,Poison Barb,0,Common,1,0,Old Rod
+Route 41,Chinchou,170,1,1,1,30,35,Deep Sea Scale,0,Common,1,1,Good Rod
+Route 41,Golbat,42,0,0,1,30,35,,0,Common,0,0,
+Route 41,Krabby,98,1,1,1,30,35,,0,Common,1,1,Old Rod
+Route 41,Lanturn,171,1,1,1,30,35,,0,Common,1,0,Good Rod
+Route 41,Magikarp,129,1,1,1,30,35,,0,Common,1,1,Old Rod
+Route 41,Mantine,226,1,1,1,30,35,,0,Uncommon,1,0,Super Rod
+Route 41,Shellder,90,1,1,1,30,35,,0,Uncommon,1,1,Super Rod
+Route 41,Tentacool,72,1,1,1,30,35,,0,Common,1,0,Old Rod
+Route 41,Tentacruel,73,1,1,1,30,35,,0,Common,1,0,Good Rod
+Route 42,Goldeen,118,1,1,1,34,38,,0,Common,1,0,Good Rod
+Route 42,Horsea,116,1,1,1,34,38,Dragon Scale,0,Common,1,0,Old Rod
+Route 42,Krabby,98,1,1,1,34,38,,0,Common,1,0,Old Rod
+Route 42,Magikarp,129,1,1,1,34,38,,0,Common,1,0,Old Rod
+Route 42,Poliwag,60,0,0,1,34,38,Kings Rock,0,Common,1,0,Good Rod
+Route 43,Buizel,418,0,0,1,36,40,Wacan Berry,0,Uncommon,1,0,Good Rod
+Route 43,Golbat,42,0,0,1,36,40,,0,Common,0,0,
+Route 43,Goldeen,118,1,1,1,36,40,,0,Common,1,0,Old Rod
+Route 43,Krabby,98,1,1,1,36,40,,0,Common,1,0,Old Rod
+Route 43,Magikarp,129,1,1,1,36,40,,0,Common,1,0,Old Rod
+Route 43,Politoed,186,1,0,0,36,40,Damp Rock,0,Uncommon,1,0,Old Rod
+Route 44,Gyarados,130,1,1,1,36,40,,0,Common,1,0,Old Rod
+Route 44,Krabby,98,1,1,0,36,40,,0,Common,1,0,Old Rod
+Route 44,Magikarp,129,1,1,1,36,40,,0,Common,1,0,Old Rod
+Route 44,Poliwag,60,0,0,1,36,40,Kings Rock,0,Common,1,0,Old Rod
+Route 44,Poliwhirl,61,1,1,1,36,40,Kings Rock,0,Common,1,0,Old Rod
+Route 44,Remoraid,223,1,1,1,36,40,,0,Uncommon,1,0,Good Rod
+Route 45,Chinchou,170,1,1,1,44,47,,0,Common,0,0,
+Route 45,Finneon,456,1,1,1,44,47,,0,Uncommon,0,0,
+Route 45,Goldeen,118,1,1,1,44,47,,0,Common,0,0,
+Route 45,Kingdra,230,1,1,1,44,47,,0,Rare,0,0,
+Route 45,Lombre,271,1,1,1,44,47,,0,Uncommon,0,0,
+Route 45,Magikarp,129,1,1,1,44,47,,0,Common,0,0,
+Route 45,Poliwag,60,1,1,1,44,47,Kings Rock,0,Common,0,0,
+Route 45,Tentacool,72,1,1,1,44,47,,0,Common,0,0,
+Route 47,Buizel,418,0,0,1,30,34,,0,Uncommon,1,0,Super Rod
+Route 47,Magikarp,129,1,1,1,30,34,,0,Common,1,0,Old Rod
+Route 47,Poliwag,60,0,0,1,30,34,Kings Rock,0,Common,1,0,Good Rod
+Route 47,Quagsire,195,1,0,1,30,34,,0,Common,1,0,Good Rod
+Route 47,Seel,86,1,1,1,30,34,,0,Common,1,0,Good Rod
+Route 47,Shellder,90,0,0,1,30,34,,0,Rare,1,0,Super Rod
+Route 47,Staryu,120,1,1,1,30,34,,0,Rare,1,0,Super Rod
+Route 47,Tentacool,72,1,1,1,30,34,,0,Common,1,0,Old Rod
+Route 47,Wooper,194,1,1,1,30,34,,0,Common,1,0,Old Rod
+Route 49,Feebas,349,1,1,1,35,39,Prism Scale,1,Rare,0,0,
+Route 49,Goldeen,118,1,1,1,35,39,,0,Common,0,0,
+Route 49,Gyarados,130,1,1,1,35,39,,0,Uncommon,0,0,
+Route 49,Kingler,99,1,1,1,35,39,,0,Common,0,0,
+Route 49,Krabby,98,1,1,1,35,39,,0,Common,0,0,
+Route 49,Magikarp,129,1,1,1,35,39,,0,Common,0,0,
+Route 49,Pelipper,279,1,1,1,35,39,,0,Uncommon,0,0,
+Route 49,Seaking,119,1,1,1,35,39,,0,Uncommon,0,0,
+Route 6,Buizel,418,1,1,1,22,24,Wacan Berry,1,Uncommon,1,0,Good Rod
+Route 6,Goldeen,118,1,1,1,22,24,,0,Common,1,0,Old Rod
+Route 6,Golduck,55,1,1,1,22,24,,0,Common,1,0,Old Rod
+Route 6,Krabby,98,1,0,1,22,24,,0,Common,1,0,Old Rod
+Route 6,Magikarp,129,1,1,1,22,24,,0,Common,1,0,Old Rod
+Route 6,Poliwag,60,0,1,0,22,24,,0,Common,1,0,Old Rod
+Route 6,Psyduck,54,1,1,0,22,24,,0,Common,1,0,Old Rod
+Route 6,Shellder,90,0,0,1,22,24,Shell Bell,0,Uncommon,1,0,Super Rod
+Route 6,Slowpoke,79,1,1,1,22,24,,0,Common,1,0,Old Rod
+Ruin Valley,Gyarados,130,1,1,1,35,48,,0,Uncommon,1,1,Super Rod
+Ruin Valley,Krabby,98,1,1,1,35,48,,0,Common,1,0,Old Rod
+Ruin Valley,Magikarp,129,1,1,1,35,48,,0,Common,1,0,Old Rod
+Ruin Valley,Marill,183,1,1,1,35,48,,0,Uncommon,1,0,Good Rod
+Ruin Valley,Poliwag,60,1,1,1,35,48,Kings Rock,0,Common,1,0,Old Rod
+Ruin Valley,Wooper,194,1,1,1,35,48,,0,Common,1,0,Old Rod
+Ruins Of Alph,Buizel,418,1,1,1,18,25,,1,Uncommon,1,1,Super Rod
+Ruins Of Alph,Magikarp,129,1,1,1,18,25,,0,Common,1,1,Old Rod
+Ruins Of Alph,Poliwag,60,1,1,1,18,25,,0,Common,1,1,Good Rod
+Ruins Of Alph,Poliwhirl,61,1,1,1,18,25,,0,Uncommon,1,1,Super Rod
+Ruins Of Alph,Quagsire,195,1,1,1,18,25,,0,Common,0,0,
+Ruins Of Alph,Wooper,194,1,1,1,18,25,,0,Common,0,0,
+Safari Area 1,Ducklett,580,1,1,1,34,38,,1,Uncommon,1,0,Good Rod
+Safari Area 1,Lapras,131,1,1,1,24,26,,0,Rare,1,0,Super Rod
+Safari Area 1,Magikarp,129,1,1,1,34,38,,0,Common,1,0,Old Rod
+Safari Area 1,Shellder,90,1,1,1,34,38,Shell Bell,0,Uncommon,1,0,Old Rod
+Safari Area 1,Slowpoke,79,1,1,1,34,38,Lagging Tail,0,Common,1,0,Old Rod
+Safari Area 2,Goldeen,118,1,1,1,34,38,,0,Common,1,0,Old Rod
+Safari Area 2,Horsea,116,1,1,1,34,38,Dragon Scale,0,Common,1,0,Old Rod
+Safari Area 2,Magikarp,129,1,1,1,34,38,,0,Common,1,0,Old Rod
+Safari Area 2,Poliwag,60,1,1,1,34,38,,0,Common,1,0,Old Rod
+Safari Area 2,Staryu,120,1,1,1,34,38,Water Stone,0,Rare,1,0,Super Rod
+Safari Area 3,Basculin,550,1,1,1,12,13,,1,Rare,1,0,Super Rod
+Safari Area 3,Golduck,55,1,1,1,32,34,,0,Common,1,0,Old Rod
+Safari Area 3,Horsea,116,0,0,1,32,34,Dragon Scale,0,Common,1,0,Good Rod
+Safari Area 3,Marill,183,1,1,1,32,34,,0,Uncommon,1,0,Super Rod
+Safari Area 3,Psyduck,54,1,1,1,32,34,,0,Common,1,0,Old Rod
+Safari Area 3,Slowpoke,79,1,1,1,32,34,Lagging Tail,0,Common,1,0,Old Rod
+Safari Entrance,Finneon,456,1,1,1,34,38,Rindo Berry,0,Uncommon,0,0,
+Safari Entrance,Frillish,592,1,1,1,34,38,,1,Rare,0,0,
+Safari Entrance,Goldeen,118,1,1,1,34,38,,0,Common,0,0,
+Safari Entrance,Krabby,98,1,1,1,34,38,,0,Common,1,0,Old Rod
+Safari Entrance,Lotad,270,1,1,1,34,38,Mental Herb,0,Common,1,0,Old Rod
+Safari Entrance,Marill,183,1,1,1,35,36,,0,Uncommon,0,0,
+Safari Entrance,Slowpoke,79,1,1,1,34,38,Lagging Tail,0,Common,0,0,
+Safari Exclusive,Buizel,418,1,1,1,34,38,Wacan Berry,1,Uncommon,0,0,
+Safari Exclusive,Dratini,147,1,1,1,34,38,Dragon Scale,1,Rare,0,0,
+Safari Exclusive,Horsea,116,1,1,1,34,38,Dragon Scale,1,Common,0,0,
+Safari Exclusive,Magikarp,129,1,1,1,34,38,,1,Common,0,0,
+Safari Exclusive,Marill,183,1,1,1,34,36,,1,Uncommon,0,0,
+Safari Exclusive,Slowpoke,79,1,1,1,34,38,Lagging Tail,1,Common,0,0,
+Safari Exclusive,Squirtle,7,1,1,1,34,38,,1,Rare,0,0,
+Safari Exclusive,Staryu,120,1,1,1,34,38,Water Stone,1,Rare,0,0,
+Safari Johto Grass and Swamp Zone,Politoed,186,1,1,1,22,26,Damp Rock,0,Uncommon,0,0,
+Safari Johto Grass and Swamp Zone,Poliwag,60,1,1,1,22,26,,0,Common,0,0,
+Safari Johto Grass and Swamp Zone,Quagsire,195,1,1,1,22,26,Starf Berry,0,Common,0,0,
+Safari Johto Grass and Swamp Zone,Qwilfish,211,1,1,1,22,26,Poison Barb,0,Uncommon,0,0,
+Safari Johto Grass and Swamp Zone,Shellos,422,1,1,1,22,26,Rowap Berry,0,Rare,0,0,
+Safari Johto Grass and Swamp Zone,Skrelp,690,1,1,1,27,30,Maranga Berry,1,Rare,0,0,
+Safari Johto Grass and Swamp Zone,Tympole,535,1,1,1,22,26,Persim Berry,0,Rare,0,0,
+Safari Johto Grass and Swamp Zone,Wooper,194,1,1,1,22,26,,0,Common,0,0,
+Safari Johto Grass and Swamp Zone,Yanma,193,1,1,1,22,26,Wide Lens,0,Uncommon,0,0,
+Safari Johto Snow Zone,Cryogonal,615,1,1,1,22,26,Never-Melt Ice,0,Rare,0,0,
+Safari Johto Snow Zone,Dewgong,87,1,1,1,22,26,Aspear Berry,0,Common,0,0,
+Safari Johto Snow Zone,Golduck,55,1,1,1,22,26,,0,Common,0,0,
+Safari Johto Snow Zone,Lapras,131,1,1,1,22,26,,0,Rare,0,0,
+Safari Johto Snow Zone,Seel,86,1,1,1,22,26,Aspear Berry,0,Common,0,0,
+Safari Johto Snow Zone,Slowking,199,1,1,1,22,26,Kings Rock,0,Uncommon,0,0,
+Safari Johto Snow Zone,Slowpoke,79,1,1,1,22,26,Lagging Tail,0,Common,0,0,
+Safari Johto Snow Zone,Spheal,363,1,1,1,22,26,,0,Uncommon,0,0,
+Safari Johto Snow Zone,Vanillite,582,1,1,1,22,26,Never-Melt Ice,1,Rare,0,0,
+Safari Johto Wet Zone,Chinchou,170,1,1,1,22,26,Apicot Berry,0,Common,0,0,
+Safari Johto Wet Zone,Corphish,341,1,1,1,22,26,Mystic Water,1,Rare,0,0,
+Safari Johto Wet Zone,Corsola,222,1,1,1,22,26,Hard Stone,0,Uncommon,0,0,
+Safari Johto Wet Zone,Horsea,116,1,1,1,22,26,Dragon Scale,0,Common,0,0,
+Safari Johto Wet Zone,Mantine,226,1,1,1,22,26,Starf Berry,0,Uncommon,0,0,
+Safari Johto Wet Zone,Marill,183,1,1,1,22,26,,0,Uncommon,0,0,
+Safari Johto Wet Zone,Remoraid,223,1,1,1,22,26,Starf Berry,0,Uncommon,0,0,
+Safari Johto Wet Zone,Totodile,158,1,1,1,22,26,,0,Rare,0,0,
+Safari Johto Wet Zone,Tynamo,602,1,1,1,27,30,,0,Rare,0,0,
+Sea Mauville,Magikarp,129,1,1,1,28,35,,0,Common,1,1,Old Rod
+Sea Mauville,Pelipper,279,1,1,1,28,35,,0,Uncommon,0,0,
+Sea Mauville,Tentacool,72,1,1,1,28,35,,0,Common,1,0,Old Rod
+Sea Mauville,Tentacruel,73,1,1,1,30,35,,0,Common,1,0,Good Rod
+Sea Mauville,Wailmer,320,1,1,1,28,35,,0,Uncommon,1,1,Super Rod
+Sea Mauville,Wingull,278,1,1,1,28,35,,0,Uncommon,0,0,
+Seafoam B4F,Cryogonal,615,1,1,1,40,44,,1,Rare,1,0,Super Rod
+Seafoam B4F,Dewgong,87,1,1,1,38,38,,0,Common,1,0,Old Rod
+Seafoam B4F,Golbat,42,1,1,1,40,44,,0,Common,0,0,
+Seafoam B4F,Gyarados,130,1,1,1,40,44,,0,Common,1,0,Old Rod
+Seafoam B4F,Horsea,116,1,1,1,40,44,Dragon Scale,0,Common,1,0,Old Rod
+Seafoam B4F,Lapras,131,1,1,1,26,26,,0,Rare,1,0,Super Rod
+Seafoam B4F,Seadra,117,1,1,1,40,44,Dragon Scale,0,Common,1,0,Old Rod
+Seafoam B4F,Seel,86,1,1,1,36,36,,0,Common,1,0,Old Rod
+Seafoam B4F,Shellder,90,1,1,1,40,44,,0,Uncommon,1,0,Super Rod
+Seafoam B4F,Slowbro,80,1,1,1,40,44,,0,Common,1,0,Old Rod
+Seaway Vein,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Seaway Vein,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Seaway Vein,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Seaway Vein,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Extension,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Extension,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Seaway Vein Extension,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Extension,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Seaway Vein Extension,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Seaway Vein Extension,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Extension,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Extension,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Seaway Vein Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Seaway Vein Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Seaway Vein Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Secret Nap Area,Krabby,98,1,1,1,45,50,,0,Common,0,0,
+Secret Nap Area,Lapras,131,1,1,1,10,13,,1,Rare,0,0,
+Secret Nap Area,Poliwag,60,1,1,1,45,50,,0,Common,0,0,
+Secret Nap Area,Slowbro,80,1,1,1,45,50,Kings Rock,0,Common,0,0,
+Secret Nap Area,Slowking,199,1,1,1,45,50,Kings Rock,0,Uncommon,0,0,
+Secret Nap Area,Slowpoke,79,1,1,1,45,50,Lagging Tail,0,Common,0,0,
+Secret Nap Area,Staryu,120,1,1,1,45,50,Water Stone,0,Rare,0,0,
+Sendoff Spring,Goldeen,118,1,1,1,40,44,,0,Common,1,0,Old Rod
+Sendoff Spring,Gyarados,130,1,1,1,40,44,,0,Uncommon,1,0,Good Rod
+Sendoff Spring,Magikarp,129,1,1,1,40,44,,0,Common,1,0,Old Rod
+Sendoff Spring,Poliwhirl,61,1,1,1,40,44,,0,Uncommon,0,0,
+Sendoff Spring,Seaking,119,1,1,1,40,44,,0,Uncommon,1,0,Good Rod
+Shamouti Island,Goldeen,118,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,0,Good Rod
+Shamouti Island,Magikarp,129,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,0,Old Rod
+Shamouti Island,Seaking,119,1,1,1,15,19,,0,Uncommon,1,0,Old Rod
+Shamouti Island,Tentacool,72,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island,Tentacruel,73,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island,Wooper,194,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,0,Good Rod
+Shamouti Island Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,0,Old Rod
+Shamouti Island Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Island Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,0,Old Rod
+Shamouti Seaway,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Shamouti Seaway,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Shamouti Seaway,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Shamouti Seaway,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Goldeen,118,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Horsea,116,1,1,1,15,19,Dragon Scale,0,Uncommon,1,1,Good Rod
+Shamouti Seaway Frozen,Magikarp,129,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Poliwag,60,1,1,1,15,19,Kings Rock,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Seaking,119,1,1,1,15,19,,0,Uncommon,1,1,Old Rod
+Shamouti Seaway Frozen,Tentacool,72,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Tentacruel,73,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shamouti Seaway Frozen,Wooper,194,1,1,1,15,19,,0,Common,1,1,Old Rod
+Shoal Cave,Magikarp,129,1,1,1,25,37,,0,Common,1,1,Old Rod
+Shoal Cave,Spheal,363,1,1,1,25,37,,0,Uncommon,0,0,
+Shoal Cave,Tentacool,72,1,1,1,25,37,,0,Common,1,0,Old Rod
+Shoal Cave,Wailmer,320,1,1,1,25,37,,0,Uncommon,1,1,Super Rod
+Shoal Cave,Zubat,41,1,1,1,25,37,,0,Common,0,0,
+Sinnoh Safari Area Zone 2,Carvanha,318,1,1,1,24,28,Deep Sea Tooth,0,Uncommon,1,0,Super Rod
+Sinnoh Safari Area Zone 2,Corphish,341,1,1,1,24,28,Mystic Water,0,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 2,Ducklett,580,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 2,Feebas,349,1,1,1,24,28,Prism Scale,0,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 2,Lombre,271,1,1,1,24,28,Mental Herb,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 2,Lotad,270,1,1,1,24,28,Mental Herb,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 2,Lumineon,457,1,1,1,24,28,Rindo Berry,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 2,Mantyke,458,1,1,1,22,26,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 2,Psyduck,54,1,1,1,24,28,,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 4,Barboach,339,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 4,Bibarel,400,1,1,1,24,28,,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 4,Clauncher,692,1,1,1,24,28,Prism Scale,1,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 4,Masquerain,284,1,1,1,24,28,SilverPowder,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 4,Piplup,393,1,1,1,24,28,Persim Berry,0,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 4,Surskit,283,1,1,1,24,28,SilverPowder,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 4,Swanna,581,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 4,Whiscash,340,1,1,1,24,28,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 6,Buizel,418,1,1,1,24,28,Wacan Berry,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 6,Finneon,456,1,1,1,24,28,Rindo Berry,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 6,Mantyke,458,1,1,1,22,26,,0,Uncommon,1,0,Good Rod
+Sinnoh Safari Area Zone 6,Quagsire,195,1,1,1,24,28,,0,Common,1,0,Old Rod
+Sinnoh Safari Area Zone 6,Shellos,422,1,1,1,24,28,Rowap Berry,0,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 6,Skrelp,690,1,1,1,24,28,Maranga Berry,1,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 6,Tynamo,602,1,1,1,24,28,,0,Rare,1,0,Super Rod
+Sinnoh Safari Area Zone 6,Wooper,194,1,1,1,24,28,,0,Common,1,0,Old Rod
+Sinnoh Victory Road B1F,Dewgong,87,1,1,1,45,49,,0,Common,0,0,
+Sinnoh Victory Road B1F,Floatzel,419,1,1,1,45,49,,0,Rare,0,0,
+Sinnoh Victory Road B1F,Golbat,42,1,1,1,45,49,,0,Common,0,0,
+Sinnoh Victory Road B1F,Gyarados,130,1,1,1,45,49,,0,Uncommon,1,0,Good Rod
+Sinnoh Victory Road B1F,Lapras,131,1,1,1,45,49,,0,Rare,0,0,
+Sinnoh Victory Road B1F,Magikarp,129,1,1,1,45,49,,0,Common,1,0,Old Rod
+Sinnoh Victory Road B1F,Octillery,224,1,1,1,45,49,,0,Uncommon,1,0,Good Rod
+Sinnoh Victory Road B1F,Remoraid,223,1,1,1,45,49,,0,Uncommon,1,0,Good Rod
+Sinnoh Victory Road B1F Deep,Dewgong,87,1,1,1,50,54,,0,Common,0,0,
+Sinnoh Victory Road B1F Deep,Floatzel,419,1,1,1,50,54,,0,Uncommon,0,0,
+Sinnoh Victory Road B1F Deep,Golbat,42,1,1,1,50,54,,0,Common,0,0,
+Sinnoh Victory Road B1F Deep,Gyarados,130,1,1,1,50,54,,0,Common,1,0,Super Rod
+Sinnoh Victory Road B1F Deep,Lapras,131,1,1,1,50,54,,0,Rare,0,0,
+Sinnoh Victory Road B1F Deep,Magikarp,129,1,1,1,50,54,,0,Common,1,0,Old Rod
+Sinnoh Victory Road B1F Deep,Remoraid,223,1,1,1,50,54,,0,Uncommon,1,0,Super Rod
+Sinnoh Victory Road B1F Deep,Seel,86,1,1,1,50,54,,0,Common,0,0,
+Slateport City,Gyarados,130,1,1,1,22,34,,0,Uncommon,1,0,Super Rod
+Slateport City,Krabby,98,1,1,1,30,34,,0,Common,1,0,Old Rod
+Slateport City,Magikarp,129,1,1,1,22,34,,0,Common,1,0,Old Rod
+Slateport City,Pelipper,279,1,1,1,32,34,,0,Uncommon,0,0,
+Slateport City,Tentacool,72,1,1,1,32,36,,0,Common,1,0,Old Rod
+Slateport City,Wailmer,320,1,1,1,5,35,,0,Uncommon,1,0,Super Rod
+Slateport City,Wingull,278,1,1,1,30,34,,0,Common,0,0,
+Sleeping Path,Politoed,186,1,1,1,42,45,Damp Rock,0,Uncommon,0,0,
+Sleeping Path,Poliwag,60,1,1,1,42,45,,0,Common,0,0,
+Sleeping Path,Quagsire,195,1,1,1,42,45,,0,Common,0,0,
+Sleeping Path,Slowbro,80,1,1,1,42,45,Kings Rock,0,Common,0,0,
+Sleeping Path,Slowpoke,79,1,1,1,42,45,Lagging Tail,0,Common,0,0,
+Sleeping Path,Wooper,194,1,1,1,42,45,,0,Common,0,0,
+Slowpoke Well,Goldeen,118,1,1,1,9,13,,0,Common,1,0,Old Rod
+Slowpoke Well,Magikarp,129,1,1,1,9,13,,0,Common,1,0,Old Rod
+Slowpoke Well,Psyduck,54,1,1,1,9,13,,0,Common,1,0,Old Rod
+Slowpoke Well,Seaking,119,1,1,1,9,13,,0,Common,1,0,Old Rod
+Slowpoke Well,Slowpoke,79,1,1,1,9,13,Lagging Tail,0,Common,1,0,Old Rod
+Slowpoke Well L1,Goldeen,118,1,1,1,8,12,,0,Common,1,0,Old Rod
+Slowpoke Well L1,Slowpoke,79,1,1,1,8,12,,0,Common,1,0,Old Rod
+Snowfall Valley,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Snowfall Valley,Mantyke,458,1,1,1,21,26,,0,Uncommon,0,0,
+Snowfall Valley,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Snowfall Valley,Mudkip,258,1,1,1,25,31,,0,Rare,0,0,
+Snowfall Valley,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Snowfall Valley,Seadra,117,1,1,1,25,31,Dragon Scale,0,Common,0,0,
+Snowfall Valley,Swablu,333,1,1,1,18,22,,0,Rare,0,0,
+Snowfall Valley,Tentacool,72,1,1,1,25,31,,0,Common,0,0,
+Snowfall Valley,Wailmer,320,1,1,1,25,31,,0,Uncommon,0,0,
+Sootopolis city,Gyarados,130,1,1,1,30,34,,0,Uncommon,1,0,Super Rod
+Sootopolis city,Magikarp,129,1,1,1,30,34,,0,Common,1,0,Old Rod
+Spawn Testing,Lapras,131,1,1,1,43,48,,0,Rare,1,0,Super Rod
+Spawn Testing,Poliwag,60,1,1,1,60,65,,0,Common,1,0,Old Rod
+Spawn Testing,Psyduck,54,1,1,1,60,65,,0,Common,1,0,Old Rod
+Spawn Testing,Seel,86,1,1,1,60,65,,0,Common,1,0,Old Rod
+Spawn Testing,Staryu,120,1,1,1,60,65,,0,Uncommon,1,0,Good Rod
+Spawn Testing,Wingull,278,1,1,1,60,65,,0,Common,0,0,
+Suzuka Cave 1F,Feebas,349,0,1,0,22,22,Prism Scale,0,Rare,0,0,
+Suzuka Cave 1F,Noibat,714,1,0,1,21,25,,0,Rare,0,0,
+Suzuka Cave 1F,Pelipper,279,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave 1F,Poliwhirl,61,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave 1F,Shellos,422,1,1,0,21,25,,0,Rare,0,0,
+Suzuka Cave 1F,Staryu,120,1,1,1,21,25,,0,Rare,0,0,
+Suzuka Cave 1F,Wooper,194,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave 1F,Zubat,41,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave B1F,Alomomola,594,1,0,0,21,25,,0,Rare,0,0,
+Suzuka Cave B1F,Chinchou,170,1,1,1,21,25,Deep Sea Scale,0,Common,0,0,
+Suzuka Cave B1F,Feebas,349,1,1,1,22,22,Prism Scale,0,Rare,0,0,
+Suzuka Cave B1F,Frillish,592,0,0,1,21,25,,0,Rare,0,0,
+Suzuka Cave B1F,Pelipper,279,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave B1F,Poliwhirl,61,1,1,1,21,25,,0,Common,0,0,
+Suzuka Cave B1F,Tympole,535,0,1,0,21,25,,0,Rare,0,0,
+Suzuka Cave B1F,Wooper,194,1,1,1,21,25,,0,Common,0,0,
+Suzuka Clearing,Alomomola,594,1,1,1,21,25,,0,Rare,0,0,
+Suzuka Clearing,Azurill,298,1,1,1,21,25,,0,Rare,0,0,
+Suzuka Clearing,Mantyke,458,1,1,1,21,25,,0,Uncommon,0,0,
+Suzuka Clearing,Marill,183,1,1,1,21,25,,0,Uncommon,0,0,
+Suzuka Clearing,Piplup,393,1,1,1,21,25,,0,Rare,0,0,
+Suzuka Clearing,Slowpoke,79,1,1,1,21,25,,0,Common,0,0,
+Suzuka Clearing,Tentacool,72,1,1,1,21,25,,0,Common,0,0,
+Suzuka Clearing,Wooper,194,1,1,1,21,25,,0,Common,0,0,
+Tanoby Ruins,Gyarados,130,1,1,1,10,40,,0,Uncommon,1,0,Super Rod
+Tanoby Ruins,Horsea,116,1,1,1,10,40,Dragon Scale,0,Common,1,1,Super Rod
+Tanoby Ruins,Kingler,99,1,1,0,10,40,,0,Common,1,0,Super Rod
+Tanoby Ruins,Krabby,98,1,1,1,10,40,,0,Common,1,1,Good Rod
+Tanoby Ruins,Magikarp,129,1,1,1,10,40,,0,Common,1,1,Old Rod
+Tanoby Ruins,Mantine,226,1,1,1,10,40,,0,Uncommon,0,0,
+Tanoby Ruins,Mantine,226,1,1,1,10,40,,0,Uncommon,0,0,
+Tanoby Ruins,Psyduck,54,1,0,0,10,40,,0,Common,1,1,Super Rod
+Tanoby Ruins,Remoraid,223,0,1,0,10,40,,0,Uncommon,1,1,Super Rod
+Tanoby Ruins,Seadra,117,1,1,1,10,40,,0,Uncommon,1,1,Super Rod
+Tanoby Ruins,Slowpoke,79,1,1,0,10,40,,0,Common,1,1,Super Rod
+Tanoby Ruins,Tentacool,72,1,1,1,10,40,,0,Common,0,0,
+Tanoby Ruins,Tentacruel,73,1,1,1,10,40,,0,Uncommon,0,0,
+Tohjo Falls,Goldeen,118,1,1,1,42,46,,0,Common,1,0,Old Rod
+Tohjo Falls,Magikarp,129,1,1,1,42,46,,0,Common,1,0,Old Rod
+Tohjo Falls,Seaking,119,1,1,1,42,46,,0,Common,1,0,Old Rod
+Trainer Tower,Horsea,116,0,0,1,12,42,Dragon Scale,0,Common,1,0,Good Rod
+Trainer Tower,Krabby,98,1,1,1,12,42,,0,Common,1,0,Old Rod
+Trainer Tower,Magikarp,129,1,1,1,12,42,,0,Common,1,0,Old Rod
+Trainer Tower,Mantine,226,1,1,1,12,42,,0,Uncommon,1,0,Super Rod
+Trainer Tower,Qwilfish,211,1,0,1,12,42,,0,Uncommon,1,0,Super Rod
+Trainer Tower,Seadra,117,0,0,1,12,42,,0,Uncommon,1,0,Super Rod
+Trainer Tower,Tentacool,72,1,1,1,12,42,,0,Common,1,0,Old Rod
+Trainer Tower,Tentacruel,73,1,1,1,12,42,,0,Common,1,0,Super Rod
+Trainers Valley,Binacle,688,1,1,1,30,32,Kee Berry,1,Rare,1,0,Super Rod
+Trainers Valley,Buizel,418,1,1,1,30,32,Wacan Berry,0,Uncommon,1,0,Good Rod
+Trainers Valley,Chinchou,170,1,1,1,30,32,Apicot Berry,0,Common,1,0,Old Rod
+Trainers Valley,Corsola,222,1,1,1,30,32,Hard Stone,0,Uncommon,1,0,Good Rod
+Trainers Valley,Ducklett,580,1,1,1,30,32,,0,Uncommon,1,0,Good Rod
+Trainers Valley,Magikarp,129,1,1,1,30,32,,0,Common,1,0,Old Rod
+Trainers Valley,Shellder,90,1,1,1,30,32,,0,Uncommon,1,0,Super Rod
+Treasure Beach,Frillish,592,1,1,1,34,38,,0,Rare,1,1,Super Rod
+Treasure Beach,Gyarados,130,1,1,1,34,38,,0,Uncommon,1,1,Super Rod
+Treasure Beach,Horsea,116,1,1,1,34,38,Dragon Scale,0,Common,1,1,Good Rod
+Treasure Beach,Kingler,99,1,1,1,34,38,,0,Common,1,0,Super Rod
+Treasure Beach,Krabby,98,1,1,1,34,38,,0,Common,1,0,Good Rod
+Treasure Beach,Magikarp,129,0,0,1,34,38,,0,Common,1,1,Old Rod
+Treasure Beach,Psyduck,54,1,1,0,34,38,,0,Common,1,0,Good Rod
+Treasure Beach,Seadra,117,1,1,1,34,38,,0,Uncommon,1,1,Super Rod
+Treasure Beach,Tentacool,72,1,1,1,34,38,,0,Common,1,0,Old Rod
+Treasure Beach,Tentacruel,73,1,1,1,34,38,,0,Common,1,0,Super Rod
+Union Cave 1F,Goldeen,118,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave 1F,Magikarp,129,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave 1F,Quagsire,195,0,0,1,8,10,,0,Common,1,0,Old Rod
+Union Cave 1F,Seaking,119,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave 1F,Wooper,194,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave B1F,Goldeen,118,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave B1F,Krabby,98,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave B1F,Magikarp,129,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave B1F,Quagsire,195,0,0,1,8,10,,0,Common,1,0,Good Rod
+Union Cave B1F,Wooper,194,1,1,1,8,10,,0,Common,1,0,Old Rod
+Union Cave B2F,Corsola,222,1,1,1,6,10,,0,Uncommon,1,1,Super Rod
+Union Cave B2F,Goldeen,118,1,1,1,6,10,,0,Common,1,1,Good Rod
+Union Cave B2F,Kingler,99,1,1,1,6,10,,0,Common,1,1,Super Rod
+Union Cave B2F,Krabby,98,1,1,1,6,10,,0,Common,1,0,Old Rod
+Union Cave B2F,Lapras,131,1,1,1,11,15,,0,Rare,1,0,Super Rod
+Union Cave B2F,Magikarp,129,1,1,1,6,10,,0,Common,1,1,Old Rod
+Union Cave B2F,Quagsire,195,0,0,1,6,10,,0,Common,1,0,Super Rod
+Union Cave B2F,Staryu,120,1,1,1,6,10,,0,Uncommon,1,1,Super Rod
+Union Cave B2F,Wooper,194,1,1,1,6,10,,0,Common,1,0,Old Rod
+Unknown Place,Golduck,55,1,1,1,30,32,,0,Common,0,0,
+Unknown Place,Jynx,124,1,1,1,30,32,Aspear Berry,0,Rare,0,0,
+Unknown Place,Lapras,131,1,1,1,26,26,,0,Rare,0,0,
+Unknown Place,Psyduck,54,1,1,1,30,32,,0,Common,0,0,
+Unknown Place,Seel,86,1,1,1,30,32,Aspear Berry,0,Common,0,0,
+Unknown Place,Spheal,363,1,1,1,30,32,,0,Uncommon,0,0,
+Unknown Place,Vanillite,582,1,1,1,30,32,Never-Melt Ice,1,Rare,0,0,
+Valley Windworks,Finneon,456,1,1,1,20,35,,0,Uncommon,1,0,Super Rod
+Valley Windworks,Gastrodon,423,1,1,1,20,35,,0,Rare,0,0,
+Valley Windworks,Gyarados,130,1,1,1,20,35,,0,Uncommon,1,0,Super Rod
+Valley Windworks,Magikarp,129,1,1,1,20,35,,0,Common,1,0,Old Rod
+Valley Windworks,Pelipper,279,1,1,1,20,35,,0,Uncommon,0,0,
+Valley Windworks,Shellder,90,1,1,1,20,35,,0,Uncommon,1,0,Super Rod
+Valley Windworks,Shellos,422,1,1,1,20,35,,0,Rare,0,0,
+Valley Windworks,Tentacool,72,1,1,1,20,35,,0,Common,1,0,Old Rod
+Valley Windworks,Tentacruel,73,1,1,1,20,35,,0,Uncommon,1,0,Super Rod
+Valley Windworks,Wingull,278,1,1,1,20,35,,0,Common,0,0,
+Vermilion City,Gyarados,130,1,1,1,13,18,,0,Common,1,1,Super Rod
+Vermilion City,Horsea,116,1,1,1,13,18,Dragon Scale,0,Common,1,1,Good Rod
+Vermilion City,Krabby,98,1,1,1,13,18,,0,Common,1,1,Old Rod
+Vermilion City,Magikarp,129,1,1,1,13,18,,0,Common,1,1,Old Rod
+Vermilion City,Poliwag,60,0,0,1,13,18,Kings Rock,0,Common,1,0,Good Rod
+Vermilion City,Psyduck,54,1,1,0,13,18,,0,Common,1,1,Old Rod
+Vermilion City,Slowpoke,79,1,1,1,13,18,,0,Common,1,1,Good Rod
+Vermilion City,Squirtle,7,1,1,1,13,18,,0,Rare,1,0,Super Rod
+Vermilion City,Staryu,120,0,0,1,13,18,,1,Uncommon,1,1,Super Rod
+Vermilion City,Tentacool,72,1,1,1,13,18,,0,Common,1,0,Old Rod
+Vermilion City,Tentacruel,73,1,1,1,13,18,,0,Common,1,0,Super Rod
+Victory Road Hoenn B2F,Barboach,339,1,1,1,42,48,,0,Uncommon,0,0,
+Victory Road Hoenn B2F,Golbat,42,1,1,1,42,48,,0,Common,0,0,
+Victory Road Hoenn B2F,Goldeen,118,1,1,1,42,48,,0,Common,0,0,
+Victory Road Hoenn B2F,Luvdisc,370,1,1,1,42,48,,0,Uncommon,0,0,
+Victory Road Hoenn B2F,Magikarp,129,1,1,1,42,48,,0,Common,0,0,
+Victory Road Hoenn B2F,Tentacool,72,1,1,1,42,48,,0,Common,0,0,
+Victory Road Hoenn B2F,Tentacruel,73,1,1,1,42,48,,0,Common,0,0,
+Victory Road Hoenn B2F,Wailmer,320,1,1,1,42,48,,0,Uncommon,0,0,
+Victory Road Hoenn B2F,Whiscash,340,1,1,1,42,48,,0,Rare,0,0,
+Victory Road Hoenn B2F,Zubat,41,1,1,1,42,48,,0,Common,0,0,
+Violet City,Magikarp,129,1,1,1,10,14,,0,Common,1,1,Old Rod
+Violet City,Poliwag,60,1,0,1,10,14,Kings Rock,0,Common,1,1,Good Rod
+Violet City,Poliwhirl,61,0,0,1,10,14,Kings Rock,0,Uncommon,1,1,Super Rod
+Violet City,Whiscash,340,1,0,0,10,14,,0,Rare,1,1,Super Rod
+Violet City,Wooper,194,1,0,1,10,14,,0,Common,1,1,Good Rod
+Viridian City,Magikarp,129,1,1,1,5,5,,0,Common,1,0,Old Rod
+Viridian City,Poliwag,60,0,0,1,10,15,Kings Rock,0,Common,1,0,Good Rod
+Viridian City,Poliwhirl,61,0,0,1,13,18,Kings Rock,0,Uncommon,1,1,Super Rod
+Viridian City,Psyduck,54,1,1,1,10,15,,0,Common,1,1,Super Rod
+Viridian City,Slowpoke,79,1,1,0,10,15,,0,Common,1,1,Super Rod
+Viridian City,Tentacool,72,1,1,1,10,15,,0,Common,1,1,Old Rod
+Vulcan Cave B2F,Frillish,592,1,1,1,36,40,,0,Rare,1,0,Super Rod
+Vulcan Cave B2F,Horsea,116,1,1,1,36,40,Dragon Scale,0,Common,1,0,Old Rod
+Vulcan Cave B2F,Lapras,131,1,1,1,22,26,,0,Rare,1,0,Super Rod
+Vulcan Cave B2F,Octillery,224,1,1,1,36,40,Starf Berry,0,Uncommon,1,0,Good Rod
+Vulcan Cave B2F,Pelipper,279,1,1,1,36,40,,0,Common,1,0,Old Rod
+Vulcan Cave B2F,Qwilfish,211,1,1,1,36,40,Poison Barb,0,Uncommon,1,0,Good Rod
+Vulcan Cave B2F,Remoraid,223,1,1,1,36,40,Starf Berry,0,Uncommon,1,0,Old Rod
+Vulcan Cave B2F,Wingull,278,1,1,1,36,40,,0,Common,1,0,Old Rod
+Vulcan Cove,Clauncher,692,1,1,1,34,38,Mystic Water,0,Rare,0,0,
+Vulcan Cove,Finneon,456,1,1,1,34,38,Rindo Berry,0,Uncommon,0,0,
+Vulcan Cove,Frillish,592,1,1,1,34,38,,0,Rare,0,0,
+Vulcan Cove,Mantyke,458,1,1,1,22,26,,0,Uncommon,0,0,
+Vulcan Cove,Pelipper,279,1,1,1,34,38,,0,Common,0,0,
+Vulcan Cove,Slowpoke,79,1,1,1,34,38,Lagging Tail,0,Common,0,0,
+Vulcan Cove,Staryu,120,1,1,1,34,38,Water Stone,0,Rare,0,0,
+Vulcan Cove,Tentacool,72,1,1,1,34,38,Poison Barb,0,Common,0,0,
+Vulcan Cove,Wingull,278,1,1,1,34,38,,0,Common,0,0,
+Vulcan Island Shore,Buizel,418,1,1,1,32,36,Wacan Berry,0,Uncommon,1,0,Good Rod
+Vulcan Island Shore,Clamperl,366,1,1,1,36,40,Pearl,0,Uncommon,1,0,Old Rod
+Vulcan Island Shore,Horsea,116,1,1,1,36,40,Dragon Scale,0,Common,1,0,Old Rod
+Vulcan Island Shore,Octillery,224,1,1,1,36,40,Starf Berry,0,Uncommon,1,0,Super Rod
+Vulcan Island Shore,Remoraid,223,1,1,1,36,40,Starf Berry,0,Uncommon,1,0,Good Rod
+Vulcan Island Shore,Squirtle,7,1,1,1,36,40,,0,Rare,1,0,Super Rod
+Vulcan Island Shore,Tentacool,72,1,1,1,36,40,Poison Barb,0,Common,1,0,Old Rod
+Vulcan Island Shore,Wingull,278,1,1,1,36,40,,0,Common,1,0,Old Rod
+Wastelands,Alomomola,594,1,1,1,25,31,,0,Rare,0,0,
+Wastelands,Carvanha,318,1,1,1,25,31,,0,Uncommon,0,0,
+Wastelands,Finneon,456,1,1,1,25,31,,0,Uncommon,0,0,
+Wastelands,Lumineon,457,1,1,1,25,31,,0,Uncommon,0,0,
+Wastelands,Magikarp,129,1,1,1,25,31,,0,Common,0,0,
+Wastelands,Seel,86,1,1,1,25,31,,0,Common,0,0,
+Water Labyrinth,Goldeen,118,1,1,1,10,20,,0,Common,1,0,Good Rod
+Water Labyrinth,Gyarados,130,1,1,1,20,30,,1,Uncommon,1,1,Super Rod
+Water Labyrinth,Hoppip,187,0,1,0,10,20,,1,Common,0,0,
+Water Labyrinth,Horsea,116,1,1,1,10,20,Dragon Scale,1,Common,1,0,Super Rod
+Water Labyrinth,Magikarp,129,1,1,1,10,20,,1,Common,1,1,Old Rod
+Water Labyrinth,Psyduck,54,1,0,0,20,30,,1,Common,1,0,Good Rod
+Water Labyrinth,Shellder,90,0,1,0,15,25,,1,Uncommon,1,1,Super Rod
+Water Labyrinth,Tentacool,72,1,1,1,10,20,,1,Common,1,0,Old Rod
+Water Labyrinth,Tentacruel,73,1,1,1,29,39,,1,Common,1,0,Super Rod
+Water Path,Gyarados,130,1,1,1,40,44,,1,Common,1,1,Good Rod
+Water Path,Kingler,99,1,1,1,40,44,,0,Common,1,0,Super Rod
+Water Path,Krabby,98,1,1,1,40,44,,0,Common,1,0,Old Rod
+Water Path,Qwilfish,211,1,1,1,40,44,,1,Uncommon,1,1,Super Rod
+Water Path,Remoraid,223,1,1,1,40,44,,1,Uncommon,1,1,Super Rod
+Water Path,Seadra,117,1,1,1,40,44,,1,Uncommon,1,0,Super Rod
+Water Path,Tentacool,72,1,1,1,40,44,,1,Common,1,0,Old Rod
+Water Path,Tentacruel,73,1,1,1,40,44,,1,Common,1,0,Super Rod
+Whirl Islands 1F,Horsea,116,1,1,1,22,24,Dragon Scale,0,Common,1,0,Old Rod
+Whirl Islands 1F,Krabby,98,1,1,1,22,24,,0,Common,1,0,Old Rod
+Whirl Islands 1F,Seadra,117,1,1,1,22,24,,0,Uncommon,1,0,Good Rod
+Whirl Islands 1F,Tentacool,72,1,1,1,22,24,,0,Common,1,0,Old Rod
+Whirl Islands 1F,Tentacruel,73,1,1,1,22,24,,0,Common,1,0,Super Rod
+Whirl Islands 1F Northeast,Horsea,116,1,1,1,23,27,Dragon Scale,0,Common,1,0,Super Rod
+Whirl Islands 1F Northeast,Krabby,98,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Northeast,Seadra,117,1,1,1,23,27,,0,Uncommon,1,0,Super Rod
+Whirl Islands 1F Northeast,Tentacool,72,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Northeast,Tentacruel,73,1,1,1,23,27,,0,Common,1,0,Super Rod
+Whirl Islands 1F Southeast,Horsea,116,1,1,1,23,27,Dragon Scale,0,Common,1,0,Good Rod
+Whirl Islands 1F Southeast,Krabby,98,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Southeast,Seadra,117,1,1,1,23,27,,0,Uncommon,1,0,Super Rod
+Whirl Islands 1F Southeast,Tentacool,72,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Southeast,Tentacruel,73,1,1,1,23,27,,0,Common,1,0,Super Rod
+Whirl Islands 1F Southwest,Horsea,116,1,1,1,23,27,Dragon Scale,0,Common,1,0,Super Rod
+Whirl Islands 1F Southwest,Krabby,98,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Southwest,Seadra,117,1,1,1,23,27,,0,Uncommon,1,0,Super Rod
+Whirl Islands 1F Southwest,Tentacool,72,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands 1F Southwest,Tentacruel,73,1,1,1,23,27,,0,Common,1,0,Super Rod
+Whirl Islands B2F,Horsea,116,1,1,1,23,27,Dragon Scale,0,Common,1,0,Good Rod
+Whirl Islands B2F,Kingler,99,1,1,1,23,27,,0,Common,1,0,Super Rod
+Whirl Islands B2F,Krabby,98,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands B2F,Seadra,117,1,1,1,23,27,,0,Uncommon,1,0,Super Rod
+Whirl Islands B2F,Tentacool,72,1,1,1,23,27,,0,Common,1,0,Old Rod
+Whirl Islands B2F,Tentacruel,73,1,1,1,23,27,,0,Common,1,0,Super Rod
+Whoville,Azurill,298,1,1,1,25,31,,0,Rare,0,0,
+Whoville,Marill,183,1,1,1,25,31,,0,Uncommon,0,0,
+Whoville,Psyduck,54,1,1,1,25,31,,0,Common,0,0,
+Whoville,Shellder,90,1,1,1,25,31,Shell Bell,0,Uncommon,0,0,
+Whoville,Slowpoke,79,1,1,1,25,31,Lagging Tail,0,Common,0,0,
+Whoville,Spheal,363,1,1,1,25,31,,0,Uncommon,0,0,
+Whoville,Tentacool,72,1,1,1,25,31,Poison Barb,0,Common,0,0,

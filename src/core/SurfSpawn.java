@@ -1,26 +1,30 @@
 package core;
 
-public class SurfSpawn extends LandSpawn {
-	private String rod;
-	private boolean fishOnly, surfOnly;
+import enums.Tier;
+
+public class SurfSpawn extends Spawn {
 	
-	public SurfSpawn(String route, String pokemon, int tier, boolean ms, String item, int minLvl, int maxLvl, String rod, boolean fishOnly, boolean surfOnly, int[] time) {
-		super(route, pokemon, tier, ms, item, minLvl, maxLvl, time);
-		this.rod = rod;
-		this.fishOnly = fishOnly;
-		this.surfOnly = surfOnly;
+	private boolean fishing, fishingOnly;
+	private String requiredRod;
+	
+	public SurfSpawn(String map, String pokemon, int dexID, int[] daytime, int minLvl, int maxLvl, String item, 
+			boolean memberOnly, Tier tier, boolean fishing, boolean fishingOnly, String requiredRod) {
+		super(map, pokemon, dexID, daytime, minLvl, maxLvl, item, memberOnly, tier);
+		this.fishing = fishing;
+		this.fishingOnly = fishingOnly;
+		this.requiredRod = requiredRod;
 	}
 
-	public String getRod() {
-		return rod;
+	public boolean isFishing() {
+		return fishing;
 	}
 
-	public boolean isFishOnly() {
-		return fishOnly;
+	public boolean isFishingOnly() {
+		return fishingOnly;
 	}
 
-	public boolean isSurfOnly() {
-		return surfOnly;
+	public String getRequiredRod() {
+		return requiredRod;
 	}
 
 }

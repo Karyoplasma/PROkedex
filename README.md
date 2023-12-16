@@ -7,6 +7,7 @@ To those: the new main you should use is in PROkedexGUI.java (capitalization), c
 Enjoy.
 
 Original readme:
+
 A simple spawn parser for PRO. Just wrote it because Reborn is down.
 
 Searches for spawns of Pokemon either via area name or Pokemon name. Halfway passable repel trick filter is also available, but it currently doesn't understand multi-repel spawns (such as Pinsir/Scyther in Safari Area 1). Hey, my QA was me using it for about 2 hours and it always did what I wanted it to, so there's that.

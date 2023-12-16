@@ -1,10 +1,8 @@
 package enums;
 
 public enum Tier {
-	COMMON,
-	UNCOMMON,
-	RARE;
-	
+	COMMON, UNCOMMON, RARE;
+
 	@Override
 	public String toString() {
 		StringBuffer buffer = new StringBuffer();

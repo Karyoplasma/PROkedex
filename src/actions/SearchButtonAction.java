@@ -16,6 +16,7 @@ import javax.swing.table.TableModel;
 
 import comparator.SpawnRarityComparator;
 import core.DistanceResult;
+import core.RepelChecker;
 import core.Spawn;
 import core.SpawnManager;
 import enums.RequestType;
@@ -26,16 +27,16 @@ import models.MapTableModel;
 import models.PokemonTableModel;
 
 public class SearchButtonAction extends AbstractAction {
-	
+
 	private static final long serialVersionUID = -8429157178554651708L;
 
 	private PROkedexGUI gui;
-	
+
 	public SearchButtonAction(PROkedexGUI gui) {
 		putValue(Action.NAME, "Search");
 		this.gui = gui;
 	}
-	
+
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		String request = gui.getTextFieldPokemon().getText().trim();
@@ -48,7 +49,7 @@ public class SearchButtonAction extends AbstractAction {
 				type = RequestType.ITEM;
 			}
 		}
-		
+
 		if (!request.isEmpty()) {
 			request = this.spellCheckRequest(request, type);
 			this.search(request, type);
@@ -60,31 +61,38 @@ public class SearchButtonAction extends AbstractAction {
 		if (dictionary.contains(request)) {
 			return request;
 		}
-		List<DistanceResult> spellcheckResults = gui.getSpellChecker().compareWithLevenshteinDistance(request, dictionary);
-		if (gui.getSpellChecker().getResultsWithSmallerDistanceThan(spellcheckResults, spellcheckResults.get(0).getDistance() + 1).size() == 1) {
+		List<DistanceResult> spellcheckResults = gui.getSpellChecker().compareWithLevenshteinDistance(request,
+				dictionary);
+		if (spellcheckResults.isEmpty()) {
+			return null;
+		}
+		if (gui.getSpellChecker()
+				.getResultsWithSmallerDistanceThan(spellcheckResults, spellcheckResults.get(0).getDistance() + 1)
+				.size() == 1) {
 			return spellcheckResults.get(0).getWord();
 		}
-		this.presentSpellcheckResults(gui.getSpellChecker().getResultsWithSmallerDistanceThan(spellcheckResults, this.getSpellcheckCutoff(type)));
+		this.presentSpellcheckResults(gui.getSpellChecker().getResultsWithSmallerDistanceThan(spellcheckResults,
+				this.getSpellcheckCutoff(type)));
 		return null;
 	}
 
 	private int getSpellcheckCutoff(RequestType type) {
 		switch (type) {
-			case POKEMON:
-				return 5;
-			case MAP:
-				return 7;
-			case ITEM:
-				return 5;
-			default:
-				return 0;
+		case POKEMON:
+			return 5;
+		case MAP:
+			return 7;
+		case ITEM:
+			return 5;
+		default:
+			return 0;
 		}
 	}
 
 	private void presentSpellcheckResults(List<DistanceResult> spellcheckResults) {
 		CorrectionTableModel newModel = new CorrectionTableModel(spellcheckResults);
 		this.attachModel(newModel);
-		gui.setLabel("Did you mean any of these:");		
+		gui.setLabel("Did you mean any of these:");
 	}
 
 	private void search(String request, RequestType type) {
@@ -94,17 +102,17 @@ public class SearchButtonAction extends AbstractAction {
 		List<Spawn> results;
 		SpawnManager spawnManager = new SpawnManager(gui.getAllSpawns());
 		switch (type) {
-			case POKEMON:
-				results = spawnManager.filterByPokemon(request);
-				break;
-			case MAP:
-				results = spawnManager.filterByMap(request);
-				break;
-			case ITEM:
-				results = spawnManager.filterByItem(request);
-				break;
-			default:
-				results = new ArrayList<Spawn>();
+		case POKEMON:
+			results = spawnManager.filterByPokemon(request);
+			break;
+		case MAP:
+			results = spawnManager.filterByMap(request);
+			break;
+		case ITEM:
+			results = spawnManager.filterByItem(request);
+			break;
+		default:
+			results = new ArrayList<Spawn>();
 		}
 		if (gui.filterMemberOnly()) {
 			spawnManager = new SpawnManager(results);
@@ -115,9 +123,10 @@ public class SearchButtonAction extends AbstractAction {
 			results = spawnManager.filterFishingOnly();
 		}
 		if (type.equals(RequestType.POKEMON) && gui.getFilterRepel()) {
-			System.out.println("Implement the repel check!!!");
+			RepelChecker repelChecker = new RepelChecker(gui.getAllSpawns());
+			results = repelChecker.checkRepel(request, results);
 		}
-		
+
 		TableModel newModel = this.getResultTableModel(results, type);
 		this.attachModel(newModel);
 		gui.setLabel("Results for " + request + ":");
@@ -138,29 +147,29 @@ public class SearchButtonAction extends AbstractAction {
 		tableSpawns.addAll(landSpawns);
 		tableSpawns.addAll(surfSpawns);
 		switch (type) {
-			case POKEMON:
-				return new PokemonTableModel(tableSpawns);
-			case MAP:
-				return new MapTableModel(tableSpawns);
-			case ITEM:
-				return new ItemTableModel(tableSpawns);			
-			default:
-				return null;	
+		case POKEMON:
+			return new PokemonTableModel(tableSpawns);
+		case MAP:
+			return new MapTableModel(tableSpawns);
+		case ITEM:
+			return new ItemTableModel(tableSpawns);
+		default:
+			return null;
 		}
 	}
-	
+
 	private void resizeColumnWidth(JTable table) {
-	    final TableColumnModel columnModel = table.getColumnModel();
-	    for (int column = 0; column < table.getColumnCount(); column++) {
-	        int width = 15; // Min width
-	        for (int row = 0; row < table.getRowCount(); row++) {
-	            TableCellRenderer renderer = table.getCellRenderer(row, column);
-	            Component comp = table.prepareRenderer(renderer, row, column);
-	            width = Math.max(comp.getPreferredSize().width +1 , width);
-	        }
-	        if(width > 400)
-	            width=400; // Max width
-	        columnModel.getColumn(column).setPreferredWidth(width);
-	    }
+		final TableColumnModel columnModel = table.getColumnModel();
+		for (int column = 0; column < table.getColumnCount(); column++) {
+			int width = 15; // Min width
+			for (int row = 0; row < table.getRowCount(); row++) {
+				TableCellRenderer renderer = table.getCellRenderer(row, column);
+				Component comp = table.prepareRenderer(renderer, row, column);
+				width = Math.max(comp.getPreferredSize().width + 1, width);
+			}
+			if (width > 400)
+				width = 400; // Max width
+			columnModel.getColumn(column).setPreferredWidth(width);
+		}
 	}
 }

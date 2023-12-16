@@ -12,27 +12,30 @@ import enums.Tier;
 public class SpawnDumpReader {
 
 	private SpawnDumpReader() {
-		
+
 	}
-	
-	public static List<Spawn> getAllLandSpawns(){
+
+	public static List<Spawn> getAllLandSpawns() {
 		List<Spawn> spawns = new ArrayList<Spawn>();
 		File landSpawnDumpfile = new File("resources/land_spawns.csv");
 		if (!landSpawnDumpfile.exists()) {
-			return null;
+			return spawns;
 		}
-		
+
 		try {
 			BufferedReader reader = new BufferedReader(new FileReader(landSpawnDumpfile));
 			String in = reader.readLine();
 			while ((in = reader.readLine()) != null) {
 				String[] inSplit = in.split(",");
-				int[] daytime = new int[] {Integer.parseInt(inSplit[3]),Integer.parseInt(inSplit[4]),Integer.parseInt(inSplit[5])};
+				int[] daytime = new int[] { Integer.parseInt(inSplit[3]), Integer.parseInt(inSplit[4]),
+						Integer.parseInt(inSplit[5]) };
 				boolean memberOnly = false;
 				if (Integer.parseInt(inSplit[9]) == 1) {
 					memberOnly = true;
 				}
-				spawns.add(new Spawn(inSplit[0], inSplit[1], Integer.parseInt(inSplit[2]), daytime , Integer.parseInt(inSplit[6]), Integer.parseInt(inSplit[7]), inSplit[8], memberOnly, getTier(inSplit[10])));
+				spawns.add(new Spawn(inSplit[0], inSplit[1], Integer.parseInt(inSplit[2]), daytime,
+						Integer.parseInt(inSplit[6]), Integer.parseInt(inSplit[7]), inSplit[8], memberOnly,
+						getTier(inSplit[10])));
 			}
 			reader.close();
 		} catch (IOException e) {
@@ -42,20 +45,21 @@ public class SpawnDumpReader {
 		}
 		return spawns;
 	}
-	
-	public static List<SurfSpawn> getAllSurfSpawns(){
+
+	public static List<SurfSpawn> getAllSurfSpawns() {
 		List<SurfSpawn> spawns = new ArrayList<SurfSpawn>();
 		File landSpawnDumpfile = new File("resources/surf_spawns.csv");
 		if (!landSpawnDumpfile.exists()) {
-			return null;
+			return spawns;
 		}
-		
+
 		try {
 			BufferedReader reader = new BufferedReader(new FileReader(landSpawnDumpfile));
 			String in = reader.readLine();
 			while ((in = reader.readLine()) != null) {
 				String[] inSplit = in.split(",");
-				int[] daytime = new int[] {Integer.parseInt(inSplit[3]),Integer.parseInt(inSplit[4]),Integer.parseInt(inSplit[5])};
+				int[] daytime = new int[] { Integer.parseInt(inSplit[3]), Integer.parseInt(inSplit[4]),
+						Integer.parseInt(inSplit[5]) };
 				boolean memberOnly = false;
 				if (Integer.parseInt(inSplit[9]) == 1) {
 					memberOnly = true;
@@ -72,7 +76,9 @@ public class SpawnDumpReader {
 				if (inSplit.length == 14) {
 					fishingRod = inSplit[13];
 				}
-				spawns.add(new SurfSpawn(inSplit[0], inSplit[1], Integer.parseInt(inSplit[2]), daytime , Integer.parseInt(inSplit[6]), Integer.parseInt(inSplit[7]), inSplit[8], memberOnly, getTier(inSplit[10]), fishing, fishingOnly, fishingRod));
+				spawns.add(new SurfSpawn(inSplit[0], inSplit[1], Integer.parseInt(inSplit[2]), daytime,
+						Integer.parseInt(inSplit[6]), Integer.parseInt(inSplit[7]), inSplit[8], memberOnly,
+						getTier(inSplit[10]), fishing, fishingOnly, fishingRod));
 			}
 			reader.close();
 		} catch (IOException e) {
@@ -82,7 +88,7 @@ public class SpawnDumpReader {
 		}
 		return spawns;
 	}
-	
+
 	private static Tier getTier(String tierString) {
 		if (tierString.equalsIgnoreCase("Common")) {
 			return Tier.COMMON;

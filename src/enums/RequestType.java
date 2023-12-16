@@ -1,7 +1,5 @@
 package enums;
 
 public enum RequestType {
-	POKEMON,
-	MAP,
-	ITEM;
+	POKEMON, MAP, ITEM;
 }

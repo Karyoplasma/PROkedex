@@ -1,12 +1,24 @@
 # PROkedex
-2023 Update:
-Pretty much completely rewrote everything. Better Spellchecker, better presentation of results, better GUI management, less annoying bugs, way more readable and maintainable, finally using Java8 standard methods. I'm not completely done since the repel check is not implemented yet, but it's still a huge update. Once I get around making a new repel check (the old one was iffy as heck, so I would want to do a completely new one), I will make a new release. Until that point, consider this a preview for the peeps that are building it themselves.
 
-To those: the new main you should use is in PROkedexGUI.java (capitalization), consider every class that hasn't been updated as deprecated. Due to the heavy refactoring, the new classes are NOT compatible with the old ones, so import as a new project if you want to keep the old version because of some changes you made. By this point, the old version is pretty much useless since the spawns changed so much and the old one (by the way foolishly) relied on the T1-T9 system to work. Turns out, it was never super accurate anyway.
+## 2023 Update:
+
+Pretty much completely rewrote everything. The old version is pretty useless by now because so many spawns changed and it doesn't work with the new spawn dump structure, so there is no feasible way to update the spawn database.
+
+The spawn chance predictions are gone because the new spawn dumps don't provide the information required for it to work. It was more guesswork than provably correct in the first place.
+
+### Feature changes:
+
++ Better Spellchecker: The old one had some annoying bugs, this one should work more reliably and less intrusively.
++ Better presentation of results: No more issues with spacing!
++ Better GUI: You can resize the application window now without breaking everything. Also, right-clicking in the result table opens a pop-up menu that lets you copy or directly search for what's below.
++ Better repel check: The old one was very unreliable, so wrote a new one from scratch. It should be more accurate and less prone to breaking.
++ Better maintainability: If you are modifying and building this app yourself, you will find that the new structure is way more intuitive. The GUI now actually only does GUI stuff instead of being a band-aid for everything. ActionEvents are handled by different classes, so there is no overlap in functionality.
++ Better internals: Finally using Java8 standard methods instead of relying on very old ones.
++ Better updates: You can keep the spawn dumps and the files that depend on it updated by letting the app handle all the downloading and replacing. Don't worry about flooding PRO's servers, the routine makes sure that an update is reasonable before connecting to the http-server.
 
 Enjoy.
 
-# Original readme:
+## Original readme:
 
 A simple spawn parser for PRO. Just wrote it because Reborn is down.
 

@@ -8,6 +8,7 @@ import java.util.List;
 
 import org.json.simple.parser.ParseException;
 
+@Deprecated
 public class SpawnChancePredictor {
 
 	private int[] tiersMorning, tiersSurfMorning, tiersDay, tiersSurfDay, tiersNight, tiersSurfNight;

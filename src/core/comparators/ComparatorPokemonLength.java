@@ -3,6 +3,7 @@ package core.comparators;
 import java.util.Comparator;
 import core.Spawn;
 
+@Deprecated
 public class ComparatorPokemonLength implements Comparator<Spawn>{
 
 	@Override

@@ -32,6 +32,7 @@ import javax.swing.JTextArea;
 import javax.swing.AbstractAction;
 import javax.swing.JButton;
 
+@Deprecated
 public class PROkedexGui implements ActionListener {
 
 	private JFrame frmProkedex;

@@ -6,7 +6,7 @@ To those: the new main you should use is in PROkedexGUI.java (capitalization), c
 
 Enjoy.
 
-Original readme:
+# Original readme:
 
 A simple spawn parser for PRO. Just wrote it because Reborn is down.
 

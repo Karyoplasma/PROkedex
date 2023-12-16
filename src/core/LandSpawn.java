@@ -1,5 +1,6 @@
 package core;
 
+@Deprecated
 public class LandSpawn implements Spawn{
 	private String route, pokemon, item;
 	private int tier, maxLvl, minLvl;

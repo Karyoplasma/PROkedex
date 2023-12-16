@@ -19,6 +19,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+@Deprecated
 public class DumpFileReader {
 	private Map<String, Collection<Spawn>> spawnsRoute, spawnsPokemon, spawnsItems;
 	private List<String> allowedRoutes;

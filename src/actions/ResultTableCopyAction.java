@@ -4,6 +4,7 @@ import java.awt.Toolkit;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.ActionEvent;
 import javax.swing.AbstractAction;
+import javax.swing.Action;
 
 public class ResultTableCopyAction extends AbstractAction {
 
@@ -11,7 +12,7 @@ public class ResultTableCopyAction extends AbstractAction {
 	private final String cellValue;
 
 	public ResultTableCopyAction(String cellValue) {
-		super("Copy");
+		putValue(Action.NAME, "Copy");
 		this.cellValue = cellValue;
 	}
 

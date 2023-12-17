@@ -22,8 +22,18 @@ public class ResultTableMouseAdapter extends MouseAdapter {
 
 			if (row >= 0 && column >= 0) {
 				String cellValue = gui.getTableResults().getValueAt(row, column).toString();
+				int columnCount = gui.getTableResults().getColumnCount();
+				StringBuilder rowContent = new StringBuilder();
+
+				for (int i = 0; i < columnCount; i++) {
+					Object cell = gui.getTableResults().getValueAt(row, i);
+					rowContent.append(cell != null ? cell.toString() : "-");
+					if (i < columnCount - 1) {
+						rowContent.append("\t");
+					}
+				}
 				JPopupMenu popupMenu = new JPopupMenu();
-				JMenuItem copyItem = new JMenuItem(new ResultTableCopyAction(cellValue));
+				JMenuItem copyItem = new JMenuItem(new ResultTableCopyAction(rowContent.toString()));
 				JMenuItem searchItem = new JMenuItem(new ResultTableSearchAction(cellValue, gui));
 
 				popupMenu.add(copyItem);

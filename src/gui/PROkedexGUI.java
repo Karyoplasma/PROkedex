@@ -24,6 +24,8 @@ import actions.UpdateSpawnsMenuAction;
 import core.Spawn;
 import core.SpawnDumpReader;
 import core.SpellChecker;
+import models.AlignmentTableCellRenderer;
+
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JMenuBar;
@@ -138,6 +140,7 @@ public class PROkedexGUI {
 
 		tableResults = new JTable();
 		tableResults.addMouseListener(new ResultTableMouseAdapter(this));
+		tableResults.setDefaultRenderer(Object.class, new AlignmentTableCellRenderer());
 		tableResults.setRowSelectionAllowed(false);
 		tableResults.setShowVerticalLines(false);
 		tableResults.setShowHorizontalLines(false);

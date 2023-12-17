@@ -3,6 +3,7 @@ package actions;
 import java.awt.event.ActionEvent;
 
 import javax.swing.AbstractAction;
+import javax.swing.Action;
 
 import enums.RequestType;
 import gui.PROkedexGUI;
@@ -14,7 +15,7 @@ public class ResultTableSearchAction extends AbstractAction {
 	private final PROkedexGUI gui;
 
 	public ResultTableSearchAction(String cellValue, PROkedexGUI gui) {
-		super("Search for " + cellValue);
+		putValue(Action.NAME, "Search for " + cellValue);
 		this.cellValue = cellValue;
 		this.gui = gui;
 	}

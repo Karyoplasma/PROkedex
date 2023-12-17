@@ -11,10 +11,10 @@ The spawn chance predictions are gone because the new spawn dumps don't provide 
 + Better Spellchecker: The old one had some annoying bugs, this one should work more reliably and less intrusively.
 + Better presentation of results: No more issues with spacing!
 + Better GUI: You can resize the application window now without breaking everything. Also, right-clicking in the result table opens a pop-up menu that lets you copy or directly search for what's below.
-+ Better repel check: The old one was very unreliable, so wrote a new one from scratch. It should be more accurate and less prone to breaking.
++ Better repel check: The old one was very unreliable, so wrote a new one from scratch. It should be more accurate and less prone to breaking. It should also work for time-sensitive repel spawns if there are any.
 + Better maintainability: If you are modifying and building this app yourself, you will find that the new structure is way more intuitive. The GUI now actually only does GUI stuff instead of being a band-aid for everything. ActionEvents are handled by different classes, so there is no overlap in functionality.
 + Better internals: Finally using Java8 standard methods instead of relying on very old ones.
-+ Better updates: You can keep the spawn dumps and the files that depend on it updated by letting the app handle all the downloading and replacing. Don't worry about flooding PRO's servers, the routine makes sure that an update is reasonable before connecting to the http-server.
++ Better updating: You can keep the spawn dumps and the files that depend on it updated by letting the app handle all the downloading and replacing. Don't worry about flooding PRO's servers, the routine makes sure that an update is reasonable before connecting to the http-server.
 
 Enjoy.
 

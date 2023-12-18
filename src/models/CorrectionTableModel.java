@@ -1,9 +1,7 @@
 package models;
 
 import java.util.List;
-
 import javax.swing.table.AbstractTableModel;
-
 import core.DistanceResult;
 
 public class CorrectionTableModel extends AbstractTableModel {
@@ -13,6 +11,9 @@ public class CorrectionTableModel extends AbstractTableModel {
 	private final String[] columnNames = { "Suggestion", "Distance" };
 
 	public CorrectionTableModel(List<DistanceResult> corrections) {
+		if (corrections.isEmpty()) {
+			corrections.add(new DistanceResult("Cannot find what you are looking for.", -1));
+		}
 		this.corrections = corrections;
 	}
 
@@ -39,7 +40,7 @@ public class CorrectionTableModel extends AbstractTableModel {
 		case 0:
 			return correction.getWord();
 		case 1:
-			return correction.getDistance();
+			return correction.getDistance() < 0 ? "-" : correction.getDistance();
 		default:
 			return null;
 		}

@@ -10,7 +10,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
-
 import comparator.DistanceComparator;
 import enums.RequestType;
 
@@ -23,6 +22,40 @@ public class SpellChecker {
 		this.mapNames = this.recheckMapNames();
 		this.itemNames = this.recheckItemNames();
 
+	}
+
+	public List<DistanceResult> spellCheckRequest(String request, RequestType type) {
+		List<DistanceResult> spellcheckResults = new ArrayList<DistanceResult>();
+		Set<String> dictionary = this.getDictionary(type);
+
+		if (dictionary.contains(request)) {
+			spellcheckResults.add(new DistanceResult(request, 0));
+			return spellcheckResults;
+		}
+		spellcheckResults = this.compareWithLevenshteinDistance(request, dictionary);
+		if (spellcheckResults.isEmpty()) {
+			return spellcheckResults;
+		}
+		int smallestDistance = spellcheckResults.get(0).getDistance();
+		if (this.getResultsWithSmallerDistanceThan(spellcheckResults, smallestDistance + 1).size() == 1) {
+			List<DistanceResult> ret = new ArrayList<DistanceResult>();
+			ret.add(spellcheckResults.get(0));
+			return ret;
+		}
+		return this.getResultsWithSmallerDistanceThan(spellcheckResults, this.getSpellcheckCutoff(type));
+	}
+
+	private int getSpellcheckCutoff(RequestType type) {
+		switch (type) {
+		case POKEMON:
+			return 6;
+		case MAP:
+			return 8;
+		case ITEM:
+			return 6;
+		default:
+			return 0;
+		}
 	}
 
 	public HashSet<String> getDictionary(RequestType type) {

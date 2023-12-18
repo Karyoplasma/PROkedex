@@ -1,16 +1,18 @@
 package gui;
 
+import java.awt.Component;
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import net.miginfocom.swing.MigLayout;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
-
+import javax.swing.table.TableCellRenderer;
+import javax.swing.table.TableColumnModel;
+import javax.swing.table.TableModel;
 import java.awt.Font;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.List;
-
 import javax.swing.JCheckBox;
 import javax.swing.JComponent;
 import javax.swing.JTextField;
@@ -25,7 +27,6 @@ import core.Spawn;
 import core.SpawnDumpReader;
 import core.SpellChecker;
 import models.AlignmentTableCellRenderer;
-
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JMenuBar;
@@ -225,6 +226,25 @@ public class PROkedexGUI {
 		allSpawns.addAll(SpawnDumpReader.getAllLandSpawns());
 		allSpawns.addAll(SpawnDumpReader.getAllSurfSpawns());
 		this.spellChecker = new SpellChecker();
+	}
 
+	public void attachModel(TableModel newModel) {
+		this.tableResults.setModel(newModel);
+		this.resizeColumnWidth(this.tableResults);
+	}
+
+	private void resizeColumnWidth(JTable table) {
+		final TableColumnModel columnModel = table.getColumnModel();
+		for (int column = 0; column < table.getColumnCount(); column++) {
+			int width = 15; // Min width
+			for (int row = 0; row < table.getRowCount(); row++) {
+				TableCellRenderer renderer = table.getCellRenderer(row, column);
+				Component comp = table.prepareRenderer(renderer, row, column);
+				width = Math.max(comp.getPreferredSize().width + 1, width);
+			}
+			if (width > 400)
+				width = 400; // Max width
+			columnModel.getColumn(column).setPreferredWidth(width);
+		}
 	}
 }

@@ -1,0 +1,8 @@
+.settings
+bin
+*.prefs
+*.class
+miglayout15-swing.jar
+miglayout-src.zip
+!.project
+!.classpath
